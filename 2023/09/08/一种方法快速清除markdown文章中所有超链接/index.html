@@ -19,27 +19,28 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"star0time.github.io","root":"/","images":"/images","scheme":"Pisces","darkmode":false,"version":"8.18.1","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"}}</script><script src="/js/config.js"></script>
 
-    <meta name="description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick">
+    <meta name="description" content="记住这个正则表达式并存起来：\[([^\[\]]+)\]\(([^\(\)]+)\)">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Hello World">
-<meta property="og:url" content="https://star0time.github.io/2023/10/05/hello-world/index.html">
+<meta property="og:title" content="一种方法快速清除markdown文章中所有超链接">
+<meta property="og:url" content="https://star0time.github.io/2023/09/08/%E4%B8%80%E7%A7%8D%E6%96%B9%E6%B3%95%E5%BF%AB%E9%80%9F%E6%B8%85%E9%99%A4markdown%E6%96%87%E7%AB%A0%E4%B8%AD%E6%89%80%E6%9C%89%E8%B6%85%E9%93%BE%E6%8E%A5/index.html">
 <meta property="og:site_name" content="Hexo随想">
-<meta property="og:description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick">
+<meta property="og:description" content="记住这个正则表达式并存起来：\[([^\[\]]+)\]\(([^\(\)]+)\)">
 <meta property="og:locale" content="en_US">
-<meta property="article:published_time" content="2023-10-05T13:19:50.105Z">
-<meta property="article:modified_time" content="2023-10-05T13:19:50.105Z">
+<meta property="article:published_time" content="2023-09-08T15:28:26.000Z">
+<meta property="article:modified_time" content="2023-09-08T15:33:43.773Z">
 <meta property="article:author" content="star time">
+<meta property="article:tag" content="技巧">
 <meta name="twitter:card" content="summary">
 
 
-<link rel="canonical" href="https://star0time.github.io/2023/10/05/hello-world/">
+<link rel="canonical" href="https://star0time.github.io/2023/09/08/%E4%B8%80%E7%A7%8D%E6%96%B9%E6%B3%95%E5%BF%AB%E9%80%9F%E6%B8%85%E9%99%A4markdown%E6%96%87%E7%AB%A0%E4%B8%AD%E6%89%80%E6%9C%89%E8%B6%85%E9%93%BE%E6%8E%A5/">
 
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"https://star0time.github.io/2023/10/05/hello-world/","path":"2023/10/05/hello-world/","title":"Hello World"}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"https://star0time.github.io/2023/09/08/%E4%B8%80%E7%A7%8D%E6%96%B9%E6%B3%95%E5%BF%AB%E9%80%9F%E6%B8%85%E9%99%A4markdown%E6%96%87%E7%AB%A0%E4%B8%AD%E6%89%80%E6%9C%89%E8%B6%85%E9%93%BE%E6%8E%A5/","path":"2023/09/08/一种方法快速清除markdown文章中所有超链接/","title":"一种方法快速清除markdown文章中所有超链接"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>Hello World | Hexo随想</title>
+<title>一种方法快速清除markdown文章中所有超链接 | Hexo随想</title>
   
 
 
@@ -98,7 +99,7 @@
   
   <aside class="sidebar">
 
-    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+    <div class="sidebar-inner sidebar-overview-active">
       <ul class="sidebar-nav">
         <li class="sidebar-nav-toc">
           Table of Contents
@@ -111,7 +112,6 @@
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Quick-Start"><span class="nav-number">1.</span> <span class="nav-text">Quick Start</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Create-a-new-post"><span class="nav-number">1.1.</span> <span class="nav-text">Create a new post</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Run-server"><span class="nav-number">1.2.</span> <span class="nav-text">Run server</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Generate-static-files"><span class="nav-number">1.3.</span> <span class="nav-text">Generate static files</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Deploy-to-remote-sites"><span class="nav-number">1.4.</span> <span class="nav-text">Deploy to remote sites</span></a></li></ol></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -162,7 +162,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="en">
-    <link itemprop="mainEntityOfPage" href="https://star0time.github.io/2023/10/05/hello-world/">
+    <link itemprop="mainEntityOfPage" href="https://star0time.github.io/2023/09/08/%E4%B8%80%E7%A7%8D%E6%96%B9%E6%B3%95%E5%BF%AB%E9%80%9F%E6%B8%85%E9%99%A4markdown%E6%96%87%E7%AB%A0%E4%B8%AD%E6%89%80%E6%9C%89%E8%B6%85%E9%93%BE%E6%8E%A5/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -175,12 +175,12 @@
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="Hello World | Hexo随想">
+      <meta itemprop="name" content="一种方法快速清除markdown文章中所有超链接 | Hexo随想">
       <meta itemprop="description" content="">
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          Hello World
+          一种方法快速清除markdown文章中所有超链接
         </h1>
 
         <div class="post-meta-container">
@@ -190,8 +190,18 @@
         <i class="far fa-calendar"></i>
       </span>
       <span class="post-meta-item-text">Posted on</span>
+      
 
-      <time title="Created: 2023-10-05 21:19:50" itemprop="dateCreated datePublished" datetime="2023-10-05T21:19:50+08:00">2023-10-05</time>
+      <time title="Created: 2023-09-08 23:28:26 / Modified: 23:33:43" itemprop="dateCreated datePublished" datetime="2023-09-08T23:28:26+08:00">2023-09-08</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E6%9D%82%E8%B0%88/" itemprop="url" rel="index"><span itemprop="name">杂谈</span></a>
+        </span>
     </span>
 
   
@@ -203,19 +213,48 @@
     
     
     
-    <div class="post-body" itemprop="articleBody"><p>Welcome to <a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a target="_blank" rel="noopener" href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a target="_blank" rel="noopener" href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a target="_blank" rel="noopener" href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+    <div class="post-body" itemprop="articleBody"><blockquote>
+<p>记住这个正则表达式并存起来：\[([^\[\]]+)\]\(([^\(\)]+)\)</p>
+</blockquote>
+<span id="more"></span>
 
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<p>在markdown里替换图片链接的原理，其实和在Word替换文字、删除空格的原理是一样的。这不过这里匹配的这种格式的文本：[显示文本](链接地址)。</p>
+<p>流程：</p>
+<ol>
+<li><p>打开一个支持正则表达式查找和替换的Markdown编辑器（如 Typora、VS Code 等）。</p>
+</li>
+<li><p>打开 Markdown 文件。</p>
+</li>
+<li><p>打开“查找和替换”对话框（通常可以通过按 Ctrl + F 或 Ctrl + H 打开）。</p>
+</li>
+<li><p>选中“使用正则表达式”选项。</p>
+</li>
+<li><p>在查找框中输入这个正则表达式：\[([^\[\]]+)\]\(([^\(\)]+)\)</p>
+</li>
+<li><p>点击“全部替换”，并在“替换为”框中保持为空。</p>
+</li>
+</ol>
+<p>该段正则表达式详细解析（选读）：</p>
+<p>去除 [显示文本](链接地址) 的正则表达式：\[([^\[\]]+)\]\(([^\(\)]+)\)</p>
+<ol>
+<li><p>\[ 和 \]：这两个字符分别匹配方括号 [ 和 ]。因为在正则表达式中，方括号有特殊含义，所以需要在前面加反斜杠 \ 来进行转义。</p>
+</li>
+<li><p>([^\[\]]+)：这个子表达式用于匹配方括号之间的“显示文本”。</p>
+<ul>
+<li><p>[^…]：方括号内的 ^ ，表示“不匹配”方括号内列出的字符。</p>
+</li>
+<li><p>\[\]：因为方括号 [ 和 ] 在正则表达式中有特殊含义，所以需要转义。</p>
+</li>
+<li><p>+：表示前面的字符集（[^\[\]]）出现一次或多次。</p>
+</li>
+</ul>
+</li>
+<li><p>\( 和 \)：这两个字符分别匹配小括号 ( 和 )。和方括号一样，它们在正则表达式中也有特殊含义，因此也需要进行转义。</p>
+</li>
+<li><p>([^\(\)]+)：这个子表达式用于匹配小括号里面的“链接地址”。</p>
+</li>
+</ol>
+<p>以后再遇到类似的匹配问题，直接去查对应的正则表达式（Regular Expression），高效且强大。</p>
 
     </div>
 
@@ -224,16 +263,22 @@
     
 
     <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E6%8A%80%E5%B7%A7/" rel="tag"># 技巧</a>
+          </div>
 
         
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/2023/09/17/It%E2%80%99s-leaf-peeping-season-Avoid-the-crowds-on-these-scenic-drives/" rel="prev" title="It’s leaf-peeping season: Avoid the crowds on these scenic drives">
-                  <i class="fa fa-angle-left"></i> It’s leaf-peeping season: Avoid the crowds on these scenic drives
+                <a href="/2023/09/05/Why-don%E2%80%99t-more-people-go-vegan-It-could-be-the-label/" rel="prev" title="Why don’t more people go vegan? It could be the label.">
+                  <i class="fa fa-angle-left"></i> Why don’t more people go vegan? It could be the label.
                 </a>
             </div>
             <div class="post-nav-item">
+                <a href="/2023/09/08/MacOS%E4%B8%8B%E5%9F%BA%E4%BA%8EGithub%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/" rel="next" title="MacOS下基于Github的Hexo博客搭建">
+                  MacOS下基于Github的Hexo博客搭建 <i class="fa fa-angle-right"></i>
+                </a>
             </div>
           </div>
     </footer>
