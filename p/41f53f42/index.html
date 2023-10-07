@@ -17,17 +17,17 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8=" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
 
-<script class="next-config" data-name="main" type="application/json">{"hostname":"star0time.github.io","root":"/","images":"/images","scheme":"Gemini","darkmode":false,"version":"8.18.1","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":true,"style":"mac"},"fold":{"enable":false,"height":500},"bookmark":{"enable":true,"color":"#f5871f","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":true,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":true,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
+<script class="next-config" data-name="main" type="application/json">{"hostname":"star0time.github.io","root":"/","images":"/images","scheme":"Gemini","darkmode":false,"version":"8.18.1","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":true,"style":"default"},"fold":{"enable":false,"height":500},"bookmark":{"enable":true,"color":"#f5871f","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":true,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":true,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
 
-    <meta name="description" content="内容概览使用arm64 m1&#x2F;m2芯片的mac电脑搭建Hexo博客，在跟着官方文档搭建的过程中，会遇到一些问题，研究重试了好久，现重新将步骤整理如下。">
+    <meta name="description" content="使用arm64 m1&#x2F;m2芯片的mac电脑搭建Hexo博客，在跟着官方文档搭建的过程中，会遇到一些问题，研究重试了好久，现重新将步骤整理如下。">
 <meta property="og:type" content="article">
 <meta property="og:title" content="MacOS下基于Github的Hexo博客搭建">
 <meta property="og:url" content="https://star0time.github.io/p/41f53f42/index.html">
 <meta property="og:site_name" content="随想">
-<meta property="og:description" content="内容概览使用arm64 m1&#x2F;m2芯片的mac电脑搭建Hexo博客，在跟着官方文档搭建的过程中，会遇到一些问题，研究重试了好久，现重新将步骤整理如下。">
+<meta property="og:description" content="使用arm64 m1&#x2F;m2芯片的mac电脑搭建Hexo博客，在跟着官方文档搭建的过程中，会遇到一些问题，研究重试了好久，现重新将步骤整理如下。">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2023-09-08T15:56:26.000Z">
-<meta property="article:modified_time" content="2023-10-06T02:18:28.374Z">
+<meta property="article:modified_time" content="2023-10-07T09:02:49.384Z">
 <meta property="article:author" content="star time">
 <meta property="article:tag" content="技巧">
 <meta name="twitter:card" content="summary">
@@ -139,7 +139,7 @@
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%86%85%E5%AE%B9%E6%A6%82%E8%A7%88"><span class="nav-number">1.</span> <span class="nav-text">内容概览</span></a></li></ol></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#1-Git%E5%AE%89%E8%A3%85"><span class="nav-number"></span> <span class="nav-text">1. Git安装</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#2-%E4%BD%BF%E7%94%A8node%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7nvm%EF%BC%8C%E5%AE%89%E8%A3%85Node-js%E5%92%8Cnpm"><span class="nav-number"></span> <span class="nav-text">2. 使用node版本管理工具nvm，安装Node.js和npm</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#2-1-%E4%B8%8B%E8%BD%BD%E5%92%8C%E5%AE%89%E8%A3%85nvm"><span class="nav-number"></span> <span class="nav-text">2.1 下载和安装nvm</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-2-%E4%BD%BF%E7%94%A8nvm%E5%AE%89%E8%A3%85Node-js%E5%92%8Cnpm"><span class="nav-number"></span> <span class="nav-text">2.2 使用nvm安装Node.js和npm</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#3-Hexo%E5%AE%89%E8%A3%85"><span class="nav-number"></span> <span class="nav-text">3. Hexo安装</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#4-Hexo%E5%88%9D%E5%A7%8B%E5%8C%96"><span class="nav-number"></span> <span class="nav-text">4. Hexo初始化</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#5-%E9%A2%84%E8%A7%88Hexo%E3%80%90%E6%9C%AC%E5%9C%B0%E3%80%91"><span class="nav-number"></span> <span class="nav-text">5. 预览Hexo【本地】</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#6-%E6%8A%8A%E4%BD%A0%E7%9A%84Hexo%E5%8F%91%E5%B8%83%E8%87%B3Github"><span class="nav-number"></span> <span class="nav-text">6. 把你的Hexo发布至Github</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#6-1-%E9%85%8D%E7%BD%AESSH%E5%AF%86%E9%92%A5"><span class="nav-number"></span> <span class="nav-text">6.1 配置SSH密钥</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#6-2-%E8%AE%BE%E7%BD%AE%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF-%E7%94%A8%E6%88%B7%E5%90%8D%E5%92%8C%E9%82%AE%E7%AE%B1"><span class="nav-number"></span> <span class="nav-text">6.2 设置用户信息(用户名和邮箱)</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#6-3-%E5%BB%BA%E7%AB%8BGithub%E4%BB%93%E5%BA%93"><span class="nav-number"></span> <span class="nav-text">6.3 建立Github仓库</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#6-4-%E4%BF%AE%E6%94%B9%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E3%80%82"><span class="nav-number"></span> <span class="nav-text">6.4 修改配置文件。</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#6-5-%E7%94%9F%E6%88%90%E9%9D%99%E6%80%81%E6%96%87%E4%BB%B6%EF%BC%8C%E5%B9%B6%E9%83%A8%E7%BD%B2%E7%BD%91%E7%AB%99"><span class="nav-number"></span> <span class="nav-text">6.5 生成静态文件，并部署网站</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#6-6-%E6%9F%A5%E7%9C%8B%E5%8D%9A%E5%AE%A2"><span class="nav-number"></span> <span class="nav-text">6.6 查看博客</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#7-%E6%9B%B4%E6%8D%A2%E4%B8%BB%E9%A2%98"><span class="nav-number"></span> <span class="nav-text">7. 更换主题</span></a></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Git%E5%AE%89%E8%A3%85"><span class="nav-number">1.</span> <span class="nav-text">Git安装</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BD%BF%E7%94%A8node%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7nvm%EF%BC%8C%E5%AE%89%E8%A3%85Node-js%E5%92%8Cnpm"><span class="nav-number">2.</span> <span class="nav-text">使用node版本管理工具nvm，安装Node.js和npm</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%92%8C%E5%AE%89%E8%A3%85nvm"><span class="nav-number">2.1.</span> <span class="nav-text">下载和安装nvm</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BD%BF%E7%94%A8nvm%E5%AE%89%E8%A3%85Node-js%E5%92%8Cnpm"><span class="nav-number">2.2.</span> <span class="nav-text">使用nvm安装Node.js和npm</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Hexo%E5%AE%89%E8%A3%85"><span class="nav-number">3.</span> <span class="nav-text">Hexo安装</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Hexo%E5%88%9D%E5%A7%8B%E5%8C%96"><span class="nav-number">4.</span> <span class="nav-text">Hexo初始化</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%A2%84%E8%A7%88Hexo%E3%80%90%E6%9C%AC%E5%9C%B0%E3%80%91"><span class="nav-number">5.</span> <span class="nav-text">预览Hexo【本地】</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%8A%8A%E4%BD%A0%E7%9A%84Hexo%E5%8F%91%E5%B8%83%E8%87%B3Github"><span class="nav-number">6.</span> <span class="nav-text">把你的Hexo发布至Github</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E9%85%8D%E7%BD%AESSH%E5%AF%86%E9%92%A5"><span class="nav-number">6.1.</span> <span class="nav-text">配置SSH密钥</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%AE%BE%E7%BD%AE%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF-%E7%94%A8%E6%88%B7%E5%90%8D%E5%92%8C%E9%82%AE%E7%AE%B1"><span class="nav-number">6.2.</span> <span class="nav-text">设置用户信息(用户名和邮箱)</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%BB%BA%E7%AB%8BGithub%E4%BB%93%E5%BA%93"><span class="nav-number">6.3.</span> <span class="nav-text">建立Github仓库</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BF%AE%E6%94%B9%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E3%80%82"><span class="nav-number">6.4.</span> <span class="nav-text">修改配置文件。</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%94%9F%E6%88%90%E9%9D%99%E6%80%81%E6%96%87%E4%BB%B6%EF%BC%8C%E5%B9%B6%E9%83%A8%E7%BD%B2%E7%BD%91%E7%AB%99"><span class="nav-number">6.5.</span> <span class="nav-text">生成静态文件，并部署网站</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%9F%A5%E7%9C%8B%E5%8D%9A%E5%AE%A2"><span class="nav-number">6.6.</span> <span class="nav-text">查看博客</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%9B%B4%E6%8D%A2%E4%B8%BB%E9%A2%98"><span class="nav-number">7.</span> <span class="nav-text">更换主题</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -226,7 +226,7 @@
         <i class="far fa-calendar-check"></i>
       </span>
       <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2023-10-06 10:18:28" itemprop="dateModified" datetime="2023-10-06T10:18:28+08:00">2023-10-06</time>
+      <time title="修改时间：2023-10-07 17:02:49" itemprop="dateModified" datetime="2023-10-07T17:02:49+08:00">2023-10-07</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -269,62 +269,136 @@
     
     
     
-    <div class="post-body" itemprop="articleBody"><h3 id="内容概览"><a href="#内容概览" class="headerlink" title="内容概览"></a>内容概览</h3><p>使用arm64 m1&#x2F;m2芯片的mac电脑搭建Hexo博客，在跟着官方文档搭建的过程中，会遇到一些问题，研究重试了好久，现重新将步骤整理如下。</p>
+    <div class="post-body" itemprop="articleBody"><blockquote>
+<p>使用arm64 m1&#x2F;m2芯片的mac电脑搭建Hexo博客，在跟着官方文档搭建的过程中，会遇到一些问题，研究重试了好久，现重新将步骤整理如下。</p>
+</blockquote>
 <span id="more"></span>
 
 <p>首先可以参考<a target="_blank" rel="noopener" href="https://hexo.io/zh-cn/docs/">官方文档</a> ，也可以直接根据本博客的步骤，很详细，适用于初学者。</p>
-<h1 id="1-Git安装"><a href="#1-Git安装" class="headerlink" title="1. Git安装"></a>1. Git安装</h1><p>mac电脑可以直接打开App Store搜索“Xcode”安装，Xcode自带Git。</p>
-<h1 id="2-使用node版本管理工具nvm，安装Node-js和npm"><a href="#2-使用node版本管理工具nvm，安装Node-js和npm" class="headerlink" title="2. 使用node版本管理工具nvm，安装Node.js和npm"></a>2. 使用node版本管理工具nvm，安装Node.js和npm</h1><p>(注：不推荐使用Node installer，因为它会把npm安装到具有本地权限的目录中，在全局运行npm时可能会导致EACCES权限错误。<br>如果不慎出现EACCES权限错误，参考此文章：<a target="_blank" rel="noopener" href="https://blog.csdn.net/2301_77285173/article/details/130184353?spm=1001.2014.3001.5502">安装 Hexo 的过程中出现EACCES权限错误的解决方法</a></p>
+<h2 id="Git安装"><a href="#Git安装" class="headerlink" title="Git安装"></a>Git安装</h2><p>mac电脑可以直接打开App Store搜索“Xcode”安装，Xcode自带Git。</p>
+<h2 id="使用node版本管理工具nvm，安装Node-js和npm"><a href="#使用node版本管理工具nvm，安装Node-js和npm" class="headerlink" title="使用node版本管理工具nvm，安装Node.js和npm"></a>使用node版本管理工具nvm，安装Node.js和npm</h2><p>(注：不推荐使用Node installer，因为它会把npm安装到具有本地权限的目录中，在全局运行npm时可能会导致EACCES权限错误。<br>如果不慎出现EACCES权限错误，参考此文章：<a target="_blank" rel="noopener" href="https://blog.csdn.net/2301_77285173/article/details/130184353?spm=1001.2014.3001.5502">安装 Hexo 的过程中出现EACCES权限错误的解决方法</a>)</p>
 <p>我们直接按照下面步骤，使用nvm安装Node.js和npm即可。</p>
-<h2 id="2-1-下载和安装nvm"><a href="#2-1-下载和安装nvm" class="headerlink" title="2.1 下载和安装nvm"></a>2.1 下载和安装nvm</h2><p>2.1.1 在终端执行：</p>
-<p><code>curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash</code></p>
+<h3 id="下载和安装nvm"><a href="#下载和安装nvm" class="headerlink" title="下载和安装nvm"></a>下载和安装nvm</h3><ul>
+<li>在终端执行:</li>
+</ul>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash</span><br></pre></td></tr></table></figure>
+
 <p>或者</p>
-<p><code>wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash</code></p>
-<p>此处链接可以直接复制，这是v0.39.3版本，你也可以在github获取最新版本地址：<a target="_blank" rel="noopener" href="https://github.com/nvm-sh/nvm#installing-and-updating">https://github.com/nvm-sh/nvm#installing-and-updating</a></p>
-<p>2.1.2 验证是否安装成功：</p>
-<p>在终端输入<code>command -v nvm</code>，如果输出 <code>nvm</code> ，则说明安装成功。</p>
-<h2 id="2-2-使用nvm安装Node-js和npm"><a href="#2-2-使用nvm安装Node-js和npm" class="headerlink" title="2.2 使用nvm安装Node.js和npm"></a>2.2 使用nvm安装Node.js和npm</h2><p>步骤如下：</p>
-<p>2.1 在终端输入<code>nvm ls-remote</code> ，列出都有哪些可用版本</p>
-<p>2.2 从中选择一个安装，例如输入<code>nvm install v18.15.0</code></p>
-<p>2.3 使用安装好的版本，例如输入<code>nvm use v18.15.0</code></p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash</span><br></pre></td></tr></table></figure>
+
+<p>此处链接可以直接复制，这是v0.39.3版本。</p>
+<blockquote>
+<p>你也可以在github获取最新版本地址：<a target="_blank" rel="noopener" href="https://github.com/nvm-sh/nvm#installing-and-updating">https://github.com/nvm-sh/nvm#installing-and-updating</a></p>
+</blockquote>
+<ul>
+<li>验证是否安装成功：</li>
+</ul>
+<p>在终端输入</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">command -v nvm</span><br></pre></td></tr></table></figure>
+
+<p>如果输出 </p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nvm</span><br></pre></td></tr></table></figure>
+
+<p> 则说明安装成功。</p>
+<h3 id="使用nvm安装Node-js和npm"><a href="#使用nvm安装Node-js和npm" class="headerlink" title="使用nvm安装Node.js和npm"></a>使用nvm安装Node.js和npm</h3><p>步骤如下：</p>
+<ol>
+<li><p>在终端输入</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nvm ls-remote</span><br></pre></td></tr></table></figure>
+
+<p> 列出都有哪些可用版本</p>
+</li>
+<li><p>从中选择一个安装，例如输入</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nvm install v18.15.0</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>使用安装好的版本，例如输入</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nvm use v18.15.0</span><br></pre></td></tr></table></figure></li>
+</ol>
 <p>注：如果之前已经用其他方法安装过node.js，无需担心，nvm 会直接覆盖安装。</p>
-<h1 id="3-Hexo安装"><a href="#3-Hexo安装" class="headerlink" title="3. Hexo安装"></a>3. Hexo安装</h1><p>在终端输入 <code>npm install -g hexo-cli</code> ，使用npm安装Hexo。刚才2.1中是使用nvm装的npm，此时已经不会报错了。</p>
-<h1 id="4-Hexo初始化"><a href="#4-Hexo初始化" class="headerlink" title="4. Hexo初始化"></a>4. Hexo初始化</h1><p>4.1 在你想放Hexo博客项目的地方，新建一个文件夹（要确保文件夹里面是空的，否则初始化时会报错）。后续就称该文件夹为“Hexo文件夹”。</p>
-<p>4.2 切换到Hexo文件夹目录：在终端输入cd 空格，然后把新建的文件夹拖入终端，再回车执行。</p>
+<h2 id="Hexo安装"><a href="#Hexo安装" class="headerlink" title="Hexo安装"></a>Hexo安装</h2><p>在终端输入 </p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure>
+
+<p> 使用npm安装Hexo。刚才2.1中是使用nvm装的npm，此时已经不会报错了。</p>
+<h2 id="Hexo初始化"><a href="#Hexo初始化" class="headerlink" title="Hexo初始化"></a>Hexo初始化</h2><ol>
+<li><p>在你想放Hexo博客项目的地方，新建一个文件夹（要确保文件夹里面是空的，否则初始化时会报错）。后续就称该文件夹为“Hexo文件夹”。</p>
+</li>
+<li><p>切换到Hexo文件夹目录：在终端输入cd 空格，然后把新建的文件夹拖入终端，再回车执行。</p>
+</li>
+</ol>
 <p>例如，<code>cd /Users/kathy/my-blog</code></p>
-<p>4.3 cd到目的文件夹后，执行<code>hexo init</code></p>
-<p>4.4 如果想部署在GitHub，终端输入下方代码：</p>
-<p><code>npm install hexo-deployer-git --save</code></p>
-<h1 id="5-预览Hexo【本地】"><a href="#5-预览Hexo【本地】" class="headerlink" title="5. 预览Hexo【本地】"></a>5. 预览Hexo【本地】</h1><p>终端输入<code>hexo g -s</code>  </p>
+<ol start="3">
+<li><p>cd到目的文件夹后，执行<code>hexo init</code></p>
+</li>
+<li><p>如果想部署在GitHub，终端输入下方代码：</p>
+</li>
+</ol>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
+
+
+
+<h2 id="预览Hexo【本地】"><a href="#预览Hexo【本地】" class="headerlink" title="预览Hexo【本地】"></a>预览Hexo【本地】</h2><p>终端输入</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo g -s</span><br></pre></td></tr></table></figure>
+
 <p>打开你新建的hexo文件夹，找到public文件夹中的index.html文件，用浏览器打开，就可以看到你的本地主页了。</p>
-<h1 id="6-把你的Hexo发布至Github"><a href="#6-把你的Hexo发布至Github" class="headerlink" title="6. 把你的Hexo发布至Github"></a>6. 把你的Hexo发布至Github</h1><h2 id="6-1-配置SSH密钥"><a href="#6-1-配置SSH密钥" class="headerlink" title="6.1 配置SSH密钥"></a>6.1 配置SSH密钥</h2><p>(1) 打开Mac的Finder，上方菜单中，选择“文件” - “前往文件夹”，输入：<code>~/.ssh/id_rsa.pub</code>，看看有没有id_rsa.pub文件。</p>
+<h2 id="把你的Hexo发布至Github"><a href="#把你的Hexo发布至Github" class="headerlink" title="把你的Hexo发布至Github"></a>把你的Hexo发布至Github</h2><h3 id="配置SSH密钥"><a href="#配置SSH密钥" class="headerlink" title="配置SSH密钥"></a>配置SSH密钥</h3><ol>
+<li>打开Mac的Finder，上方菜单中，选择“文件” - “前往文件夹”，输入：</li>
+</ol>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">~/.ssh/id_rsa.pub</span><br></pre></td></tr></table></figure>
+
+<p>看看有没有id_rsa.pub文件。</p>
 <ul>
 <li>如果有，用记事本打开看是否有内容</li>
-<li>如果没有该文件(<del>&#x2F;.ssh&#x2F;id_rsa.pub)，在终端输入：<code>ssh-keygen -t rsa -C &quot;your_email@example.com&quot;</code> 这个邮箱随便写，然后一路回车。输密码的那段也直接回车，就会自动生成文件(</del>&#x2F;.ssh&#x2F;id_rsa.pub)。<br>再次搜索，找到该文件，用记事本打开。</li>
+<li>如果没有该文件(~&#x2F;.ssh&#x2F;id_rsa.pub)，在终端输入：</li>
 </ul>
-<p>(2) 复制id_rsa.pub中的内容，到Github网站（需要你提前登录）-右上角个人- setting - SSH keys，添加密钥。密钥名称随便写，方便你认就可以。<br>(3) 终端输入<code>ssh -T git@github.com</code> 测试</p>
-<h2 id="6-2-设置用户信息-用户名和邮箱"><a href="#6-2-设置用户信息-用户名和邮箱" class="headerlink" title="6.2 设置用户信息(用户名和邮箱)"></a>6.2 设置用户信息(用户名和邮箱)</h2><p>每次git提交时都会使用该用户信息。</p>
-<p>(1)<code>git config --global user.name&quot;</code> 写用户名</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;your_email@example.com&quot;</span><br></pre></td></tr></table></figure>
+
+<p>这个邮箱随便写，然后一路回车。输密码的那段也直接回车，就会自动生成文件(~&#x2F;.ssh&#x2F;id_rsa.pub)。<br>再次搜索，找到该文件，用记事本打开。</p>
+<ol start="2">
+<li>复制id_rsa.pub中的内容，到Github网站（需要你提前登录）-右上角个人- setting - SSH keys，添加密钥。密钥名称随便写，方便你认就可以。</li>
+<li>终端输入</li>
+</ol>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure>
+
+<h3 id="设置用户信息-用户名和邮箱"><a href="#设置用户信息-用户名和邮箱" class="headerlink" title="设置用户信息(用户名和邮箱)"></a>设置用户信息(用户名和邮箱)</h3><p>每次git提交时都会使用该用户信息。</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name</span><br></pre></td></tr></table></figure>
+
+<p>写用户名</p>
 <p>例如，<code>~ % git config --global user.name &quot;kathy-kx&quot;</code></p>
-<p>(2)<code>git config --global user.email&quot;</code> 写你的邮箱</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.email</span><br></pre></td></tr></table></figure>
+
+<p>写你的邮箱</p>
 <p>例如，<code>~ % git config --global user.email &quot;xxxxxx@qq.com&quot;</code></p>
-<h2 id="6-3-建立Github仓库"><a href="#6-3-建立Github仓库" class="headerlink" title="6.3 建立Github仓库"></a>6.3 建立Github仓库</h2><p>并命名它为：你的Github用户名.github.io。<br>例如，我的Github用户名是kathy-kx，则此处命名为：kathy-kx.github.io</p>
-<h2 id="6-4-修改配置文件。"><a href="#6-4-修改配置文件。" class="headerlink" title="6.4 修改配置文件。"></a>6.4 修改配置文件。</h2><p>在本地hexo文件夹（刚才新建的my-blog文件夹）的_config.yml中，修改以下部分。</p>
+<h3 id="建立Github仓库"><a href="#建立Github仓库" class="headerlink" title="建立Github仓库"></a>建立Github仓库</h3><p>并命名它为：你的Github用户名.github.io。<br>例如，我的Github用户名是kathy-kx，则此处命名为：kathy-kx.github.io</p>
+<h3 id="修改配置文件。"><a href="#修改配置文件。" class="headerlink" title="修改配置文件。"></a>修改配置文件。</h3><p>在本地hexo文件夹（刚才新建的my-blog文件夹）的_config.yml中，修改以下部分。</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">	type: git</span><br><span class="line">	repo: &lt;repository url\&gt;  # 从你的仓库主页Clone or download复制 注意：改成SSH模式,后缀是.git</span><br><span class="line">	branch: master # 你的默认仓库分支</span><br></pre></td></tr></table></figure>
 
 
 
-<h2 id="6-5-生成静态文件，并部署网站"><a href="#6-5-生成静态文件，并部署网站" class="headerlink" title="6.5 生成静态文件，并部署网站"></a>6.5 生成静态文件，并部署网站</h2><p>cd到hexo文件夹下，执行<code>hexo g -d</code></p>
-<h2 id="6-6-查看博客"><a href="#6-6-查看博客" class="headerlink" title="6.6 查看博客"></a>6.6 查看博客</h2><p>在浏览器打开：你的Github用户名.github.io，例如<a target="_blank" rel="noopener" href="http://kathy-kx.github.io/">kathy-kx.github.io</a>，就可以看到网页了。<br>如果不行，尝试清理浏览器缓存，再重新打开。</p>
-<h1 id="7-更换主题"><a href="#7-更换主题" class="headerlink" title="7. 更换主题"></a>7. 更换主题</h1><p>此时的主题是默认的主题，我们可以更换成自己喜欢的主题。</p>
-<p>(1) 在<a target="_blank" rel="noopener" href="https://hexo.io/themes/">https://hexo.io/themes/</a> 选一个喜欢的，下载下来，放到 hexo的theme文件夹内。</p>
-<p>(2) 先cd到hexo文件夹下，执行<code>git clone https://github.com/next-theme/hexo-theme-next themes/next</code> （此处使用的是next主题，可以根据你喜欢的主题更换）</p>
-<p>(3) 找到hexo文件夹下的_config.yml中theme部分，把名字改成theme文件夹内你下载来的主题名字。</p>
+<h3 id="生成静态文件，并部署网站"><a href="#生成静态文件，并部署网站" class="headerlink" title="生成静态文件，并部署网站"></a>生成静态文件，并部署网站</h3><p>cd到hexo文件夹下，执行</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo g -d</span><br></pre></td></tr></table></figure>
+
+<h3 id="查看博客"><a href="#查看博客" class="headerlink" title="查看博客"></a>查看博客</h3><p>在浏览器打开：你的Github用户名.github.io，例如<a target="_blank" rel="noopener" href="http://kathy-kx.github.io/">kathy-kx.github.io</a>，就可以看到网页了。<br>如果不行，尝试清理浏览器缓存，再重新打开。</p>
+<h2 id="更换主题"><a href="#更换主题" class="headerlink" title="更换主题"></a>更换主题</h2><p>此时的主题是默认的主题，我们可以更换成自己喜欢的主题。</p>
+<ol>
+<li><p>在<a target="_blank" rel="noopener" href="https://hexo.io/themes/">https://hexo.io/themes/</a> 选一个喜欢的，下载下来，放到 hexo的theme文件夹内。</p>
+</li>
+<li><p>先cd到hexo文件夹下，执行</p>
+</li>
+</ol>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone https://github.com/next-theme/hexo-theme-next themes/next</span><br></pre></td></tr></table></figure>
+
+<p>（此处使用的是next主题，可以根据你喜欢的主题更换）</p>
+<ol start="3">
+<li>找到hexo文件夹下的_config.yml中theme部分，把名字改成theme文件夹内你下载来的主题名字。</li>
+</ol>
 <p>例如：<code>theme: next</code></p>
-<p>(4) 还可以顺便修改一下作者和简介<br>把hexo文件夹下的_config.yml文件中的author换成你的名字，简介description也可以改。</p>
+<ol start="4">
+<li>还可以顺便修改一下作者和简介<br>把hexo文件夹下的_config.yml文件中的author换成你的名字，简介description也可以改。</li>
+</ol>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"># Site</span><br><span class="line">author:</span><br><span class="line">description:</span><br></pre></td></tr></table></figure>
 
-<p>(5) 执行<code>hexo clean</code>（清理Hexo缓存）、<code>hexo s --debug</code>（测试模式启动Hexo服务器，可以d先在本地检查）和<code>hexo g -d</code>（生成静态文件后部署），现在再次访问你的博客，主题就已经更改好了。</p>
+<ol start="5">
+<li>执行<code>hexo clean</code>（清理Hexo缓存）、<code>hexo s --debug</code>（测试模式启动Hexo服务器，可以d先在本地检查）和<code>hexo g -d</code>（生成静态文件后部署），现在再次访问你的博客，主题就已经更改好了。</li>
+</ol>
 
     </div>
 
