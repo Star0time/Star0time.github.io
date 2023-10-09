@@ -303,7 +303,7 @@ td {
 .btn {
   background: var(--btn-default-bg);
   border: 2px solid var(--btn-default-border-color);
-  border-radius: 2px;
+  border-radius: 8px;
   color: var(--btn-default-color);
   display: inline-block;
   font-size: 0.875em;
@@ -954,7 +954,6 @@ pre code {
   padding-top: 0;
 }
 .headband {
-  background: var(--theme-color);
   height: 3px;
 }
 @media (max-width: 991px) {
@@ -1124,7 +1123,7 @@ pre code {
   }
 }
 .book-mark-link::before {
-  color: #f5871f;
+  color: #fadec8;
   font-size: 32px;
   line-height: 1;
   content: '\f02e';
@@ -1138,7 +1137,7 @@ pre code {
 .sidebar-inner {
   color: #999;
   padding: 18px 10px;
-  text-align: left;
+  text-align: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -1516,6 +1515,7 @@ pre code {
 }
 .back-to-top {
   font-size: 12px;
+  border-radius: 20px;
   align-items: center;
   bottom: -100px;
   color: #fff;
