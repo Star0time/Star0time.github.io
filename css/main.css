@@ -1123,7 +1123,7 @@ pre code {
   }
 }
 .book-mark-link::before {
-  color: #fadec8;
+  color: #555;
   font-size: 32px;
   line-height: 1;
   content: '\f02e';
@@ -2395,6 +2395,7 @@ header.header {
 }
 .site-brand-container {
   background: var(--theme-color);
+  border-radius: 20px 20px 0px 0px;
 }
 @media (max-width: 991px) {
   .site-nav-on .site-brand-container {
