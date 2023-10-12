@@ -1124,7 +1124,7 @@ pre code {
 }
 .book-mark-link::before {
   color: #555;
-  font-size: 32px;
+  font-size: 25px;
   line-height: 1;
   content: '\f02e';
   font-family: 'Font Awesome 6 Free';
