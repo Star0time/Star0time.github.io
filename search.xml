@@ -622,4 +622,21 @@
         <tag>Travel</tag>
       </tags>
   </entry>
+  <entry>
+    <title>国外惊现IDM命令行永久破解方法，尽快尝试</title>
+    <url>/p/58d54b77/</url>
+    <content><![CDATA[<p>最近国外有大神流传出了一个号称可以永久完美破解 IDM 的超简单的办法，据说还能在线升级。</p>
+<p>英文原文是：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1.  First, Download IMD From IDM Site</span><br><span class="line"></span><br><span class="line">2.  Install IDM on Your PC</span><br><span class="line"></span><br><span class="line">3.  Now search on Windows search &quot;PowerShell&quot; and Open your PowerShell</span><br><span class="line"></span><br><span class="line">4.  Paste the command irm https://massgrave.dev/ias | iex</span><br><span class="line"></span><br><span class="line">5.  Then Type &quot;1&quot;</span><br><span class="line"></span><br><span class="line">Now you have a lifetime license</span><br></pre></td></tr></table></figure>
+
+<p>翻译一下就是：</p>
+<p>1：首先，从 IDM 网站下载 IDM</p>
+<p>2：在电脑上安装 IDM</p>
+<p>3：现在在 Windows 中搜索 “PowerShell “并打开 PowerShell</p>
+<p>4：粘贴命令</p>
+<p> <code>irm https://massgrave.dev/ias | iex</code></p>
+<p>5：然后键入 “1”</p>
+<p>现在你就拥有了终身许可证!!!</p>
+]]></content>
+  </entry>
 </search>
