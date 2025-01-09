@@ -478,4 +478,44 @@
         <tag>仓位计划</tag>
       </tags>
   </entry>
+  <entry>
+    <title>股价信息查询代码记录</title>
+    <url>/posts/c47f2408/</url>
+    <content><![CDATA[<p>备份数据库股价信息查询代码</p>
+<span id="more"></span>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">SELECT</span><br><span class="line">`每日行情查询`.`日期`,</span><br><span class="line">LEFT(`每日行情查询`.`股票代码`,6) AS 股票代码,</span><br><span class="line">`股票基础信息`.`股票名称`,</span><br><span class="line">`每日触板`.`涨停原因类别（拆分）`,</span><br><span class="line">`股票基础信息`.`所属同花顺行业` AS 同花顺板块,</span><br><span class="line">`股票基础信息`.`所属东方财富行业` AS 东财板块,</span><br><span class="line">LEFT(`每日行情查询`.`股票代码`,3) AS 证券划分,</span><br><span class="line">`每日资金流向`.`集合竞价`,</span><br><span class="line">`每日资金流向`.`主力净流入` AS 净流入,</span><br><span class="line">`每日资金流向`.`实时超大单数据净额` AS 超大,</span><br><span class="line">`每日资金流向`.`实时大单数据净额` AS 大户,</span><br><span class="line">`每日行情查询`.`开盘`,</span><br><span class="line">`每日行情查询`.`收盘`,</span><br><span class="line">`每日行情查询`.`最低`,</span><br><span class="line">`每日行情查询`.`最高`,</span><br><span class="line">`每日行情查询`.`成交量`,</span><br><span class="line">`每日行情查询`.`成交额`,</span><br><span class="line">`每日行情查询`.`振幅`,</span><br><span class="line">`每日行情查询`.`换手率`,</span><br><span class="line">`每日行情查询`.`涨跌幅`,</span><br><span class="line">`每日行情查询`.`涨跌`,</span><br><span class="line">`每日触板`.`涨停原因类别`</span><br><span class="line"></span><br><span class="line">FROM `每日行情查询`</span><br><span class="line">LEFT JOIN `股票基础信息`</span><br><span class="line">ON `每日行情查询`.`股票代码`= `股票基础信息`.`股票代码` </span><br><span class="line"></span><br><span class="line">LEFT JOIN `每日触板`</span><br><span class="line">ON `每日行情查询`.`日期`= `每日触板`.`日期` AND `每日行情查询`.`股票代码`=`每日触板`.`股票代码`</span><br><span class="line">left JOIN `每日资金流向`</span><br><span class="line">ON LEFT(`每日行情查询`.`股票代码`,6)= `每日资金流向`.`股票代码` AND `每日行情查询`.`日期`= `每日资金流向`.`日期`</span><br><span class="line"></span><br><span class="line">WHERE      `每日行情查询`.`日期` &gt;= CURDATE() - INTERVAL 100 DAY </span><br><span class="line">ORDER BY   `每日行情查询`.`日期` DESC, `每日行情查询`.`股票代码` ;</span><br></pre></td></tr></table></figure>
+
+
+
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>代码</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>问财数据获取</title>
+    <url>/posts/d864c049/</url>
+    <content><![CDATA[<p>问财数据获取环境搭建</p>
+<span id="more"></span>
+
+<ol>
+<li>安装pycharm，并激活</li>
+<li>安装node.js，使用安装包安装，版本号为20.xx</li>
+<li>安装python，版本无关</li>
+<li>重启电脑</li>
+<li>在运行代码界面安装提示模块</li>
+<li>完毕</li>
+</ol>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>问财</tag>
+      </tags>
+  </entry>
 </search>
