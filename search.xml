@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>1-21-3挑票逻辑</title>
+    <url>/posts/289d774c/</url>
+    <content><![CDATA[<p>致力于做好每一次挑票备份，不要作重复工作</p>
+<span id="more"></span>
+
+<ol>
+<li>操作池——池的复制品</li>
+<li>池——清洗后的涨停票</li>
+<li>清洗池——所有涨停票，剔除业绩为负的股票</li>
+</ol>
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>选股池</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>1-7盘后复盘- K线形态初</title>
+    <url>/posts/2d857cb9/</url>
+    <content><![CDATA[<p>最近空仓，今日原本打算推仓位的，盘中发生了一系列的事情，，导致没有按计划操作。</p>
+<span id="more"></span>
+
+<h1 id="太辰光的涨停"><a href="#太辰光的涨停" class="headerlink" title="太辰光的涨停"></a>太辰光的涨停</h1><p>太辰光这个票来说，跟踪了很久，从24年12月19号开始，资金大举入驻时，就开始跟踪了，但当时只顾着<a href="../e8015f7b/">模式内</a>的操作——关注KDJ&#x2F;MACD&#x2F;MA指标，忽略了K线的形态，进而忽略了它从24年11月25号就开始在60分钟K线上，做了长达23个交易日的中枢结构，在12月20号和27号，尝试突破中枢，12月30号回落不进中枢后，开始向上箱体震荡，并于今日涨停。</p>
+<p><strong>交易模式依旧落在模式内，但是选股判断上，需要叠加K线形态。</strong></p>
+<h1 id="德必集团等的错失"><a href="#德必集团等的错失" class="headerlink" title="德必集团等的错失"></a>德必集团<font color=red><strong>等</strong></font>的错失</h1><p>德必集团，拓斯达，曼卡龙，今日挑选的3个模式票，都出现了同样的问题：<font color=red><strong>暂未总结</strong></font></p>
+<h2 id="德必集团"><a href="#德必集团" class="headerlink" title="德必集团"></a>德必集团</h2><ol>
+<li><p>日线：KDJ金叉，MACD金叉</p>
+</li>
+<li><p>60分：KDJ金叉，MACD死叉未死，红柱拉长</p>
+</li>
+<li><p><strong>30分：KDJ死叉未死，MACD金叉，红柱拉长——在30分KDJ即将死叉时，15分KDJ金叉，MACD红且开口逐步扩大</strong></p>
+</li>
+</ol>
+<h2 id="拓斯达"><a href="#拓斯达" class="headerlink" title="拓斯达"></a>拓斯达</h2><ol>
+<li>日线：KDJ金叉，MACD即将金叉，绿柱缩短</li>
+<li>60分：KDJ金叉，MACD红柱拉长</li>
+<li><strong>30分：KDJ死叉未死，MACD2日金叉——在30分KDJ即将死叉时，15分KDJ金叉，MACD金叉</strong></li>
+</ol>
+<h2 id="曼卡龙"><a href="#曼卡龙" class="headerlink" title="曼卡龙"></a>曼卡龙</h2><ol>
+<li>日线：KDJ金叉，MACD即将金叉，绿柱缩短</li>
+<li>60分：呈现向下箱体，1月2号-1月6号，回落箱体受阻，形成底分型，在关键节点上上涨，回调2根K线后沿MA5上涨，突破箱体。KDJ金叉，MACD金叉</li>
+<li><strong>30分：KDJ死叉未死，MACD金叉——在30分KDJ即将死叉时，15分KDJ金叉，MACD红且开口逐步扩大</strong></li>
+</ol>
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>仓位计划</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>12-25复盘-天键股份</title>
+    <url>/posts/f86daa8d/</url>
+    <content><![CDATA[<p>天键股份预期收益8个点，实际收益2个点</p>
+<span id="more"></span>
+
+<p><strong>买点分析</strong>：5日线向上，日线MACD红，kdj未死叉；60分MACD正由红转绿，<strong>符合第一方案</strong>，应该关注30分钟MACD金叉。实际上，买点提前了1个小时。</p>
+<p><strong>卖点分析</strong>：由于到30分MACD金叉时，KDJ修复时间过长，开口未明显扩大，并且在15分钟KDJ有不完美金叉，存在潜在做空动能，KDJ开口未明显扩大，卖点指标应该由30分转到15分。KDJ J值上涨趋势渐落时卖出。实际上，提前30分钟卖出。</p>
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>12月操作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>1-9关于K线形态的一些想法</title>
+    <url>/posts/3fa82bef/</url>
+    <content><![CDATA[<p>还是没有完全想清楚，仓位依旧没有推出去</p>
+<span id="more"></span>
+
+<p><strong>股价的上涨一定需要资金的支撑</strong></p>
+<p>股价的震荡，一定是有某一条逻辑在里面，毕竟，都是认为操作的，只要是人操作的东西，必定会有一个书面或者明文指令去操作，那就一定能够找到某一条规律。千人千面，千股千评，但万变不离其宗，资金一定会入场，要么一笔大资金流入，要么分批流入，只要流入，在某一分时内，就能注意到。</p>
+<p>依旧拿太辰光来举例，在股价呈现周期性震荡的过程中，资金在30&#x2F;60分时内，呈现周期性密集流入。并最终在某一点引爆。股价的大幅起伏，不影响资金的流入意志</p>
+<p>凯淳股份，也是长久跟踪的票，资金采取的是涨停流入，其后大幅洗盘，股价振幅剧烈，但依旧能在关键点位上资金大幅流入，也是最终引爆。</p>
+<p>箱体结构，目前以<strong>平行</strong>为标的，各自上下限平行，推断股价在K线相对应的点位。</p>
+<p>偶然，刚注意到润欣科技，60分密集型流入资金，忽略掉单日大盘的影响，5分钟K线看多，从下限上涨了10个点，9日估计能够带动日线站上5日线。</p>
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>仓位计划</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>交易模式-常更新</title>
+    <url>/posts/e8015f7b/</url>
+    <content><![CDATA[<p><strong>模式内交易，左侧交易为核心</strong></p>
+<span id="more"></span>
+
+<p>12月29号更新</p>
+<p>周线指标作为一周时间内，现有模式的辅助性指标，重点在于本周内日线趋势的指导</p>
+<hr>
+<p>12月27号更新，日线走势判断</p>
+<p>日线走势，不通过5日线走势判断，转而研究周线走势，通过周线指标看多，来确认日线趋势。</p>
+<p>以周线作为起始观察看，延续第一方案。</p>
+<hr>
+<p>挑票方向</p>
+<ol>
+<li>日线KDJ金叉</li>
+<li>涨停池</li>
+<li>资金大幅流入</li>
+</ol>
+<p>选股池：涨停板</p>
+<h1 id="总纲"><a href="#总纲" class="headerlink" title="总纲"></a>总纲</h1><p>（1） 剔除日线MA5 无明显振幅的票，<strong>无振幅就意味着无方向，若要上涨，必然经历一场暴跌</strong></p>
+<p>（2）  在关键节点上，存在资金流入。 <strong>（或者为历史涨停板金额未流出）</strong></p>
+<p>（3） 纠结的意义，KDJ在0轴附近来回跳动</p>
+<h1 id="细则"><a href="#细则" class="headerlink" title="细则"></a>细则</h1><h2 id="第一方案"><a href="#第一方案" class="headerlink" title="第一方案"></a>第一方案</h2><p>满足条件：<br><strong>日线MACD红、KDJ纠结，60分钟MACD绿。</strong></p>
+<p>关注：<br><strong>30分钟MACD金叉，此时关注是否与60分钟KDJ金叉形成互锁条件。</strong></p>
+<p>引申：<br>判断60分钟KDJ金叉位于同级别MACD的位置（以高度判断），买点一定要落于60分钟MACD即将金叉时，也就是MACD中心偏右。</p>
+<p>若60分钟KDJ金叉落于同级别MACD中心，则在次级别至少存在2个KDJ金叉（非完全金叉亦符合,多半能走出完全金叉）,该KDJ金叉形成过程中，同级别MACD金叉亦将形成。<br>在次级别MACD无绿柱情况下，则关注第二KDJ金叉。</p>
+<h2 id="第二方案"><a href="#第二方案" class="headerlink" title="第二方案"></a>第二方案</h2><p>满足条件：<br><strong>日线MACD由红转绿，KDJ走过死叉。</strong></p>
+<p>关注：<br><strong>60分钟MACD金叉，此时关注是否与日线KDJ形成金叉互锁条件。</strong></p>
+<h2 id="第三方案"><a href="#第三方案" class="headerlink" title="第三方案"></a>第三方案</h2><p>满足条件：<br><strong>日线MACD红；60分钟MACD红、KDJ纠结；30分钟MACD绿。</strong></p>
+<p>关注：<br><strong>15分钟MACD金叉，此时关注是否与30分钟KDJ金叉形成互锁条件。</strong></p>
+<h1 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h1><p>第一方案的延续。强势票走第三方案，稍微弱势走第三方案，再弱势则走第二方案。</p>
+<hr>
+<h1 id="12月9日内容"><a href="#12月9日内容" class="headerlink" title="12月9日内容"></a>12月9日内容</h1><p><strong>在关键节点上，（KDJ金叉，MACD金叉）出现较高涨幅，等待回调。切记</strong></p>
+<hr>
+<p>重新盘算了自身的模式，发现掉进了主力的陷阱中，日线的回调是必然的，不是只要有上升趋势就能挣钱，或者说快速挣钱，在上涨的过程中，需要判断出股票的是由止跌，当然，回调也是股票下跌的一种情况。识别下跌的中断，才能挣钱。不能只盯着小趋势的震荡，</p>
+<p>60分钟的KDJ金叉是否生效的标志是看30分钟MACD是否红柱出现，同理，日线级别的下跌是否到底了，日线级别KDJ金叉的同时，看60分钟级别的MACD是否金叉，但是单纯的看MADC和KDJ指标的联动还是不妥，需要观察同级别KDJ生成金叉时的位置，KDJ在MACD中间部位生成，在同级别中，肯定会有二次回调。该回调在次级别的K线走势中会非常明显。KDJ的生成位置，最佳为MACD中心偏右侧，越右越好<br>交易的模式就很好推： <strong>60分钟的KDJ金叉，在日线级别上，是否带动了日线KDJ的修复，确保所有的交易，落在左侧。</strong></p>
+<p><del>修复指标有很多，MACD绿柱缩短，KDJ指标拐头，脱离原始趋势。</del><br><strong>KDJ死叉后，金叉前，都是修复阶段 ，修复的完结形态是次级别的KDJ金叉，MACD金叉出现往往能够带来本级别的KDJ金叉，</strong></p>
+<p>由于修复指标需要一定的时间空间，所有指标的变化，都是一个累加的过程，尤其是在某一钟趋势的改变，绝对不是一天的形态变化导致，借助于底分型，顶分型来说，至少3条无完全包含的K线组成。<br>买点落在日线KDJ金叉，次级别的MACD金叉，</p>
+<p>行情的结束与开启由MACD主导，KDJ具有提前预警，具体波动由次级别KDJ和MACD形态决定，在KDJ上，死叉不完全，下一段行情还会形成死叉。</p>
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>模式</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>12-29-53周选股池</title>
+    <url>/posts/b736697a/</url>
+    <content><![CDATA[<p>53周选股池，重点看好：胜览股份，华塑科技，星宸科技</p>
+<span id="more"></span>
+
+<h1 id="总览"><a href="#总览" class="headerlink" title="总览"></a>总览</h1><table>
+<thead>
+<tr>
+<th>股票名称</th>
+<th>涨停原因</th>
+<th>关注点</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>胜蓝股份</strong></td>
+<td>铜缆高速连接+飞行汽车+高压快充</td>
+<td>60分钟上涨6%，金叉共振<br />60分钟下跌2-4%，继续看跌<br /><span style="background-color: pink; color: black;">30分钟平盘&#x2F;3%-趋势向上&#x2F;金叉共振</span></td>
+</tr>
+<tr>
+<td>同星科技</td>
+<td>液冷服务器+制冷设备</td>
+<td>60分钟MACD下跌，需要等</td>
+</tr>
+<tr>
+<td><strong>华塑科技</strong></td>
+<td>字节+电池安全管理</td>
+<td>30分钟上涨1%，KDJ金叉，3%，金叉共振</td>
+</tr>
+<tr>
+<td><strong>星宸科技</strong></td>
+<td>SoC芯片+AI眼镜+机器人+次新</td>
+<td>30分钟上涨1%，KDJ金叉，4%，金叉共振</td>
+</tr>
+<tr>
+<td>申昊科技</td>
+<td>机器人+无人机+智能监测检测+储能</td>
+<td>30分钟上涨2个点，KDJ金叉，3%，金叉共振<br />60分钟KD家偏离过大，注意修复节奏&#x2F;<font color=blue><strong>业绩差</strong></font></td>
+</tr>
+<tr>
+<td>世纪恒通</td>
+<td>营销+腾讯合作+车主信息服务</td>
+<td>第一方案，等30分钟KDJ金叉，再进一步考虑MACD</td>
+</tr>
+<tr>
+<td>力量钻石</td>
+<td>培育钻石</td>
+<td>第一方案，等30分钟KDJ金叉，再进一步考虑MACD</td>
+</tr>
+<tr>
+<td>天键股份</td>
+<td>AI终端+智能穿戴+电子商务+外销</td>
+<td>等30分钟MACD绿</td>
+</tr>
+<tr>
+<td>亚康股份</td>
+<td>字节+算力服务+光模块+华鲲振宇</td>
+<td></td>
+</tr>
+<tr>
+<td>和顺电气</td>
+<td>电力设备+光伏发电+高压快充</td>
+<td></td>
+</tr>
+<tr>
+<td>雄塑科技</td>
+<td>地下管网+水利+石墨烯</td>
+<td></td>
+</tr>
+<tr>
+<td>威士顿</td>
+<td>互联网金融+智能制造+机器人</td>
+<td></td>
+</tr>
+<tr>
+<td>长盛轴承</td>
+<td>机器人+宇树科技+自润滑轴承</td>
+<td>等60分钟MACD绿</td>
+</tr>
+<tr>
+<td>创识科技</td>
+<td>电子支付+数字营销+华为+数字人民币</td>
+<td></td>
+</tr>
+<tr>
+<td>瑞凌股份</td>
+<td>芯片概念+机器人+逆变焊割设备+创投</td>
+<td>日线MACD绿，则放弃</td>
+</tr>
+</tbody></table>
+<h1 id="胜蓝股份"><a href="#胜蓝股份" class="headerlink" title="胜蓝股份"></a>胜蓝股份</h1><ul>
+<li><strong>业务领域</strong>：铜缆高速连接、飞行汽车、高压快充。</li>
+<li><strong>市场表现</strong>：数据传输带动AEC、DAC、铜缆等配套需求。</li>
+<li><strong>客户</strong>：富士康、立讯精密、安费诺等，产品应用于华为、OPPO、vivo等知名品牌。</li>
+<li><strong>合作伙伴</strong>：小鹏汇天和大疆。</li>
+</ul>
+<h1 id="同星科技"><a href="#同星科技" class="headerlink" title="同星科技"></a>同星科技</h1><ul>
+<li><strong>业务领域</strong>：液冷服务器、制冷设备。</li>
+<li><strong>市场表现</strong>：高层调研强调加强算力等新型基础设施布局建设。</li>
+<li><strong>应用</strong>：换热器产品已经应用在数据中心。</li>
+</ul>
+<h1 id="华塑科技"><a href="#华塑科技" class="headerlink" title="华塑科技"></a>华塑科技</h1><ul>
+<li><strong>业务领域</strong>：字节、电池安全管理。</li>
+<li><strong>市场表现</strong>：特斯拉推送FSD13版本。</li>
+<li><strong>合作</strong>：网传为百度无人驾驶数据中心BMS供应商。</li>
+</ul>
+<h1 id="星宸科技"><a href="#星宸科技" class="headerlink" title="星宸科技"></a>星宸科技</h1><ul>
+<li><strong>业务领域</strong>：SoC芯片、AI眼镜、机器人。</li>
+<li><strong>市场表现</strong>：豆包视觉理解模型正式发布。</li>
+<li><strong>产品</strong>：全球领先的视频监控芯片企业。</li>
+</ul>
+<h1 id="申昊科技"><a href="#申昊科技" class="headerlink" title="申昊科技"></a>申昊科技</h1><ul>
+<li><strong>业务领域</strong>：机器人、无人机、智能监测检测、储能。</li>
+<li><strong>市场表现</strong>：OpenAI拟开发人形机器人。</li>
+<li><strong>产品</strong>：研发国内首款多功能轨交巡检智能机器人。</li>
+</ul>
+<h1 id="世纪恒通"><a href="#世纪恒通" class="headerlink" title="世纪恒通"></a>世纪恒通</h1><ul>
+<li><strong>业务领域</strong>：营销、腾讯合作、车主信息服务。</li>
+<li><strong>合作</strong>：作为腾讯业务的信息及安全审核核心供应商。</li>
+<li><strong>服务</strong>：提供资质审核等服务，具备竞争优势。</li>
+<li><strong>技术平台</strong>：自主开发技术平台，为大型企业提供用户增值和拓展服务。</li>
+</ul>
+<h1 id="力量钻石"><a href="#力量钻石" class="headerlink" title="力量钻石"></a>力量钻石</h1><ul>
+<li><strong>业务领域</strong>：培育钻石。</li>
+<li><strong>市场表现</strong>：国内人造金刚石行业主要代表企业之一。</li>
+<li><strong>产品</strong>：批量化生产2-10克拉大颗粒高品级培育钻石。</li>
+</ul>
+<h1 id="天键股份"><a href="#天键股份" class="headerlink" title="天键股份"></a>天键股份</h1><ul>
+<li><strong>业务领域</strong>：AI终端、智能穿戴、电子商务、外销。</li>
+<li><strong>产品</strong>：主要产品为耳机等各类智能可穿戴产品，有AR眼镜。</li>
+</ul>
+<h1 id="亚康股份"><a href="#亚康股份" class="headerlink" title="亚康股份"></a>亚康股份</h1><ul>
+<li><strong>业务领域</strong>：字节、算力服务、光模块。</li>
+<li><strong>合作</strong>：华为长期合作伙伴。</li>
+<li><strong>项目</strong>：拟合资成立东数西算庆阳智算中心。</li>
+</ul>
+<h1 id="和顺电气"><a href="#和顺电气" class="headerlink" title="和顺电气"></a>和顺电气</h1><ul>
+<li><strong>业务领域</strong>：电力设备、光伏发电、高压快充。</li>
+<li><strong>产品</strong>：高低压电器及成套设备、电工器材等。</li>
+<li><strong>解决方案</strong>：拥有完整的电动汽车充电站解决方案。</li>
+</ul>
+<h1 id="雄塑科技"><a href="#雄塑科技" class="headerlink" title="雄塑科技"></a>雄塑科技</h1><ul>
+<li><strong>业务领域</strong>：地下管网、水利、石墨烯。</li>
+<li><strong>产品</strong>：PVC、PPR、PE三大系列管道产品。</li>
+</ul>
+<h1 id="威士顿"><a href="#威士顿" class="headerlink" title="威士顿"></a>威士顿</h1><ul>
+<li><strong>业务领域</strong>：互联网金融、智能制造、机器人。</li>
+<li><strong>合作</strong>：华为智能协作认证服务商和认证经销商。</li>
+</ul>
+<h1 id="长盛轴承"><a href="#长盛轴承" class="headerlink" title="长盛轴承"></a>长盛轴承</h1><ul>
+<li><strong>业务领域</strong>：机器人、宇树科技、自润滑轴承。</li>
+<li><strong>产品</strong>：滑动轴承具备在机器人关节轴承及减速器中应用的可能性。</li>
+</ul>
+<h1 id="创识科技"><a href="#创识科技" class="headerlink" title="创识科技"></a>创识科技</h1><ul>
+<li><strong>业务领域</strong>：电子支付、数字营销、华为、数字人民币。</li>
+<li><strong>合作</strong>：与深开鸿等开源基金会相关单位合作。</li>
+</ul>
+<h1 id="瑞凌股份"><a href="#瑞凌股份" class="headerlink" title="瑞凌股份"></a>瑞凌股份</h1><ul>
+<li><strong>业务领域</strong>：芯片概念、机器人、逆变焊割设备、创投。</li>
+<li><strong>市场表现</strong>：英伟达、华为加码投资机器人项目。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>选股池</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>12-27周线指标核验</title>
+    <url>/posts/c9a3151c/</url>
+    <content><![CDATA[<p>在交易模式中，新增周线指标核验</p>
+<span id="more"></span>
+
+<p>周线指标作为一周时间内，现有模式的辅助性指标，重点在于本周内日线趋势的指导</p>
+<p>12-29更新</p>
+<hr>
+<p>本文内容作为<a href="../e8015f7b/">《交易模式》</a>的补充章节</p>
+<table>
+<thead>
+<tr>
+<th>股票名称</th>
+<th>涨停时间</th>
+<th>周线情况</th>
+<th>后续情况</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>华灿光电</td>
+<td>12月20日</td>
+<td>MACD红，KDJ金叉，回调期间未死叉，本周资金1.3亿</td>
+<td>日线回调4天，在60分筑双底后，第5天涨停</td>
+</tr>
+<tr>
+<td>亿通科技</td>
+<td>11月29日</td>
+<td>MACD红，第二周KDJ死叉，在K值附近纠结，本周资金1亿</td>
+<td>日线回调18天，在60分KDJ金叉后第二天涨停</td>
+</tr>
+<tr>
+<td>星星科技</td>
+<td>12月11日</td>
+<td>MACD红，KDJ金叉，本周资金绿</td>
+<td></td>
+</tr>
+<tr>
+<td>天键科技</td>
+<td>12月11日</td>
+<td>MACD红，KDJ金叉，本周资金1.3亿</td>
+<td>上扬2周，振幅合集50点，（在60分KDJ金叉买入）</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<p>12-27更新</p>
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>模式</tag>
+        <tag>核验</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>交易模式2.0-模块更新</title>
+    <url>/posts/e6c11877/</url>
+    <content><![CDATA[<p>模式内交易，上涨左侧为交易核心区买，本模式依旧为<a href="../e8015f7b/">之前交易模式</a>的补充，或者说<strong>为之前某一模块的补充，该模块，目前为唯一操作方向</strong>。</p>
+<span id="more"></span>
+
+<h1 id="调整内容"><a href="#调整内容" class="headerlink" title="调整内容"></a>调整内容</h1><p>明确目标，敢于坚守，果断出手，利落卖出。</p>
+<p>针对上一版的交易模式，现做出如下调整</p>
+<ol>
+<li>股票池的确立</li>
+<li>中枢的确立</li>
+<li>交易模式的简化</li>
+<li>剔除无效指标——周线</li>
+</ol>
+<h1 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h1><p>缠论中现在记忆犹新的话——阴在阳之内，不在阳之对，交易也是如此，多中有空，空中有多，行情是看多看空，不在于历史如何演变，而是当下每一条K线的汇总，中国股市如何变化，始终脱离不了人性，历史如此，当下如此，就够了。</p>
+<p>大盘不需要谁来看多，谁来看空，机会就在那里，等就好了。</p>
+<p>股票池的确立：</p>
+<ol>
+<li>涨停票，后续K线股价不跌破涨停日的启动价</li>
+<li>资金大幅流入（由于涉及到画线，后续开发）</li>
+</ol>
+<h1 id="交易模式"><a href="#交易模式" class="headerlink" title="交易模式"></a>交易模式</h1><p>上一版交易模式中描述了KDJ，MACD技术指标的联动，这一次引入中枢形态，看似因素更多，组合更多，描述上，却简便太多。</p>
+<p>K线作用：K线的作用具有唯一性和顺序性，</p>
+<ol>
+<li>依据中枢结构的不同，将K线作分如下划分——筑顶、筑底、中间、破位（筑顶和筑底K线，至少包含2根K线）</li>
+<li>K线的组合顺序（由于破位属于破坏笔的构成，一般不计入正常K线组合顺序）……——筑顶——中间——筑底——中间——……直至中枢结束</li>
+</ol>
+<p>交易核心：找准中枢</p>
+<p>买点&#x2F;卖点：同级别操作</p>
+<p>方向确立：向上趋势中枢</p>
+<p>买点确立：</p>
+<ol>
+<li>最小中枢级别（默认30分K线）的次级别MACD金叉指标能确认本级别KDJ金叉</li>
+<li>中枢底部确认，至少2根K线</li>
+<li><strong>60分中枢级别，MACD绿柱小于0.5（随时能过红、刚出现不久），则启动 次级别KDJ主导本级别MACD走势</strong></li>
+</ol>
+<p>卖点确认：中枢顶部至少由2根K线组合，一般直接设定即可</p>
+<ol>
+<li>若为多次中枢，则一般为历史中枢顶部价格；</li>
+<li>若为新进中枢，顶部价格分为：MA5K线顶部价（大盘环境不好）和K线箱体顶部价格（大盘环境良好）</li>
+</ol>
+<p>指标核心：所有本级别走势都有次级别走势形成，本级别走势风向标：MACD，本级别趋势风向标标：KDJ。<strong>由于只判断止跌趋势终结，止跌看多，本级别MACD具体走势方向，因由次级别KDJ主导。</strong></p>
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>模式</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在MAC上搭建HEXO博客指南</title>
+    <url>/posts/f431bd0d/</url>
+    <content><![CDATA[<p>记录搭建全过程 </p>
+ <span id="more"></span>
+
+
+
+<h1 id="安装环境配置"><a href="#安装环境配置" class="headerlink" title="安装环境配置"></a>安装环境配置</h1><h2 id="1-node-js"><a href="#1-node-js" class="headerlink" title="1. node.js"></a>1. node.js</h2><p>这一步需要调整，使用 Node.js 的版本管理工具 nvm 来安装 Node.js，这样会避免权限问题。</p>
+<h3 id="安装nvm"><a href="#安装nvm" class="headerlink" title="安装nvm"></a>安装nvm</h3><p>在终端中运行以下命令来安装nvm</p>
+<p><strong>使用 curl 安装方法</strong></p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash</span><br></pre></td></tr></table></figure>
+
+<p><strong>使用 wget 安装方法</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash</span><br></pre></td></tr></table></figure>
+
+<p>安装完成后，需要将 nvm 加载到当前的终端会话中。关闭并重新打开终端，或者运行以下命令来加载 nvm。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">source ~/.nvm/nvm.sh</span><br></pre></td></tr></table></figure>
+
+<p>我目前只能通过命令加载</p>
+<hr>
+<p>如果你使用的是 zsh 作为你的 shell，将上面的命令替换为：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">source</span> ~/.nvm/nvm.sh --no-use</span><br></pre></td></tr></table></figure>
+
+<p>验证 nvm 安装，运行以下命令验证 nvm 是否已经安装成功：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">nvm --version</span><br></pre></td></tr></table></figure>
+
+<h3 id="安装-Vue-js"><a href="#安装-Vue-js" class="headerlink" title="安装 Vue.js"></a>安装 Vue.js</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">nvm install stable  <span class="comment"># 使用 nvm 安装最新稳定版 Node.js</span></span><br><span class="line">nvm use stable     <span class="comment"># 使用刚刚安装的 Node.js 版本</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 或者如果你使用的是 n，可以运行以下命令：</span></span><br><span class="line"><span class="comment"># n latest</span></span><br><span class="line"><span class="comment"># n use latest</span></span><br><span class="line"></span><br><span class="line">npm install -g @vue/cli</span><br></pre></td></tr></table></figure>
+
+
+
+<h2 id="2-安装git"><a href="#2-安装git" class="headerlink" title="2. 安装git"></a>2. 安装git</h2><p>（在终端输入git查询语句会自动弹出安装提醒）</p>
+<h2 id="3-核验语句"><a href="#3-核验语句" class="headerlink" title="3. 核验语句"></a>3. 核验语句</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">node -v</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Git -v</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Npm -v</span><br></pre></td></tr></table></figure>
+
+<h1 id="安装HEXO"><a href="#安装HEXO" class="headerlink" title="安装HEXO"></a>安装HEXO</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install -g hexo</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo -v</span><br></pre></td></tr></table></figure>
+
+<h1 id="创建博客文件夹"><a href="#创建博客文件夹" class="headerlink" title="创建博客文件夹"></a>创建博客文件夹</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo init Blog</span><br></pre></td></tr></table></figure>
+
+<p>我是先创建的，在把整个文件夹内容挪到文稿目录下面后，再进行下面操作</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">cd /Users/star/Documents/Blog </span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install</span><br></pre></td></tr></table></figure>
+
+<p>输入下面语句，核验是否搭建成功了</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Hexo s</span><br></pre></td></tr></table></figure>
+
+<h1 id="关联Github"><a href="#关联Github" class="headerlink" title="关联Github"></a>关联Github</h1><p>添加ssh key 到github</p>
+<h2 id="检查SSH-keys是否存在Github"><a href="#检查SSH-keys是否存在Github" class="headerlink" title="检查SSH keys是否存在Github"></a>检查SSH keys是否存在Github</h2><p>执行如下命令，检查SSH keys是否存在。如果有文件<code>id_rsa.pub</code>或<code>id_dsa.pub</code>，则直接进入步骤1.3将SSH key添加到Github中，否则进入下一步生成SSH key。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ls -al ~/.ssh</span><br></pre></td></tr></table></figure>
+
+<h2 id="生成新的ssh-key"><a href="#生成新的ssh-key" class="headerlink" title="生成新的ssh key"></a>生成新的ssh key</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;w2388619506@163.com&quot;</span><br></pre></td></tr></table></figure>
+
+<h2 id="将ssh-key添加到Github中"><a href="#将ssh-key添加到Github中" class="headerlink" title="将ssh key添加到Github中"></a>将ssh key添加到Github中</h2><p>Find前往文件夹<code>~/.ssh/id_rsa.pub</code>打开id_rsa.pub文件，里面的信息即为SSH key，将这些信息复制到Github的Add SSH key页面即可。</p>
+<p>进入Github –&gt; Settings –&gt; SSH keys –&gt; add SSH key:</p>
+<p>Title里任意添一个标题，将复制的内容粘贴到Key里，点击下方<code>Add key</code>绿色按钮即可。</p>
+<h1 id="重要‼️"><a href="#重要‼️" class="headerlink" title="重要‼️"></a>重要‼️</h1><p>每次启动终端后，都需要使用命令行加载nvm</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">source ~/.nvm/nvm.sh</span><br></pre></td></tr></table></figure>
+
+<h1 id="博客配置文件修改"><a href="#博客配置文件修改" class="headerlink" title="博客配置文件修改"></a>博客配置文件修改</h1><h2 id="1-插件安装"><a href="#1-插件安装" class="headerlink" title="1. 插件安装"></a>1. 插件安装</h2><ol>
+<li>要将hexo部署到GitHub</li>
+</ol>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save # 安装部署插件</span><br></pre></td></tr></table></figure>
+
+<ol start="2">
+<li>短链接</li>
+</ol>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-abbrlink --save</span><br></pre></td></tr></table></figure>
+
+<ol start="3">
+<li>本地搜索</li>
+</ol>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-generator-searchdb</span><br></pre></td></tr></table></figure>
+
+
+
+<h2 id="2-站点配置文件"><a href="#2-站点配置文件" class="headerlink" title="2. 站点配置文件"></a>2. 站点配置文件</h2><ol>
+<li><strong>GitHub同步设置</strong></li>
+</ol>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># Deployment</span><br><span class="line">## Docs: https://hexo.io/docs/one-command-deployment</span><br><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repo: git@github.com:Star0time/Star0time.github.io.git</span><br><span class="line">branch: master</span><br></pre></td></tr></table></figure>
+
+<p>相同的部分做替换</p>
+<ol start="2">
+<li>短链接配置</li>
+</ol>
+<p>修改<code>config.yml</code>文件中的永久链接设置：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">permalink: posts/:abbrlink/ </span><br><span class="line"># 或者</span><br><span class="line">permalink: posts/:abbrlink.html</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># abbrlink 配置</span><br><span class="line"></span><br><span class="line">abbrlink:</span><br><span class="line">  alg: crc32      # 支持 crc16（默认）和 crc32</span><br><span class="line">  rep: hex        # 支持 dec（默认）和 hex</span><br><span class="line">  drafts: false   # 是否处理草稿：(true) 处理，(false) 不处理，默认为 false</span><br><span class="line"></span><br><span class="line">  # 自动根据目录树生成分类</span><br><span class="line"></span><br><span class="line">  # depth: 所需生成的目录树最大深度，应大于 0</span><br><span class="line"></span><br><span class="line">  auto_category:</span><br><span class="line">    enable: true  # 默认启用</span><br><span class="line">    depth:        # 默认 3</span><br><span class="line">    over_write: false </span><br><span class="line">  auto_title: false # 启用自动标题功能，能根据路径自动填充标题</span><br><span class="line">  auto_date: false # 启用自动日期功能，能根据当前时间自动填充日期</span><br><span class="line">  force: false # 启用强制模式，在此模式下，插件会忽略缓存，对每篇已有缩略名的文章重新计算。这只会更新缩略名，不会更新其他前端变量。</span><br></pre></td></tr></table></figure>
+
+<ol start="3">
+<li>本地搜索</li>
+</ol>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">search:</span><br><span class="line">  path: search.xml</span><br><span class="line">  field: post</span><br><span class="line">  content: true</span><br><span class="line">  format: html</span><br></pre></td></tr></table></figure>
+
+
+
+<h2 id="3-主题配置文件"><a href="#3-主题配置文件" class="headerlink" title="3. 主题配置文件"></a>3. 主题配置文件</h2><ol>
+<li>安装主题-next</li>
+</ol>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git clone https://github.com/next-theme/hexo-theme-next themes/next</span><br></pre></td></tr></table></figure>
+
+<ol start="2">
+<li>更新</li>
+</ol>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">cd themes/next</span><br><span class="line">git pull</span><br></pre></td></tr></table></figure>
+
+<ol start="3">
+<li>启用本地搜索</li>
+</ol>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">NexT配置文件</span><br><span class="line"></span><br><span class="line"># Local search</span><br><span class="line"># Dependencies: https://github.com/next-theme/hexo-generator-searchdb</span><br><span class="line">local_search:</span><br><span class="line">  enable: true</span><br><span class="line">  # Show top n results per article, show all results by setting to -1</span><br><span class="line">  top_n_per_article: 1</span><br><span class="line">  # Unescape html strings to the readable one.</span><br><span class="line">  unescape: false</span><br><span class="line">  # Preload the search data when the page loads.</span><br><span class="line">  preload: false</span><br></pre></td></tr></table></figure>
+
+<ol start="4">
+<li>去除底部的”由 Hexo &amp; NexT 强力驱动”</li>
+</ol>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># Powered by Hexo &amp; NexT</span><br><span class="line"></span><br><span class="line">  powered: false</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GitHub上传报错解决办法</title>
+    <url>/posts/98c0164/</url>
+    <content><![CDATA[<p>GitHub——ssh: connect to host github.com port 22: Connection refused</p>
+<p>​    本地使用git上传GitHub仓库时发现的一个报错，以为是本机连不上github了，ping过后发现能够正常访问，于是上网找到了一个很完美的解决方案</p>
+<span id="more"></span>
+
+<p>修改hosts文件，增加一条github.com的域名映射搞定。</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">140.82.116.3 github.com</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>股价信息查询代码记录</title>
+    <url>/posts/c47f2408/</url>
+    <content><![CDATA[<p>备份数据库股价信息查询代码</p>
+<span id="more"></span>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">SELECT</span><br><span class="line">`每日行情查询`.`日期`,</span><br><span class="line">LEFT(`每日行情查询`.`股票代码`,6) AS 股票代码,</span><br><span class="line">`股票基础信息`.`股票名称`,</span><br><span class="line">`每日触板`.`涨停原因类别（拆分）`,</span><br><span class="line">`股票基础信息`.`所属同花顺行业` AS 同花顺板块,</span><br><span class="line">`股票基础信息`.`所属东方财富行业` AS 东财板块,</span><br><span class="line">LEFT(`每日行情查询`.`股票代码`,3) AS 证券划分,</span><br><span class="line">`每日资金流向`.`集合竞价`,</span><br><span class="line">`每日资金流向`.`主力净流入` AS 净流入,</span><br><span class="line">`每日资金流向`.`实时超大单数据净额` AS 超大,</span><br><span class="line">`每日资金流向`.`实时大单数据净额` AS 大户,</span><br><span class="line">`每日行情查询`.`开盘`,</span><br><span class="line">`每日行情查询`.`收盘`,</span><br><span class="line">`每日行情查询`.`最低`,</span><br><span class="line">`每日行情查询`.`最高`,</span><br><span class="line">`每日行情查询`.`成交量`,</span><br><span class="line">`每日行情查询`.`成交额`,</span><br><span class="line">`每日行情查询`.`振幅`,</span><br><span class="line">`每日行情查询`.`换手率`,</span><br><span class="line">`每日行情查询`.`涨跌幅`,</span><br><span class="line">`每日行情查询`.`涨跌`,</span><br><span class="line">`每日触板`.`涨停原因类别`</span><br><span class="line"></span><br><span class="line">FROM `每日行情查询`</span><br><span class="line">LEFT JOIN `股票基础信息`</span><br><span class="line">ON `每日行情查询`.`股票代码`= `股票基础信息`.`股票代码` </span><br><span class="line"></span><br><span class="line">LEFT JOIN `每日触板`</span><br><span class="line">ON `每日行情查询`.`日期`= `每日触板`.`日期` AND `每日行情查询`.`股票代码`=`每日触板`.`股票代码`</span><br><span class="line">left JOIN `每日资金流向`</span><br><span class="line">ON LEFT(`每日行情查询`.`股票代码`,6)= `每日资金流向`.`股票代码` AND `每日行情查询`.`日期`= `每日资金流向`.`日期`</span><br><span class="line"></span><br><span class="line">WHERE      `每日行情查询`.`日期` &gt;= CURDATE() - INTERVAL 100 DAY </span><br><span class="line">ORDER BY   `每日行情查询`.`日期` DESC, `每日行情查询`.`股票代码` ;</span><br></pre></td></tr></table></figure>
+
+
+
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>代码</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>问财数据获取</title>
+    <url>/posts/d864c049/</url>
+    <content><![CDATA[<p>问财数据获取环境搭建</p>
+<span id="more"></span>
+
+<ol>
+<li>安装pycharm，并激活</li>
+<li>安装node.js，使用安装包安装，版本号为20.xx</li>
+<li>安装python，版本无关</li>
+<li>重启电脑</li>
+<li>在运行代码界面安装提示模块</li>
+<li>完毕</li>
+</ol>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>问财</tag>
+      </tags>
+  </entry>
+</search>
