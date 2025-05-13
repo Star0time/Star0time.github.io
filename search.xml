@@ -1,6 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>1-21-3挑票逻辑</title>
+    <url>/posts/289d774c/</url>
+    <content><![CDATA[<p>致力于做好每一次挑票备份，不要作重复工作</p>
+<span id="more"></span>
+
+<ol>
+<li>操作池——池的复制品</li>
+<li>池——清洗后的涨停票</li>
+<li>清洗池——所有涨停票，剔除业绩为负的股票</li>
+</ol>
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>选股池</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>1-7盘后复盘- K线形态初</title>
+    <url>/posts/2d857cb9/</url>
+    <content><![CDATA[<p>最近空仓，今日原本打算推仓位的，盘中发生了一系列的事情，，导致没有按计划操作。</p>
+<span id="more"></span>
+
+<h1 id="太辰光的涨停"><a href="#太辰光的涨停" class="headerlink" title="太辰光的涨停"></a>太辰光的涨停</h1><p>太辰光这个票来说，跟踪了很久，从24年12月19号开始，资金大举入驻时，就开始跟踪了，但当时只顾着<a href="../e8015f7b/">模式内</a>的操作——关注KDJ&#x2F;MACD&#x2F;MA指标，忽略了K线的形态，进而忽略了它从24年11月25号就开始在60分钟K线上，做了长达23个交易日的中枢结构，在12月20号和27号，尝试突破中枢，12月30号回落不进中枢后，开始向上箱体震荡，并于今日涨停。</p>
+<p><strong>交易模式依旧落在模式内，但是选股判断上，需要叠加K线形态。</strong></p>
+<h1 id="德必集团等的错失"><a href="#德必集团等的错失" class="headerlink" title="德必集团等的错失"></a>德必集团<font color=red><strong>等</strong></font>的错失</h1><p>德必集团，拓斯达，曼卡龙，今日挑选的3个模式票，都出现了同样的问题：<font color=red><strong>暂未总结</strong></font></p>
+<h2 id="德必集团"><a href="#德必集团" class="headerlink" title="德必集团"></a>德必集团</h2><ol>
+<li><p>日线：KDJ金叉，MACD金叉</p>
+</li>
+<li><p>60分：KDJ金叉，MACD死叉未死，红柱拉长</p>
+</li>
+<li><p><strong>30分：KDJ死叉未死，MACD金叉，红柱拉长——在30分KDJ即将死叉时，15分KDJ金叉，MACD红且开口逐步扩大</strong></p>
+</li>
+</ol>
+<h2 id="拓斯达"><a href="#拓斯达" class="headerlink" title="拓斯达"></a>拓斯达</h2><ol>
+<li>日线：KDJ金叉，MACD即将金叉，绿柱缩短</li>
+<li>60分：KDJ金叉，MACD红柱拉长</li>
+<li><strong>30分：KDJ死叉未死，MACD2日金叉——在30分KDJ即将死叉时，15分KDJ金叉，MACD金叉</strong></li>
+</ol>
+<h2 id="曼卡龙"><a href="#曼卡龙" class="headerlink" title="曼卡龙"></a>曼卡龙</h2><ol>
+<li>日线：KDJ金叉，MACD即将金叉，绿柱缩短</li>
+<li>60分：呈现向下箱体，1月2号-1月6号，回落箱体受阻，形成底分型，在关键节点上上涨，回调2根K线后沿MA5上涨，突破箱体。KDJ金叉，MACD金叉</li>
+<li><strong>30分：KDJ死叉未死，MACD金叉——在30分KDJ即将死叉时，15分KDJ金叉，MACD红且开口逐步扩大</strong></li>
+</ol>
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>仓位计划</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>1-9关于K线形态的一些想法</title>
     <url>/posts/3fa82bef/</url>
     <content><![CDATA[<p>还是没有完全想清楚，仓位依旧没有推出去</p>
@@ -18,25 +72,6 @@
       </categories>
       <tags>
         <tag>仓位计划</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>1-21-3挑票逻辑</title>
-    <url>/posts/289d774c/</url>
-    <content><![CDATA[<p>致力于做好每一次挑票备份，不要作重复工作</p>
-<span id="more"></span>
-
-<ol>
-<li>操作池——池的复制品</li>
-<li>池——清洗后的涨停票</li>
-<li>清洗池——所有涨停票，剔除业绩为负的股票</li>
-</ol>
-]]></content>
-      <categories>
-        <category>股票</category>
-      </categories>
-      <tags>
-        <tag>选股池</tag>
       </tags>
   </entry>
   <entry>
@@ -113,41 +148,6 @@
       <tags>
         <tag>核验</tag>
         <tag>模式</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>1-7盘后复盘- K线形态初</title>
-    <url>/posts/2d857cb9/</url>
-    <content><![CDATA[<p>最近空仓，今日原本打算推仓位的，盘中发生了一系列的事情，，导致没有按计划操作。</p>
-<span id="more"></span>
-
-<h1 id="太辰光的涨停"><a href="#太辰光的涨停" class="headerlink" title="太辰光的涨停"></a>太辰光的涨停</h1><p>太辰光这个票来说，跟踪了很久，从24年12月19号开始，资金大举入驻时，就开始跟踪了，但当时只顾着<a href="../e8015f7b/">模式内</a>的操作——关注KDJ&#x2F;MACD&#x2F;MA指标，忽略了K线的形态，进而忽略了它从24年11月25号就开始在60分钟K线上，做了长达23个交易日的中枢结构，在12月20号和27号，尝试突破中枢，12月30号回落不进中枢后，开始向上箱体震荡，并于今日涨停。</p>
-<p><strong>交易模式依旧落在模式内，但是选股判断上，需要叠加K线形态。</strong></p>
-<h1 id="德必集团等的错失"><a href="#德必集团等的错失" class="headerlink" title="德必集团等的错失"></a>德必集团<font color=red><strong>等</strong></font>的错失</h1><p>德必集团，拓斯达，曼卡龙，今日挑选的3个模式票，都出现了同样的问题：<font color=red><strong>暂未总结</strong></font></p>
-<h2 id="德必集团"><a href="#德必集团" class="headerlink" title="德必集团"></a>德必集团</h2><ol>
-<li><p>日线：KDJ金叉，MACD金叉</p>
-</li>
-<li><p>60分：KDJ金叉，MACD死叉未死，红柱拉长</p>
-</li>
-<li><p><strong>30分：KDJ死叉未死，MACD金叉，红柱拉长——在30分KDJ即将死叉时，15分KDJ金叉，MACD红且开口逐步扩大</strong></p>
-</li>
-</ol>
-<h2 id="拓斯达"><a href="#拓斯达" class="headerlink" title="拓斯达"></a>拓斯达</h2><ol>
-<li>日线：KDJ金叉，MACD即将金叉，绿柱缩短</li>
-<li>60分：KDJ金叉，MACD红柱拉长</li>
-<li><strong>30分：KDJ死叉未死，MACD2日金叉——在30分KDJ即将死叉时，15分KDJ金叉，MACD金叉</strong></li>
-</ol>
-<h2 id="曼卡龙"><a href="#曼卡龙" class="headerlink" title="曼卡龙"></a>曼卡龙</h2><ol>
-<li>日线：KDJ金叉，MACD即将金叉，绿柱缩短</li>
-<li>60分：呈现向下箱体，1月2号-1月6号，回落箱体受阻，形成底分型，在关键节点上上涨，回调2根K线后沿MA5上涨，突破箱体。KDJ金叉，MACD金叉</li>
-<li><strong>30分：KDJ死叉未死，MACD金叉——在30分KDJ即将死叉时，15分KDJ金叉，MACD红且开口逐步扩大</strong></li>
-</ol>
-]]></content>
-      <categories>
-        <category>股票</category>
-      </categories>
-      <tags>
-        <tag>仓位计划</tag>
       </tags>
   </entry>
   <entry>
@@ -330,22 +330,12 @@
 <p>威士顿，30分钟，底部价（极底）60.25，底部价（共底）60.9，明日上扬，冲至63，若MACD变红，则已同级别MACD红柱不再伸长为卖点，（或者次级别KDJ死叉卖点，卖点无需打提前量）</p>
 <p>买点逻辑再次重申，底部横盘确认，KDJ金叉，MACD绿柱缩短支持反转。</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>3-11操作记录-南都电源</title>
-    <url>/posts/924cc48c/</url>
-    <content><![CDATA[<p>3月第4笔交易-南都电源</p>
-<p>营收：+2327.69</p>
-<p><strong>感悟：买点遵循了模式规律，卖点是不是也不用慌，模式来就好了嘛，目前的标准15分钟KDJ死叉。</strong></p>
-<span id="more"></span>
-
-<p>日线：MACD-绿</p>
-<p>60：同底底背离，价格在底部最低标准价。资金层面非单纯流出，MACD绿</p>
-<p>卖点规划：</p>
-<p>实际卖点：15分钟KDJ横盘时卖出</p>
-<p>理想卖点：15分钟KDJ死叉时——同级别MACD红柱最长时卖出。</p>
-<p>差异，6个点</p>
-]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>模式</tag>
+      </tags>
   </entry>
   <entry>
     <title>3-12操作记录-瑞德智能</title>
@@ -364,20 +354,68 @@
 <p>15：KDJ最近一次死叉（3-12 10:30），金叉发生（3-12 13:15），中间考虑时长，6根K线</p>
 <p>买点：44.41（3-12 11:00），</p>
 ]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>仓位计划</tag>
+      </tags>
   </entry>
   <entry>
-    <title>3-20复盘近期操作</title>
-    <url>/posts/2d466c03/</url>
-    <content><![CDATA[<p>要勇敢哇，没有目标票，敢于说行情不好</p>
+    <title>3-11操作记录-南都电源</title>
+    <url>/posts/924cc48c/</url>
+    <content><![CDATA[<p>3月第4笔交易-南都电源</p>
+<p>营收：+2327.69</p>
+<p><strong>感悟：买点遵循了模式规律，卖点是不是也不用慌，模式来就好了嘛，目前的标准15分钟KDJ死叉。</strong></p>
 <span id="more"></span>
 
-<p>为了测试中枢，打了一下票，收益惨惨</p>
-<p>国民技术：相邻底部价格买入，-910</p>
-<p>鼎捷数智：最底部价格买入，60分钟MACD底背离几乎没有。-573</p>
-<p>天舟文化：最底部价格+30分钟KDJ金叉+60分钟KDJ即将金叉。——还是亏损，盘中挣钱，盘后60分钟KDJ死叉。（崩盘啊）-1189</p>
-<p>本次中枢验证亏损预计：-2670</p>
-<p>中枢的验证先放一边，目前不在测试中枢形态的问题，已久以60分钟金叉+30分钟二次金叉的判定方式。</p>
+<p>日线：MACD-绿</p>
+<p>60：同底底背离，价格在底部最低标准价。资金层面非单纯流出，MACD绿</p>
+<p>卖点规划：</p>
+<p>实际卖点：15分钟KDJ横盘时卖出</p>
+<p>理想卖点：15分钟KDJ死叉时——同级别MACD红柱最长时卖出。</p>
+<p>差异，6个点</p>
 ]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>仓位计划</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>3-3操作记录-润泽科技</title>
+    <url>/posts/bab0110e/</url>
+    <content><![CDATA[<p>3月第一笔交易-润泽科技，</p>
+<p>营收：-1762.92</p>
+<span id="more"></span>
+
+<p>选股条件如下：涨停（2月21日），涨停单日资金流入9.34亿，</p>
+<p>观测点位：</p>
+<ol>
+<li>日线：KDJ-死叉，MACD死叉</li>
+<li>60分：KDJ金叉（3-3，10点30）于MACD绿柱中间，股价在金叉后横盘4根K线，MACD绿柱缩短</li>
+<li>30：MACD红（3-3，13点30）（互锁），KDJ死叉时买入（62元）</li>
+<li>15:MACD红，KDJ即将金叉，死叉（3-3，11点30）</li>
+</ol>
+<p>同时选股-<strong>润和软件</strong>（明确60分中枢）</p>
+<p>空间对比，润和软件，上涨空间10点，润泽科技，上涨空间15个点</p>
+<hr>
+<p>润泽科技的失误总结</p>
+<p>1，买点忽略了日线死叉情况，在日线KDJ未拐头时，不参与</p>
+<p>2，60分钟，KDJ金叉，股价带有长的下影线，在30分2次金叉实现过程中，极大概率再打一次下影线价格</p>
+<hr>
+<p>总结一次模式内操作，</p>
+<p>1，死叉的第一天只用来观察，不参与</p>
+<p>2，不管中枢也好，模式也罢，都应该是相同的趋势判断，</p>
+<p>3，层层互锁，不断层。</p>
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>仓位计划</tag>
+      </tags>
   </entry>
   <entry>
     <title>3-4操作记录-元道通信</title>
@@ -404,6 +442,29 @@
 <p>KDJ揉搓线在接下来的3根K线，（3-4 9:45，最低价11.46）脱离平均值向上。</p>
 <p>次级别买点：第二次死叉（3-4 13:45），金叉（3-4 14:15），中间考虑时长，2根K线</p>
 ]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>仓位计划</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GitHub上传报错解决办法</title>
+    <url>/posts/98c0164/</url>
+    <content><![CDATA[<p>GitHub——ssh: connect to host github.com port 22: Connection refused</p>
+<p>​    本地使用git上传GitHub仓库时发现的一个报错，以为是本机连不上github了，ping过后发现能够正常访问，于是上网找到了一个很完美的解决方案</p>
+<span id="more"></span>
+
+<p>修改hosts文件，增加一条github.com的域名映射搞定。</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">140.82.116.3 github.com</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
   </entry>
   <entry>
     <title>3-6操作记录-华润材料</title>
@@ -422,22 +483,11 @@
 <p>60分钟：MACD绿，KDJ金叉形成于MACD中心，则判断在30分钟会形成2次金叉</p>
 <p>30分钟：KDJ第一次金叉后，等KDJ死叉或者即将死叉时，MACD处于红；则判断买点在15分钟KDJ死叉后即将形成金叉的区间，同时，买点落在15分钟MACD红</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>GitHub上传报错解决办法</title>
-    <url>/posts/98c0164/</url>
-    <content><![CDATA[<p>GitHub——ssh: connect to host github.com port 22: Connection refused</p>
-<p>​    本地使用git上传GitHub仓库时发现的一个报错，以为是本机连不上github了，ping过后发现能够正常访问，于是上网找到了一个很完美的解决方案</p>
-<span id="more"></span>
-
-<p>修改hosts文件，增加一条github.com的域名映射搞定。</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">140.82.116.3 github.com</span><br></pre></td></tr></table></figure>
-]]></content>
       <categories>
-        <category>生活</category>
+        <category>股票</category>
       </categories>
       <tags>
-        <tag>Hexo</tag>
+        <tag>仓位计划</tag>
       </tags>
   </entry>
   <entry>
@@ -489,34 +539,6 @@
       </tags>
   </entry>
   <entry>
-    <title>3-3操作记录-润泽科技</title>
-    <url>/posts/bab0110e/</url>
-    <content><![CDATA[<p>3月第一笔交易-润泽科技，</p>
-<p>营收：-1762.92</p>
-<span id="more"></span>
-
-<p>选股条件如下：涨停（2月21日），涨停单日资金流入9.34亿，</p>
-<p>观测点位：</p>
-<ol>
-<li>日线：KDJ-死叉，MACD死叉</li>
-<li>60分：KDJ金叉（3-3，10点30）于MACD绿柱中间，股价在金叉后横盘4根K线，MACD绿柱缩短</li>
-<li>30：MACD红（3-3，13点30）（互锁），KDJ死叉时买入（62元）</li>
-<li>15:MACD红，KDJ即将金叉，死叉（3-3，11点30）</li>
-</ol>
-<p>同时选股-<strong>润和软件</strong>（明确60分中枢）</p>
-<p>空间对比，润和软件，上涨空间10点，润泽科技，上涨空间15个点</p>
-<hr>
-<p>润泽科技的失误总结</p>
-<p>1，买点忽略了日线死叉情况，在日线KDJ未拐头时，不参与</p>
-<p>2，60分钟，KDJ金叉，股价带有长的下影线，在30分2次金叉实现过程中，极大概率再打一次下影线价格</p>
-<hr>
-<p>总结一次模式内操作，</p>
-<p>1，死叉的第一天只用来观察，不参与</p>
-<p>2，不管中枢也好，模式也罢，都应该是相同的趋势判断，</p>
-<p>3，层层互锁，不断层。</p>
-]]></content>
-  </entry>
-  <entry>
     <title>交易模式2.0-模块更新</title>
     <url>/posts/e6c11877/</url>
     <content><![CDATA[<p>模式内交易，上涨左侧为交易核心区买，本模式依旧为<a href="../e8015f7b/">之前交易模式</a>的补充，或者说<strong>为之前某一模块的补充，该模块，目前为唯一操作方向</strong>。</p>
@@ -564,46 +586,6 @@
       </categories>
       <tags>
         <tag>模式</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>股价信息查询代码记录</title>
-    <url>/posts/c47f2408/</url>
-    <content><![CDATA[<p>备份数据库股价信息查询代码</p>
-<span id="more"></span>
-
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">SELECT</span><br><span class="line">`每日行情查询`.`日期`,</span><br><span class="line">LEFT(`每日行情查询`.`股票代码`,6) AS 股票代码,</span><br><span class="line">`股票基础信息`.`股票名称`,</span><br><span class="line">`每日触板`.`涨停原因类别（拆分）`,</span><br><span class="line">`股票基础信息`.`所属同花顺行业` AS 同花顺板块,</span><br><span class="line">`股票基础信息`.`所属东方财富行业` AS 东财板块,</span><br><span class="line">LEFT(`每日行情查询`.`股票代码`,3) AS 证券划分,</span><br><span class="line">`每日资金流向`.`集合竞价`,</span><br><span class="line">`每日资金流向`.`主力净流入` AS 净流入,</span><br><span class="line">`每日资金流向`.`实时超大单数据净额` AS 超大,</span><br><span class="line">`每日资金流向`.`实时大单数据净额` AS 大户,</span><br><span class="line">`每日行情查询`.`开盘`,</span><br><span class="line">`每日行情查询`.`收盘`,</span><br><span class="line">`每日行情查询`.`最低`,</span><br><span class="line">`每日行情查询`.`最高`,</span><br><span class="line">`每日行情查询`.`成交量`,</span><br><span class="line">`每日行情查询`.`成交额`,</span><br><span class="line">`每日行情查询`.`振幅`,</span><br><span class="line">`每日行情查询`.`换手率`,</span><br><span class="line">`每日行情查询`.`涨跌幅`,</span><br><span class="line">`每日行情查询`.`涨跌`,</span><br><span class="line">`每日触板`.`涨停原因类别`</span><br><span class="line"></span><br><span class="line">FROM `每日行情查询`</span><br><span class="line">LEFT JOIN `股票基础信息`</span><br><span class="line">ON `每日行情查询`.`股票代码`= `股票基础信息`.`股票代码` </span><br><span class="line"></span><br><span class="line">LEFT JOIN `每日触板`</span><br><span class="line">ON `每日行情查询`.`日期`= `每日触板`.`日期` AND `每日行情查询`.`股票代码`=`每日触板`.`股票代码`</span><br><span class="line">left JOIN `每日资金流向`</span><br><span class="line">ON LEFT(`每日行情查询`.`股票代码`,6)= `每日资金流向`.`股票代码` AND `每日行情查询`.`日期`= `每日资金流向`.`日期`</span><br><span class="line"></span><br><span class="line">WHERE      `每日行情查询`.`日期` &gt;= CURDATE() - INTERVAL 100 DAY </span><br><span class="line">ORDER BY   `每日行情查询`.`日期` DESC, `每日行情查询`.`股票代码` ;</span><br></pre></td></tr></table></figure>
-
-
-
-]]></content>
-      <categories>
-        <category>股票</category>
-      </categories>
-      <tags>
-        <tag>代码</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>问财数据获取</title>
-    <url>/posts/d864c049/</url>
-    <content><![CDATA[<p>问财数据获取环境搭建</p>
-<span id="more"></span>
-
-<ol>
-<li>安装pycharm，并激活</li>
-<li>安装node.js，使用安装包安装，版本号为20.xx</li>
-<li>安装python，版本无关</li>
-<li>重启电脑</li>
-<li>在运行代码界面安装提示模块</li>
-<li>完毕</li>
-</ol>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>问财</tag>
       </tags>
   </entry>
   <entry>
@@ -734,6 +716,81 @@
       </categories>
       <tags>
         <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>股价信息查询代码记录</title>
+    <url>/posts/c47f2408/</url>
+    <content><![CDATA[<p>备份数据库股价信息查询代码</p>
+<span id="more"></span>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">SELECT</span><br><span class="line">`每日行情查询`.`日期`,</span><br><span class="line">LEFT(`每日行情查询`.`股票代码`,6) AS 股票代码,</span><br><span class="line">`股票基础信息`.`股票名称`,</span><br><span class="line">`每日触板`.`涨停原因类别（拆分）`,</span><br><span class="line">`股票基础信息`.`所属同花顺行业` AS 同花顺板块,</span><br><span class="line">`股票基础信息`.`所属东方财富行业` AS 东财板块,</span><br><span class="line">LEFT(`每日行情查询`.`股票代码`,3) AS 证券划分,</span><br><span class="line">`每日资金流向`.`集合竞价`,</span><br><span class="line">`每日资金流向`.`主力净流入` AS 净流入,</span><br><span class="line">`每日资金流向`.`实时超大单数据净额` AS 超大,</span><br><span class="line">`每日资金流向`.`实时大单数据净额` AS 大户,</span><br><span class="line">`每日行情查询`.`开盘`,</span><br><span class="line">`每日行情查询`.`收盘`,</span><br><span class="line">`每日行情查询`.`最低`,</span><br><span class="line">`每日行情查询`.`最高`,</span><br><span class="line">`每日行情查询`.`成交量`,</span><br><span class="line">`每日行情查询`.`成交额`,</span><br><span class="line">`每日行情查询`.`振幅`,</span><br><span class="line">`每日行情查询`.`换手率`,</span><br><span class="line">`每日行情查询`.`涨跌幅`,</span><br><span class="line">`每日行情查询`.`涨跌`,</span><br><span class="line">`每日触板`.`涨停原因类别`</span><br><span class="line"></span><br><span class="line">FROM `每日行情查询`</span><br><span class="line">LEFT JOIN `股票基础信息`</span><br><span class="line">ON `每日行情查询`.`股票代码`= `股票基础信息`.`股票代码` </span><br><span class="line"></span><br><span class="line">LEFT JOIN `每日触板`</span><br><span class="line">ON `每日行情查询`.`日期`= `每日触板`.`日期` AND `每日行情查询`.`股票代码`=`每日触板`.`股票代码`</span><br><span class="line">left JOIN `每日资金流向`</span><br><span class="line">ON LEFT(`每日行情查询`.`股票代码`,6)= `每日资金流向`.`股票代码` AND `每日行情查询`.`日期`= `每日资金流向`.`日期`</span><br><span class="line"></span><br><span class="line">WHERE      `每日行情查询`.`日期` &gt;= CURDATE() - INTERVAL 100 DAY </span><br><span class="line">ORDER BY   `每日行情查询`.`日期` DESC, `每日行情查询`.`股票代码` ;</span><br></pre></td></tr></table></figure>
+
+
+
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>代码</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>问财数据获取</title>
+    <url>/posts/d864c049/</url>
+    <content><![CDATA[<p>问财数据获取环境搭建</p>
+<span id="more"></span>
+
+<ol>
+<li>安装pycharm，并激活</li>
+<li>安装node.js，使用安装包安装，版本号为20.xx</li>
+<li>安装python，版本无关</li>
+<li>重启电脑</li>
+<li>在运行代码界面安装提示模块</li>
+<li>完毕</li>
+</ol>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>问财</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>3-20复盘近期操作</title>
+    <url>/posts/2d466c03/</url>
+    <content><![CDATA[<p>要勇敢哇，没有目标票，敢于说行情不好</p>
+<span id="more"></span>
+
+<p>为了测试中枢，打了一下票，收益惨惨</p>
+<p>国民技术：相邻底部价格买入，-910</p>
+<p>鼎捷数智：最底部价格买入，60分钟MACD底背离几乎没有。-573</p>
+<p>天舟文化：最底部价格+30分钟KDJ金叉+60分钟KDJ即将金叉。——还是亏损，盘中挣钱，盘后60分钟KDJ死叉。（崩盘啊）-1189</p>
+<p>本次中枢验证亏损预计：-2670</p>
+<p>中枢的验证先放一边，目前不在测试中枢形态的问题，已久以60分钟金叉+30分钟二次金叉的判定方式。</p>
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>仓位计划</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>5-13 买点信息优化</title>
+    <url>/posts/dfebbf09/</url>
+    <content><![CDATA[<p>灵活操作，一段没有终点的磨练</p>
+<span id="more"></span>
+
+<p>对于日线级别，KDJ金叉于MACD绿中心区域，在首次交易（于60分钟出现模式内买点），需要警醒一点，股价会在短期内满足上涨——可能会高开，或者已冲涨的方式结束，在能够获利的阶段，应该及时离场，等待下次模式买点的出现</p>
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>模式</tag>
       </tags>
   </entry>
   <entry>
