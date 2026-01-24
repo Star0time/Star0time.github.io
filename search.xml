@@ -825,4 +825,38 @@
         <tag>数据源</tag>
       </tags>
   </entry>
+  <entry>
+    <title>26-1-24-佳缘科技</title>
+    <url>/posts/4f9b134b/</url>
+    <content><![CDATA[<p>1</p>
+<span id="more"></span>
+
+<!-- 复制以下代码到你的文章中 -->
+
+<div class="media-split-layout">
+  <div class="image-container">
+ <img src="/images/佳缘科技-1-24.jpg" alt="示例图片">
+  </div>
+  <div class="text-container">
+    <div class="text-block" style="top: 0%; height: 25%;">
+      <h5 id="section-1">标题1</h5>
+      <p>内容1</p>
+    </div>
+    <div class="text-block" style="top: 25%; height: 25%;">
+      <h5 id="section-2">标题2</h5>
+      <p>内容2</p>
+    </div>
+    <div class="text-block" style="top: 50%; height: 25%;">
+      <h5 id="section-3">标题3</h5>
+      <p>内容3</p>
+    </div>
+    <div class="text-block" style="top: 75%; height: 25%;">
+      <h5 id="section-4">标题4</h5>
+      <p>内容4</p>
+    </div>
+  </div>
+</div>
+
+]]></content>
+  </entry>
 </search>
