@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>1-21-3挑票逻辑</title>
-    <url>/posts/289d774c/</url>
-    <content><![CDATA[<p>致力于做好每一次挑票备份，不要作重复工作</p>
-<span id="more"></span>
-
-<ol>
-<li>操作池——池的复制品</li>
-<li>池——清洗后的涨停票</li>
-<li>清洗池——所有涨停票，剔除业绩为负的股票</li>
-</ol>
-]]></content>
-      <categories>
-        <category>股票</category>
-      </categories>
-      <tags>
-        <tag>选股池</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>1-7盘后复盘- K线形态初</title>
     <url>/posts/2d857cb9/</url>
     <content><![CDATA[<p>最近空仓，今日原本打算推仓位的，盘中发生了一系列的事情，，导致没有按计划操作。</p>
@@ -52,6 +33,25 @@
       </categories>
       <tags>
         <tag>仓位计划</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>1-21-3挑票逻辑</title>
+    <url>/posts/289d774c/</url>
+    <content><![CDATA[<p>致力于做好每一次挑票备份，不要作重复工作</p>
+<span id="more"></span>
+
+<ol>
+<li>操作池——池的复制品</li>
+<li>池——清洗后的涨停票</li>
+<li>清洗池——所有涨停票，剔除业绩为负的股票</li>
+</ol>
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>选股池</tag>
       </tags>
   </entry>
   <entry>
@@ -338,109 +338,6 @@
       </tags>
   </entry>
   <entry>
-    <title>3-11操作记录-南都电源</title>
-    <url>/posts/924cc48c/</url>
-    <content><![CDATA[<p>3月第4笔交易-南都电源</p>
-<p>营收：+2327.69</p>
-<p><strong>感悟：买点遵循了模式规律，卖点是不是也不用慌，模式来就好了嘛，目前的标准15分钟KDJ死叉。</strong></p>
-<span id="more"></span>
-
-<p>日线：MACD-绿</p>
-<p>60：同底底背离，价格在底部最低标准价。资金层面非单纯流出，MACD绿</p>
-<p>卖点规划：</p>
-<p>实际卖点：15分钟KDJ横盘时卖出</p>
-<p>理想卖点：15分钟KDJ死叉时——同级别MACD红柱最长时卖出。</p>
-<p>差异，6个点</p>
-]]></content>
-      <categories>
-        <category>股票</category>
-      </categories>
-      <tags>
-        <tag>仓位计划</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>26-1-24-佳缘科技</title>
-    <url>/posts/4f9b134b/</url>
-    <content><![CDATA[<p>不需要等待所有的指标都出现反转，在次级别出现了类背驰的情况，就能出手，只需要记住，这是中枢的搭建，不是上涨</p>
-<span id="more"></span>
-
-<h1 id="佳缘科技"><a href="#佳缘科技" class="headerlink" title="佳缘科技"></a>佳缘科技</h1><div class="media-split-layout media-split-layout-6">
-  <div class="image-container">
-    <img src="/images/佳缘科技-1-24.png">
-  </div>
-  <div class="text-container">
-    <div class="text-block" style="top: 0%; height: 16.6667%;">
-      <h2 id="core-business">周线</h2>
-      <p>
-      <span style="color: #fc6423;">1-25更新：</span>
-        </br>MACD&gt;0，DIF&gt;DEA&gt;0；KDJ 死叉——
-      </br><span style="color: red;">强势中回调，周线无顶背离且趋势向上</span>
-    </p>
-    </div>
-    <div class="text-block" style="top: 16.6667%; height: 16.6667%;">
-      <h2 id="technical-advantages">日线</h2>
-      <p>
-      <span style="color: #fc6423;">1-25更新：</span>
-      </br>MACD&lt;0，0&lt;DIF&lt;DEA；KDJ 死叉——日线级别开始回调
-      </br>1,注意到前面存在中枢，顶部价格：59.40，
-			</br><strong>2,价格落在59.40上方，则是3买成型</strong>，
-			</br>
-            <span style="color: red;">注意30分钟的背离和60分钟KDJ指标互锁情况</span></p>
-    </div>
-    <div class="text-block" style="top: 33.3333%; height: 16.6667%;">
-      <h2 id="market-position">60分钟</h2>
-      <p> </p>
-    </div>
-    <div class="text-block" style="top: 50%; height: 16.6667%;">
-      <h2 id="financial-performance">30分钟</h2>
-      <p> <span style="color: #fc6423;">1-25更新：</span>
-      </br>
-      30分钟没有出现有效的背驰，结合KDJ死叉，下周股价预计产生背驰生成1买， </p>
-    </div>
-    <div class="text-block" style="top: 66.6667%; height: 16.6667%;">
-      <h2 id="rd-investment">15分钟</h2>
-      <p> </p>
-    </div>
-    <div class="text-block" style="top: 83.3333%; height: 16.6667%;">
-      <h2 id="development-prospects">5分钟</h2>
-      <p> </p>
-    </div>
-  </div>
-</div>
-]]></content>
-      <categories>
-        <category>股票</category>
-      </categories>
-      <tags>
-        <tag>仓位计划</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>3-12操作记录-瑞德智能</title>
-    <url>/posts/a23fdb5c/</url>
-    <content><![CDATA[<p>3月第5笔交易-瑞德智能</p>
-<p>营收：</p>
-<p><strong>感悟：明确了交易模式二选一还是选错了，祭天了一个好票，新增了一个指标，也挺值</strong></p>
-<span id="more"></span>
-
-<p>判断同底逻辑的票，务必在底部标准价买入。资金没有流入，意味着无人认可。</p>
-<p>同期关注：中亦科技</p>
-<p>日线：MACD-红</p>
-<p>60：KDJ金叉（3-12 10：30）于MACD绿柱中间——判断，在30分钟要实现2次金叉</p>
-<p>30：KDJ第一次金叉（3-11 13:30），<strong>在关键节点内，有资金参与</strong></p>
-<p>KDJ即将死叉（3-12 10:30）——判断，在KDJ即将死叉&#x2F;已经死叉时，买点在在15分钟最近一次死叉后的即将金叉时</p>
-<p>15：KDJ最近一次死叉（3-12 10:30），金叉发生（3-12 13:15），中间考虑时长，6根K线</p>
-<p>买点：44.41（3-12 11:00），</p>
-]]></content>
-      <categories>
-        <category>股票</category>
-      </categories>
-      <tags>
-        <tag>仓位计划</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>26-1-25-湖南裕能</title>
     <url>/posts/be5b8528/</url>
     <content><![CDATA[<p>全部准备妥当了，再犹豫就不对了吧</p>
@@ -491,6 +388,92 @@
     </div>
   </div>
 </div>
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>仓位计划</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>26-1-26-拉卡拉</title>
+    <url>/posts/f3211d2d/</url>
+    <content><![CDATA[<p><span style="color: #fc6423;">1-26</span><br>成本27.657，盈利1.2%，¥767</p>
+<span id="more"></span>
+
+<div class="media-split-layout media-split-layout-6">
+  <div class="image-container">
+    <img src="/images/拉卡拉-1-26.png">
+  </div>
+  <div class="text-container">
+    <div class="text-block" style="top: 0%; height: 16.6667%;">
+      <h2 id="core-business">周线</h2>
+      <p>
+      <span style="color: #fc6423;">1-26更新：</span>
+        </br>MACD&gt;0，DIF&gt;DEA&gt;0；KDJ暂未死叉——
+      </br><span style="color: red;">强势，周线无顶背离且趋势向上</span>
+    </p>
+    </div>
+    <div class="text-block" style="top: 16.6667%; height: 16.6667%;">
+      <h2 id="technical-advantages">日线</h2>
+      <p>
+      <span style="color: #fc6423;">1-26更新：</span>
+      </br>MACD&lt;0，0&lt;DIF&lt;DEA；KDJ 死叉——日线级别开始回调
+      </br>1,注意到前面存在中枢，顶部价格：27.04，
+            </br><strong>2,价格落在27.04上方，则是3买成型</strong>，
+            </br>
+            <span style="color: red;">注意30分钟的背驰和60分钟KDJ指标互锁情况</span></p>
+    </div>
+    <div class="text-block" style="top: 33.3333%; height: 16.6667%;">
+      <h2 id="market-position">60分钟</h2>
+      <p><span style="color: #fc6423;">1-26更新：</span></br>
+      本次在60分钟KDJ金叉未形成时操作，特标注 </p>
+    </div>
+    <div class="text-block" style="top: 50%; height: 16.6667%;">
+      <h2 id="financial-performance">30分钟</h2>
+      <p> <span style="color: #fc6423;">1-26更新：</span>
+      </br>
+      30分钟出现有效的背驰，结合画的辅助线，判断为盘整背驰，只需满足MACD缩短即可
+      </br></br>
+      <span style="color: red;">为了验证买点是否正确，还需要5分钟产生背驰，才能精确找到买点位置</span>
+      </p>
+      <a href="#development-prospects">查看5分钟详细分析 →</a> 
+    </div>
+    <div class="text-block" style="top: 66.6667%; height: 16.6667%;">
+      <h2 id="rd-investment">15分钟</h2>
+      <p> </p>
+    </div>
+    <div class="text-block" style="top: 83.3333%; height: 16.6667%;">
+      <h2 id="development-prospects">5分钟</h2>
+      <p> <span style="color: #fc6423;">1-26更新：</span></br>
+      产生背驰，今日买点成立（13:30-13:45，价格在27.66-27.59，<strong>实际买点13:40，27.65买入</strong>）</p>
+      <a href="#financial-performance">返回30分钟 →</a>
+    </div>
+  </div>
+</div>
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>仓位计划</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>3-11操作记录-南都电源</title>
+    <url>/posts/924cc48c/</url>
+    <content><![CDATA[<p>3月第4笔交易-南都电源</p>
+<p>营收：+2327.69</p>
+<p><strong>感悟：买点遵循了模式规律，卖点是不是也不用慌，模式来就好了嘛，目前的标准15分钟KDJ死叉。</strong></p>
+<span id="more"></span>
+
+<p>日线：MACD-绿</p>
+<p>60：同底底背离，价格在底部最低标准价。资金层面非单纯流出，MACD绿</p>
+<p>卖点规划：</p>
+<p>实际卖点：15分钟KDJ横盘时卖出</p>
+<p>理想卖点：15分钟KDJ死叉时——同级别MACD红柱最长时卖出。</p>
+<p>差异，6个点</p>
 ]]></content>
       <categories>
         <category>股票</category>
@@ -554,29 +537,21 @@
       </tags>
   </entry>
   <entry>
-    <title>3-4操作记录-元道通信</title>
-    <url>/posts/b064bc4a/</url>
-    <content><![CDATA[<p>3月第二笔交易-元道通信</p>
-<p>营收：+9457.93</p>
+    <title>3-12操作记录-瑞德智能</title>
+    <url>/posts/a23fdb5c/</url>
+    <content><![CDATA[<p>3月第5笔交易-瑞德智能</p>
+<p>营收：</p>
+<p><strong>感悟：明确了交易模式二选一还是选错了，祭天了一个好票，新增了一个指标，也挺值</strong></p>
 <span id="more"></span>
 
-<p>买点模式如下：</p>
-<p><strong>所有模式判断请关联指标——本级别KDJ金叉与次级别MACD红指标互锁不脱离</strong>。</p>
+<p>判断同底逻辑的票，务必在底部标准价买入。资金没有流入，意味着无人认可。</p>
+<p>同期关注：中亦科技</p>
 <p>日线：MACD-红</p>
-<p>60：KDJ金叉（3-4 10：30）于MACD绿柱中间——判断，在30分钟要实现2次金叉</p>
-<p>30：KDJ第一次金叉（3-3 15:00），KDJ即将死叉（3-4 14:30）——判断，在KDJ即将死叉&#x2F;已经死叉时，买点在在15分钟最近一次死叉后的即将金叉时</p>
-<p>15：KDJ最近一次死叉（3-4 11:15），金叉发生（3-4 14:45），中间考虑时长，7根K线</p>
-<p>买点：30.23（3-4 14:03），</p>
-<p>最佳买点（已单K线收盘价算）：30:19（3-4 14:15）</p>
-<p>今日同期观察票，详细内容如下：</p>
-<p>深水海纳：</p>
-<p>日线：MACD-红</p>
-<p>60：KDJ金叉（3-3 10：30）于MACD绿柱中间——判断，在30分钟要实现2次金叉，由于存在中枢破位K线，最低价应该在最低箱体破位价（11.34）-中枢（11.65）价格中间，以<em><strong>平均值</strong></em> （11.49）作为判定标准</p>
-<p>30：KDJ第一次金叉（3-3 10:00），KDJ即将死叉（3-4 10:00）——判断，在KDJ即将死叉&#x2F;已经死叉时，买点在在15分钟最近一次死叉后的即将金叉时</p>
-<p>15：KDJ最近一次死叉（3-3 13:30），</p>
-<p>金叉第一次发生（3-3 15:00）中间无股价接近<em><strong>平均值</strong></em>，中间考虑时长，6根K线，</p>
-<p>KDJ揉搓线在接下来的3根K线，（3-4 9:45，最低价11.46）脱离平均值向上。</p>
-<p>次级别买点：第二次死叉（3-4 13:45），金叉（3-4 14:15），中间考虑时长，2根K线</p>
+<p>60：KDJ金叉（3-12 10：30）于MACD绿柱中间——判断，在30分钟要实现2次金叉</p>
+<p>30：KDJ第一次金叉（3-11 13:30），<strong>在关键节点内，有资金参与</strong></p>
+<p>KDJ即将死叉（3-12 10:30）——判断，在KDJ即将死叉&#x2F;已经死叉时，买点在在15分钟最近一次死叉后的即将金叉时</p>
+<p>15：KDJ最近一次死叉（3-12 10:30），金叉发生（3-12 13:15），中间考虑时长，6根K线</p>
+<p>买点：44.41（3-12 11:00），</p>
 ]]></content>
       <categories>
         <category>股票</category>
@@ -586,21 +561,92 @@
       </tags>
   </entry>
   <entry>
-    <title>3-6操作记录-华润材料</title>
-    <url>/posts/8741842d/</url>
-    <content><![CDATA[<p>3月第三笔交易-华润材料</p>
-<p>营收：-975</p>
-<p><strong>感悟：可买可不买的，不买；想小仓位试错的，不买</strong></p>
+    <title>26-1-26-佳缘科技</title>
+    <url>/posts/4f9b134b/</url>
+    <content><![CDATA[<p><span style="color: #fc6423;">1-26</span><br>成本61.615，盈利-0.836%，¥-1080.45 </p>
 <span id="more"></span>
-
-<p>日线：MACD-红</p>
-<p>60：KDJ金叉（3-4 15：00）于MACD绿柱中间——判断，在30分钟要实现2次金叉</p>
-<p>30：KDJ第一次金叉（3-4 14:30），**此时MACD未红，金叉不严谨，**KDJ即将死叉（3-5 13:30），此时MACD未红，指标跟踪失效。——到这里，应该剔除观察。</p>
-<p>实际：在（3-5 13:30）死叉后，立马金叉，MACD翻红，股价上涨，我在股价上涨3个点后，选择买入，在3月7日，股价能够平盘出局，没有这部分的意识，导致尾盘亏损2个点。</p>
-<p>督促：错误及时止损，严格遵守交易模式。</p>
-<p>日线：MACD红</p>
-<p>60分钟：MACD绿，KDJ金叉形成于MACD中心，则判断在30分钟会形成2次金叉</p>
-<p>30分钟：KDJ第一次金叉后，等KDJ死叉或者即将死叉时，MACD处于红；则判断买点在15分钟KDJ死叉后即将形成金叉的区间，同时，买点落在15分钟MACD红</p>
+<div class="tabs" id="内容分栏"><ul class="nav-tabs"><li class="tab active"><a href="#内容分栏-1">1-26</a></li><li class="tab"><a href="#内容分栏-2">1-24</a></li></ul><div class="tab-content"><div class="tab-pane active" id="内容分栏-1"><h1 id="1-26"><a href="#1-26" class="headerlink" title="1-26"></a>1-26</h1><div class="media-split-layout media-split-layout-6">
+  <div class="image-container">
+    <img src="/images/佳缘科技-1-26.png">
+  </div>
+  <div class="text-container">
+    <div class="text-block" style="top: 0%; height: 16.6667%;">
+      <h2 id="core-business-26">周线</h2>
+      <p> </p>
+    </div>
+    <div class="text-block" style="top: 16.6667%; height: 16.6667%;">
+      <h2 id="technical-advantages-26">日线</h2>
+      <p> </p>
+    </div>
+    <div class="text-block" style="top: 33.3333%; height: 16.6667%;">
+      <h2 id="market-position-26">60分钟</h2>
+      <p> </p>
+    </div>
+    <div class="text-block" style="top: 50%; height: 16.6667%;">
+      <h2 id="financial-performance-26">30分钟</h2>
+      <p> <span style="color: #fc6423;">1-26更新：</span>
+      </br>
+      30分钟出现背驰，MACD小于前段区域，上方存在中枢，1买产生</br>
+      <span style="color: red;">为了验证买点是否正确，若是1买产生了，5分钟和1分钟级别都应出现1买位置</span>
+        </br>
+    <a href="#development-prospects-26">查看5分钟详细分析 →</a> 
+      </p>
+    </div>
+    <div class="text-block" style="top: 66.6667%; height: 16.6667%;">
+      <h2 id="rd-investment26-26">15分钟</h2>
+      <p> </p>
+    </div>
+    <div class="text-block" style="top: 83.3333%; height: 16.6667%;">
+      <h2 id="development-prospects-26">5分钟</h2>
+      <p><span style="color: #fc6423;">1-26更新：</span></br>
+       存在低价，但是MACD并未出现背驰，1买暂未出现，今日交易存在判断失误</p>
+      <a href="#financial-performance-26">返回30分钟 →</a>
+    </div>
+  </div>
+</div></div><div class="tab-pane" id="内容分栏-2"><h1 id="1-24"><a href="#1-24" class="headerlink" title="1-24"></a>1-24</h1><p>不需要等待所有的指标都出现反转，在次级别出现了类背驰的情况，就能出手，只需要记住，这是中枢的搭建，不是上涨</p>
+<div class="media-split-layout media-split-layout-6">
+  <div class="image-container">
+    <img src="/images/佳缘科技-1-24.png">
+  </div>
+  <div class="text-container">
+    <div class="text-block" style="top: 0%; height: 16.6667%;">
+      <h2 id="core-business">周线</h2>
+      <p>
+      <span style="color: #fc6423;">1-25更新：</span>
+        </br>MACD&gt;0，DIF&gt;DEA&gt;0；KDJ 死叉——
+      </br><span style="color: red;">强势中回调，周线无顶背离且趋势向上</span>
+    </p>
+    </div>
+    <div class="text-block" style="top: 16.6667%; height: 16.6667%;">
+      <h2 id="technical-advantages">日线</h2>
+      <p>
+      <span style="color: #fc6423;">1-25更新：</span>
+      </br>MACD&lt;0，0&lt;DIF&lt;DEA；KDJ 死叉——日线级别开始回调
+      </br>1,注意到前面存在中枢，顶部价格：59.40，
+            </br><strong>2,价格落在59.40上方，则是3买成型</strong>，
+            </br>
+            <span style="color: red;">注意30分钟的背驰和60分钟KDJ指标互锁情况</span></p>
+    </div>
+    <div class="text-block" style="top: 33.3333%; height: 16.6667%;">
+      <h2 id="market-position">60分钟</h2>
+      <p> </p>
+    </div>
+    <div class="text-block" style="top: 50%; height: 16.6667%;">
+      <h2 id="financial-performance">30分钟</h2>
+      <p> <span style="color: #fc6423;">1-25更新：</span>
+      </br>
+      30分钟没有出现有效的背驰，结合KDJ死叉，下周股价预计产生背驰生成1买， </p>
+    </div>
+    <div class="text-block" style="top: 66.6667%; height: 16.6667%;">
+      <h2 id="rd-investment">15分钟</h2>
+      <p> </p>
+    </div>
+    <div class="text-block" style="top: 83.3333%; height: 16.6667%;">
+      <h2 id="development-prospects">5分钟</h2>
+      <p> </p>
+    </div>
+  </div>
+</div></div></div></div>
 ]]></content>
       <categories>
         <category>股票</category>
@@ -639,6 +685,62 @@
       </categories>
       <tags>
         <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>3-6操作记录-华润材料</title>
+    <url>/posts/8741842d/</url>
+    <content><![CDATA[<p>3月第三笔交易-华润材料</p>
+<p>营收：-975</p>
+<p><strong>感悟：可买可不买的，不买；想小仓位试错的，不买</strong></p>
+<span id="more"></span>
+
+<p>日线：MACD-红</p>
+<p>60：KDJ金叉（3-4 15：00）于MACD绿柱中间——判断，在30分钟要实现2次金叉</p>
+<p>30：KDJ第一次金叉（3-4 14:30），**此时MACD未红，金叉不严谨，**KDJ即将死叉（3-5 13:30），此时MACD未红，指标跟踪失效。——到这里，应该剔除观察。</p>
+<p>实际：在（3-5 13:30）死叉后，立马金叉，MACD翻红，股价上涨，我在股价上涨3个点后，选择买入，在3月7日，股价能够平盘出局，没有这部分的意识，导致尾盘亏损2个点。</p>
+<p>督促：错误及时止损，严格遵守交易模式。</p>
+<p>日线：MACD红</p>
+<p>60分钟：MACD绿，KDJ金叉形成于MACD中心，则判断在30分钟会形成2次金叉</p>
+<p>30分钟：KDJ第一次金叉后，等KDJ死叉或者即将死叉时，MACD处于红；则判断买点在15分钟KDJ死叉后即将形成金叉的区间，同时，买点落在15分钟MACD红</p>
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>仓位计划</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>3-4操作记录-元道通信</title>
+    <url>/posts/b064bc4a/</url>
+    <content><![CDATA[<p>3月第二笔交易-元道通信</p>
+<p>营收：+9457.93</p>
+<span id="more"></span>
+
+<p>买点模式如下：</p>
+<p><strong>所有模式判断请关联指标——本级别KDJ金叉与次级别MACD红指标互锁不脱离</strong>。</p>
+<p>日线：MACD-红</p>
+<p>60：KDJ金叉（3-4 10：30）于MACD绿柱中间——判断，在30分钟要实现2次金叉</p>
+<p>30：KDJ第一次金叉（3-3 15:00），KDJ即将死叉（3-4 14:30）——判断，在KDJ即将死叉&#x2F;已经死叉时，买点在在15分钟最近一次死叉后的即将金叉时</p>
+<p>15：KDJ最近一次死叉（3-4 11:15），金叉发生（3-4 14:45），中间考虑时长，7根K线</p>
+<p>买点：30.23（3-4 14:03），</p>
+<p>最佳买点（已单K线收盘价算）：30:19（3-4 14:15）</p>
+<p>今日同期观察票，详细内容如下：</p>
+<p>深水海纳：</p>
+<p>日线：MACD-红</p>
+<p>60：KDJ金叉（3-3 10：30）于MACD绿柱中间——判断，在30分钟要实现2次金叉，由于存在中枢破位K线，最低价应该在最低箱体破位价（11.34）-中枢（11.65）价格中间，以<em><strong>平均值</strong></em> （11.49）作为判定标准</p>
+<p>30：KDJ第一次金叉（3-3 10:00），KDJ即将死叉（3-4 10:00）——判断，在KDJ即将死叉&#x2F;已经死叉时，买点在在15分钟最近一次死叉后的即将金叉时</p>
+<p>15：KDJ最近一次死叉（3-3 13:30），</p>
+<p>金叉第一次发生（3-3 15:00）中间无股价接近<em><strong>平均值</strong></em>，中间考虑时长，6根K线，</p>
+<p>KDJ揉搓线在接下来的3根K线，（3-4 9:45，最低价11.46）脱离平均值向上。</p>
+<p>次级别买点：第二次死叉（3-4 13:45），金叉（3-4 14:15），中间考虑时长，2根K线</p>
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>仓位计划</tag>
       </tags>
   </entry>
   <entry>
@@ -737,6 +839,275 @@
       </categories>
       <tags>
         <tag>模式</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>数据源升级-4.0</title>
+    <url>/posts/e5055713/</url>
+    <content><![CDATA[<p>对之前的数据源进行结构上的优化，实用性上增加缠论的箱体框架逻辑</p>
+<span id="more"></span>
+
+<p>待完善的 -</p>
+<ol>
+<li>实时监控模块的搭建</li>
+<li>箱体数据的清洗</li>
+<li>测试方案性能</li>
+</ol>
+<hr>
+<p>以下是SQL查询语句的备份</p>
+<h2 id="股价信息查询-2-0-增加涨停信息"><a href="#股价信息查询-2-0-增加涨停信息" class="headerlink" title="股价信息查询_2.0-增加涨停信息"></a>股价信息查询_2.0-增加涨停信息</h2><pre class="line-numbers language-sql" data-language="sql"><code class="language-sql"><span class="token keyword">SELECT</span>
+    dq<span class="token punctuation">.</span>日期<span class="token punctuation">,</span>
+    <span class="token keyword">LEFT</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>股票代码<span class="token punctuation">,</span> <span class="token number">6</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 股票代码<span class="token punctuation">,</span>
+    gb<span class="token punctuation">.</span>股票名称<span class="token punctuation">,</span>
+    gb<span class="token punctuation">.</span>所属同花顺行业 <span class="token keyword">AS</span> 同花顺板块<span class="token punctuation">,</span>
+    gb<span class="token punctuation">.</span>所属东方财富行业 <span class="token keyword">AS</span> 东财板块<span class="token punctuation">,</span>
+    <span class="token keyword">CASE</span>
+        <span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>股票代码前缀 <span class="token operator">IN</span> <span class="token punctuation">(</span><span class="token string">'300'</span><span class="token punctuation">,</span> <span class="token string">'301'</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span> <span class="token string">'创业板'</span>
+        <span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>股票代码前缀 <span class="token operator">IN</span> <span class="token punctuation">(</span><span class="token string">'000'</span><span class="token punctuation">,</span> <span class="token string">'001'</span><span class="token punctuation">,</span> <span class="token string">'002'</span><span class="token punctuation">,</span> <span class="token string">'003'</span><span class="token punctuation">,</span> <span class="token string">'600'</span><span class="token punctuation">,</span> <span class="token string">'601'</span><span class="token punctuation">,</span> <span class="token string">'603'</span><span class="token punctuation">,</span> <span class="token string">'605'</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span> <span class="token string">'主板'</span>
+        <span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>股票代码前缀 <span class="token operator">IN</span> <span class="token punctuation">(</span><span class="token string">'430'</span><span class="token punctuation">,</span> <span class="token string">'830'</span><span class="token punctuation">,</span> <span class="token string">'870'</span><span class="token punctuation">,</span> <span class="token string">'920'</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span> <span class="token string">'北证'</span>
+        <span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>股票代码前缀 <span class="token operator">IN</span> <span class="token punctuation">(</span><span class="token string">'688'</span><span class="token punctuation">,</span> <span class="token string">'689'</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span> <span class="token string">'科创'</span>
+        <span class="token keyword">ELSE</span> <span class="token string">'其他'</span>
+    <span class="token keyword">END</span> <span class="token keyword">AS</span> 证券划分<span class="token punctuation">,</span>
+    dq<span class="token punctuation">.</span>开盘<span class="token punctuation">,</span>
+    dq<span class="token punctuation">.</span>成交量<span class="token punctuation">,</span>
+    dq<span class="token punctuation">.</span>收盘<span class="token punctuation">,</span>
+    dq<span class="token punctuation">.</span>最低<span class="token punctuation">,</span>
+    dq<span class="token punctuation">.</span>最高<span class="token punctuation">,</span>
+    dq<span class="token punctuation">.</span>振幅<span class="token punctuation">,</span>
+    dq<span class="token punctuation">.</span>换手率<span class="token punctuation">,</span>
+    dq<span class="token punctuation">.</span>涨跌幅<span class="token punctuation">,</span>
+    dq<span class="token punctuation">.</span>涨跌额<span class="token punctuation">,</span>
+    <span class="token function">ROUND</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>收盘 <span class="token operator">-</span> dq<span class="token punctuation">.</span>涨跌额<span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 昨日收盘价<span class="token punctuation">,</span>
+    <span class="token keyword">CASE</span>
+        <span class="token keyword">WHEN</span> <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>收盘 <span class="token operator">-</span> dq<span class="token punctuation">.</span>涨跌额<span class="token punctuation">)</span> <span class="token operator">*</span> <span class="token number">1.2</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token operator">-</span> dq<span class="token punctuation">.</span>最高 <span class="token operator">=</span> <span class="token number">0</span> <span class="token keyword">THEN</span> <span class="token string">'涨停'</span>
+        <span class="token keyword">ELSE</span> <span class="token string">'其他'</span>
+    <span class="token keyword">END</span> <span class="token keyword">AS</span> 涨停状态<span class="token punctuation">,</span>
+    <span class="token keyword">CASE</span>
+        <span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>最高 <span class="token operator">=</span> <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">)</span> <span class="token operator">*</span> <span class="token number">1.2</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span> <span class="token string">'触涨停'</span>
+        <span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>最低 <span class="token operator">=</span> <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">)</span> <span class="token operator">*</span> <span class="token number">0.8</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span> <span class="token string">'触跌停'</span>
+        <span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>收盘 <span class="token operator">>=</span> dq<span class="token punctuation">.</span>开盘 <span class="token keyword">THEN</span> <span class="token string">'涨'</span>
+        <span class="token keyword">ELSE</span> <span class="token string">'跌'</span>
+    <span class="token keyword">END</span> <span class="token keyword">AS</span> 涨跌情况<span class="token punctuation">,</span>
+    <span class="token keyword">CASE</span>
+        <span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>昨日收盘价 <span class="token operator">=</span> <span class="token number">0</span> <span class="token keyword">THEN</span> <span class="token boolean">NULL</span>
+        <span class="token keyword">ELSE</span> <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>最低 <span class="token operator">-</span> dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">)</span> <span class="token operator">/</span> dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">)</span>
+    <span class="token keyword">END</span> <span class="token keyword">AS</span> 最低跌幅<span class="token punctuation">,</span>
+    <span class="token keyword">CASE</span>
+        <span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>昨日收盘价 <span class="token operator">=</span> <span class="token number">0</span> <span class="token keyword">THEN</span> <span class="token boolean">NULL</span>
+        <span class="token keyword">ELSE</span> <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>最高 <span class="token operator">-</span> dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">)</span> <span class="token operator">/</span> dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">)</span>
+    <span class="token keyword">END</span> <span class="token keyword">AS</span> 最高涨幅<span class="token punctuation">,</span>
+    dq<span class="token punctuation">.</span>收盘 <span class="token operator">-</span> dq<span class="token punctuation">.</span>开盘 <span class="token keyword">AS</span> 收开盘价差<span class="token punctuation">,</span>
+    dq<span class="token punctuation">.</span>最高 <span class="token operator">-</span> dq<span class="token punctuation">.</span>最低 <span class="token keyword">AS</span> 高低差<span class="token punctuation">,</span>
+    tb<span class="token punctuation">.</span>涨停原因类别<span class="token punctuation">,</span>
+    tb<span class="token punctuation">.</span>几天几板<span class="token punctuation">,</span>
+    tb<span class="token punctuation">.</span>涨停类型
+<span class="token keyword">FROM</span>
+    <span class="token punctuation">(</span>
+        <span class="token keyword">SELECT</span>
+            <span class="token identifier"><span class="token punctuation">`</span>日期<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+            <span class="token identifier"><span class="token punctuation">`</span>股票代码<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+            <span class="token keyword">LEFT</span><span class="token punctuation">(</span><span class="token identifier"><span class="token punctuation">`</span>股票代码<span class="token punctuation">`</span></span><span class="token punctuation">,</span> <span class="token number">3</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 股票代码前缀<span class="token punctuation">,</span>
+            <span class="token identifier"><span class="token punctuation">`</span>开盘<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+            <span class="token identifier"><span class="token punctuation">`</span>收盘<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+            <span class="token identifier"><span class="token punctuation">`</span>最低<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+            <span class="token identifier"><span class="token punctuation">`</span>成交量<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+            <span class="token identifier"><span class="token punctuation">`</span>最高<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+            <span class="token identifier"><span class="token punctuation">`</span>振幅<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+            <span class="token identifier"><span class="token punctuation">`</span>换手率<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+            <span class="token identifier"><span class="token punctuation">`</span>涨跌幅<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+            <span class="token identifier"><span class="token punctuation">`</span>涨跌额<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+            <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token identifier"><span class="token punctuation">`</span>收盘<span class="token punctuation">`</span></span> <span class="token operator">-</span> <span class="token identifier"><span class="token punctuation">`</span>涨跌额<span class="token punctuation">`</span></span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 昨日收盘价
+        <span class="token keyword">FROM</span>
+            <span class="token identifier"><span class="token punctuation">`</span>每日行情查询<span class="token punctuation">`</span></span>
+        <span class="token keyword">WHERE</span>
+            <span class="token identifier"><span class="token punctuation">`</span>日期<span class="token punctuation">`</span></span> <span class="token operator">>=</span> CURDATE<span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">-</span> <span class="token keyword">INTERVAL</span> <span class="token number">100</span> <span class="token keyword">DAY</span>
+            <span class="token operator">AND</span> <span class="token keyword">LEFT</span><span class="token punctuation">(</span><span class="token identifier"><span class="token punctuation">`</span>股票代码<span class="token punctuation">`</span></span><span class="token punctuation">,</span> <span class="token number">3</span><span class="token punctuation">)</span> <span class="token operator">IN</span> <span class="token punctuation">(</span><span class="token string">'300'</span><span class="token punctuation">,</span> <span class="token string">'301'</span><span class="token punctuation">)</span>
+    <span class="token punctuation">)</span> <span class="token keyword">AS</span> dq
+<span class="token keyword">LEFT</span> <span class="token keyword">JOIN</span>
+    <span class="token identifier"><span class="token punctuation">`</span>股票基础信息<span class="token punctuation">`</span></span> <span class="token keyword">AS</span> gb <span class="token keyword">ON</span> dq<span class="token punctuation">.</span>股票代码 <span class="token operator">=</span> gb<span class="token punctuation">.</span>股票代码
+<span class="token keyword">LEFT</span> <span class="token keyword">JOIN</span>
+    <span class="token identifier"><span class="token punctuation">`</span>每日触板<span class="token punctuation">`</span></span> <span class="token keyword">AS</span> tb <span class="token keyword">ON</span> dq<span class="token punctuation">.</span>日期 <span class="token operator">=</span> tb<span class="token punctuation">.</span>日期 <span class="token operator">AND</span> dq<span class="token punctuation">.</span>股票代码 <span class="token operator">=</span> tb<span class="token punctuation">.</span>股票代码
+<span class="token keyword">ORDER</span> <span class="token keyword">BY</span>
+    dq<span class="token punctuation">.</span>日期 <span class="token keyword">DESC</span><span class="token punctuation">,</span>
+    dq<span class="token punctuation">.</span>股票代码<span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+
+
+<h2 id="股价信息查询-2-0"><a href="#股价信息查询-2-0" class="headerlink" title="股价信息查询_2.0"></a>股价信息查询_2.0</h2><pre class="line-numbers language-sql" data-language="sql"><code class="language-sql"><span class="token keyword">SELECT</span>
+	dq<span class="token punctuation">.</span>日期<span class="token punctuation">,</span>
+	<span class="token keyword">LEFT</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>股票代码<span class="token punctuation">,</span> <span class="token number">6</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 股票代码<span class="token punctuation">,</span>
+	gb<span class="token punctuation">.</span>股票名称<span class="token punctuation">,</span>
+	gb<span class="token punctuation">.</span>所属同花顺行业 <span class="token keyword">AS</span> 同花顺板块<span class="token punctuation">,</span>
+	gb<span class="token punctuation">.</span>所属东方财富行业 <span class="token keyword">AS</span> 东财板块<span class="token punctuation">,</span>
+<span class="token keyword">CASE</span>
+		
+		<span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>股票代码前缀 <span class="token operator">IN</span> <span class="token punctuation">(</span><span class="token string">'300'</span><span class="token punctuation">,</span> <span class="token string">'301'</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span>
+		<span class="token string">'创业板'</span> 
+		<span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>股票代码前缀 <span class="token operator">IN</span> <span class="token punctuation">(</span><span class="token string">'000'</span><span class="token punctuation">,</span> <span class="token string">'001'</span><span class="token punctuation">,</span> <span class="token string">'002'</span><span class="token punctuation">,</span> <span class="token string">'003'</span><span class="token punctuation">,</span> <span class="token string">'600'</span><span class="token punctuation">,</span> <span class="token string">'601'</span><span class="token punctuation">,</span> <span class="token string">'603'</span><span class="token punctuation">,</span> <span class="token string">'605'</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span>
+		<span class="token string">'主板'</span> 
+		<span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>股票代码前缀 <span class="token operator">IN</span> <span class="token punctuation">(</span><span class="token string">'430'</span><span class="token punctuation">,</span> <span class="token string">'830'</span><span class="token punctuation">,</span> <span class="token string">'870'</span><span class="token punctuation">,</span> <span class="token string">'920'</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span>
+		<span class="token string">'北证'</span> 
+		<span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>股票代码前缀 <span class="token operator">IN</span> <span class="token punctuation">(</span><span class="token string">'688'</span><span class="token punctuation">,</span> <span class="token string">'689'</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span>
+		<span class="token string">'科创'</span> <span class="token keyword">ELSE</span> <span class="token string">'其他'</span> 
+	<span class="token keyword">END</span> <span class="token keyword">AS</span> 证券划分<span class="token punctuation">,</span>
+	dq<span class="token punctuation">.</span>开盘<span class="token punctuation">,</span>
+	dq<span class="token punctuation">.</span>成交量<span class="token punctuation">,</span>
+	dq<span class="token punctuation">.</span>收盘<span class="token punctuation">,</span>
+	dq<span class="token punctuation">.</span>最低<span class="token punctuation">,</span>
+	dq<span class="token punctuation">.</span>最高<span class="token punctuation">,</span>
+	dq<span class="token punctuation">.</span>振幅<span class="token punctuation">,</span>
+	dq<span class="token punctuation">.</span>换手率<span class="token punctuation">,</span>
+	dq<span class="token punctuation">.</span>涨跌幅<span class="token punctuation">,</span>
+	dq<span class="token punctuation">.</span>涨跌额<span class="token punctuation">,</span>
+	<span class="token function">ROUND</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>收盘 <span class="token operator">-</span> dq<span class="token punctuation">.</span>涨跌额<span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 昨日收盘价<span class="token punctuation">,</span>
+<span class="token keyword">CASE</span>
+		
+		<span class="token keyword">WHEN</span> <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>收盘 <span class="token operator">-</span> dq<span class="token punctuation">.</span>涨跌额<span class="token punctuation">)</span> <span class="token operator">*</span> <span class="token number">1.2</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token operator">-</span> dq<span class="token punctuation">.</span>最高 <span class="token operator">=</span> <span class="token number">0</span> <span class="token keyword">THEN</span>
+		<span class="token string">'涨停'</span> <span class="token keyword">ELSE</span> <span class="token string">'其他'</span> 
+	<span class="token keyword">END</span> <span class="token keyword">AS</span> 涨停状态<span class="token punctuation">,</span>
+<span class="token keyword">CASE</span>
+		
+		<span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>最高 <span class="token operator">=</span> <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">)</span> <span class="token operator">*</span> <span class="token number">1.2</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span>
+		<span class="token string">'触涨停'</span> 
+		<span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>最低 <span class="token operator">=</span> <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">)</span> <span class="token operator">*</span> <span class="token number">0.8</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span>
+		<span class="token string">'触跌停'</span> 
+		<span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>收盘 <span class="token operator">>=</span> dq<span class="token punctuation">.</span>开盘 <span class="token keyword">THEN</span>
+		<span class="token string">'涨'</span> <span class="token keyword">ELSE</span> <span class="token string">'跌'</span> 
+	<span class="token keyword">END</span> <span class="token keyword">AS</span> 涨跌情况<span class="token punctuation">,</span>
+<span class="token keyword">CASE</span>
+		
+		<span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>昨日收盘价 <span class="token operator">=</span> <span class="token number">0</span> <span class="token keyword">THEN</span>
+		<span class="token boolean">NULL</span> <span class="token keyword">ELSE</span> <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>最低 <span class="token operator">-</span> dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">)</span> <span class="token operator">/</span> dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">)</span> 
+	<span class="token keyword">END</span> <span class="token keyword">AS</span> 最低跌幅<span class="token punctuation">,</span>
+<span class="token keyword">CASE</span>
+		
+		<span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>昨日收盘价 <span class="token operator">=</span> <span class="token number">0</span> <span class="token keyword">THEN</span>
+		<span class="token boolean">NULL</span> <span class="token keyword">ELSE</span> <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>最高 <span class="token operator">-</span> dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">)</span> <span class="token operator">/</span> dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">)</span> 
+	<span class="token keyword">END</span> <span class="token keyword">AS</span> 最高涨幅<span class="token punctuation">,</span>
+	dq<span class="token punctuation">.</span>收盘 <span class="token operator">-</span> dq<span class="token punctuation">.</span>开盘 <span class="token keyword">AS</span> 收开盘价差<span class="token punctuation">,</span><span class="token comment">-- 新增字段：收盘与开盘的差值</span>
+	dq<span class="token punctuation">.</span>最高 <span class="token operator">-</span> dq<span class="token punctuation">.</span>最低 <span class="token keyword">AS</span> 高低差 <span class="token comment">-- 新增字段：最高与最低的差值</span>
+	
+<span class="token keyword">FROM</span>
+	<span class="token punctuation">(</span>
+		<span class="token keyword">SELECT</span>
+			<span class="token identifier"><span class="token punctuation">`</span>日期<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+			<span class="token identifier"><span class="token punctuation">`</span>股票代码<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+			<span class="token keyword">LEFT</span><span class="token punctuation">(</span><span class="token identifier"><span class="token punctuation">`</span>股票代码<span class="token punctuation">`</span></span><span class="token punctuation">,</span> <span class="token number">3</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 股票代码前缀<span class="token punctuation">,</span>
+			<span class="token identifier"><span class="token punctuation">`</span>开盘<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+			<span class="token identifier"><span class="token punctuation">`</span>收盘<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+			<span class="token identifier"><span class="token punctuation">`</span>最低<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+			<span class="token identifier"><span class="token punctuation">`</span>成交量<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+			<span class="token identifier"><span class="token punctuation">`</span>最高<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+			<span class="token identifier"><span class="token punctuation">`</span>振幅<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+			<span class="token identifier"><span class="token punctuation">`</span>换手率<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+			<span class="token identifier"><span class="token punctuation">`</span>涨跌幅<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+			<span class="token identifier"><span class="token punctuation">`</span>涨跌额<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+			<span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token identifier"><span class="token punctuation">`</span>收盘<span class="token punctuation">`</span></span> <span class="token operator">-</span> <span class="token identifier"><span class="token punctuation">`</span>涨跌额<span class="token punctuation">`</span></span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 昨日收盘价 <span class="token comment">-- 提前计算昨日收盘价</span>
+			
+		<span class="token keyword">FROM</span>
+			<span class="token identifier"><span class="token punctuation">`</span>每日行情查询<span class="token punctuation">`</span></span> 
+		<span class="token keyword">WHERE</span>
+			<span class="token identifier"><span class="token punctuation">`</span>日期<span class="token punctuation">`</span></span> <span class="token operator">>=</span> CURDATE<span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">-</span> <span class="token keyword">INTERVAL</span> <span class="token number">100</span> <span class="token keyword">DAY</span> 
+			<span class="token operator">AND</span> <span class="token keyword">LEFT</span><span class="token punctuation">(</span><span class="token identifier"><span class="token punctuation">`</span>股票代码<span class="token punctuation">`</span></span><span class="token punctuation">,</span> <span class="token number">3</span><span class="token punctuation">)</span> <span class="token operator">IN</span> <span class="token punctuation">(</span><span class="token string">'300'</span><span class="token punctuation">,</span> <span class="token string">'301'</span><span class="token punctuation">)</span> <span class="token comment">-- 筛选出创业板的股票</span>
+	<span class="token punctuation">)</span> <span class="token keyword">AS</span> dq
+	<span class="token keyword">LEFT</span> <span class="token keyword">JOIN</span> <span class="token identifier"><span class="token punctuation">`</span>股票基础信息<span class="token punctuation">`</span></span> <span class="token keyword">AS</span> gb <span class="token keyword">ON</span> dq<span class="token punctuation">.</span>股票代码 <span class="token operator">=</span> gb<span class="token punctuation">.</span>股票代码 
+<span class="token keyword">ORDER</span> <span class="token keyword">BY</span>
+	dq<span class="token punctuation">.</span>日期 <span class="token keyword">DESC</span><span class="token punctuation">,</span>
+	dq<span class="token punctuation">.</span>股票代码<span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+
+
+<h2 id="最高最低价箱体框架"><a href="#最高最低价箱体框架" class="headerlink" title="最高最低价箱体框架"></a>最高最低价箱体框架</h2><pre class="line-numbers language-sql" data-language="sql"><code class="language-sql"><span class="token keyword">WITH</span> 涨停日期 <span class="token keyword">AS</span> <span class="token punctuation">(</span>
+    <span class="token keyword">SELECT</span>
+        <span class="token keyword">LEFT</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>股票代码<span class="token punctuation">,</span> <span class="token number">6</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 股票代码<span class="token punctuation">,</span>
+        dq<span class="token punctuation">.</span>日期 <span class="token keyword">AS</span> 涨停日期
+    <span class="token keyword">FROM</span>
+        <span class="token punctuation">(</span>
+            <span class="token keyword">SELECT</span> 
+                <span class="token identifier"><span class="token punctuation">`</span>日期<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+                <span class="token identifier"><span class="token punctuation">`</span>股票代码<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+                <span class="token identifier"><span class="token punctuation">`</span>最高<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
+                <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token identifier"><span class="token punctuation">`</span>收盘<span class="token punctuation">`</span></span> <span class="token operator">-</span> <span class="token identifier"><span class="token punctuation">`</span>涨跌额<span class="token punctuation">`</span></span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 昨日收盘价
+            <span class="token keyword">FROM</span> 
+                <span class="token identifier"><span class="token punctuation">`</span>每日行情查询<span class="token punctuation">`</span></span>
+            <span class="token keyword">WHERE</span> 
+                <span class="token identifier"><span class="token punctuation">`</span>日期<span class="token punctuation">`</span></span> <span class="token operator">>=</span> CURDATE<span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">-</span> <span class="token keyword">INTERVAL</span> <span class="token number">100</span> <span class="token keyword">DAY</span> 
+                <span class="token operator">AND</span> <span class="token keyword">LEFT</span><span class="token punctuation">(</span><span class="token identifier"><span class="token punctuation">`</span>股票代码<span class="token punctuation">`</span></span><span class="token punctuation">,</span> <span class="token number">3</span><span class="token punctuation">)</span> <span class="token operator">IN</span> <span class="token punctuation">(</span><span class="token string">'300'</span><span class="token punctuation">,</span> <span class="token string">'301'</span><span class="token punctuation">)</span>
+        <span class="token punctuation">)</span> <span class="token keyword">AS</span> dq
+    <span class="token keyword">WHERE</span>
+        dq<span class="token punctuation">.</span>最高 <span class="token operator">=</span> <span class="token function">ROUND</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>昨日收盘价 <span class="token operator">*</span> <span class="token number">1.2</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span>
+<span class="token punctuation">)</span><span class="token punctuation">,</span>
+价格区间 <span class="token keyword">AS</span> <span class="token punctuation">(</span>
+    <span class="token keyword">SELECT</span>
+        <span class="token keyword">LEFT</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>股票代码<span class="token punctuation">,</span> <span class="token number">6</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 股票代码<span class="token punctuation">,</span>
+        dq<span class="token punctuation">.</span>日期<span class="token punctuation">,</span>
+        dq<span class="token punctuation">.</span>开盘<span class="token punctuation">,</span>
+        dq<span class="token punctuation">.</span>收盘<span class="token punctuation">,</span>
+        zd<span class="token punctuation">.</span>涨停日期
+    <span class="token keyword">FROM</span>
+        <span class="token identifier"><span class="token punctuation">`</span>每日行情查询<span class="token punctuation">`</span></span> <span class="token keyword">AS</span> dq
+    <span class="token keyword">JOIN</span>
+        涨停日期 <span class="token keyword">AS</span> zd
+    <span class="token keyword">ON</span>
+        <span class="token keyword">LEFT</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>股票代码<span class="token punctuation">,</span> <span class="token number">6</span><span class="token punctuation">)</span> <span class="token operator">=</span> zd<span class="token punctuation">.</span>股票代码
+    <span class="token keyword">WHERE</span>
+        dq<span class="token punctuation">.</span>日期 <span class="token operator">BETWEEN</span> zd<span class="token punctuation">.</span>涨停日期 <span class="token operator">AND</span> DATE_ADD<span class="token punctuation">(</span>zd<span class="token punctuation">.</span>涨停日期<span class="token punctuation">,</span> <span class="token keyword">INTERVAL</span> <span class="token number">10</span> <span class="token keyword">DAY</span><span class="token punctuation">)</span>
+<span class="token punctuation">)</span><span class="token punctuation">,</span>
+最高最低价 <span class="token keyword">AS</span> <span class="token punctuation">(</span>
+    <span class="token keyword">SELECT</span>
+        股票代码<span class="token punctuation">,</span>
+        涨停日期<span class="token punctuation">,</span>
+        <span class="token function">MAX</span><span class="token punctuation">(</span>GREATEST<span class="token punctuation">(</span>开盘<span class="token punctuation">,</span> 收盘<span class="token punctuation">)</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 最高价<span class="token punctuation">,</span> <span class="token comment">-- 开盘价和收盘价的最大值</span>
+        <span class="token function">MIN</span><span class="token punctuation">(</span><span class="token keyword">CASE</span> <span class="token keyword">WHEN</span> 日期 <span class="token operator">></span> 涨停日期 <span class="token keyword">THEN</span> LEAST<span class="token punctuation">(</span>开盘<span class="token punctuation">,</span> 收盘<span class="token punctuation">)</span> <span class="token keyword">END</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 最低价 <span class="token comment">-- 排除涨停当天的最低价</span>
+    <span class="token keyword">FROM</span>
+        价格区间
+    <span class="token keyword">GROUP</span> <span class="token keyword">BY</span>
+        股票代码<span class="token punctuation">,</span>
+        涨停日期
+<span class="token punctuation">)</span><span class="token punctuation">,</span>
+最高最低价日期 <span class="token keyword">AS</span> <span class="token punctuation">(</span>
+    <span class="token keyword">SELECT</span>
+        p<span class="token punctuation">.</span>股票代码<span class="token punctuation">,</span>
+        p<span class="token punctuation">.</span>涨停日期<span class="token punctuation">,</span>
+        h<span class="token punctuation">.</span>最高价<span class="token punctuation">,</span>
+        h<span class="token punctuation">.</span>最低价<span class="token punctuation">,</span>
+        <span class="token function">MAX</span><span class="token punctuation">(</span><span class="token keyword">CASE</span> <span class="token keyword">WHEN</span> GREATEST<span class="token punctuation">(</span>p<span class="token punctuation">.</span>开盘<span class="token punctuation">,</span> p<span class="token punctuation">.</span>收盘<span class="token punctuation">)</span> <span class="token operator">=</span> h<span class="token punctuation">.</span>最高价 <span class="token keyword">THEN</span> p<span class="token punctuation">.</span>日期 <span class="token keyword">END</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 最高价日期<span class="token punctuation">,</span>
+        <span class="token function">MIN</span><span class="token punctuation">(</span><span class="token keyword">CASE</span> <span class="token keyword">WHEN</span> LEAST<span class="token punctuation">(</span>p<span class="token punctuation">.</span>开盘<span class="token punctuation">,</span> p<span class="token punctuation">.</span>收盘<span class="token punctuation">)</span> <span class="token operator">=</span> h<span class="token punctuation">.</span>最低价 <span class="token operator">AND</span> p<span class="token punctuation">.</span>日期 <span class="token operator">></span> p<span class="token punctuation">.</span>涨停日期 <span class="token keyword">THEN</span> p<span class="token punctuation">.</span>日期 <span class="token keyword">END</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 最低价日期 <span class="token comment">-- 排除涨停当天的最低价日期</span>
+    <span class="token keyword">FROM</span>
+        价格区间 <span class="token keyword">AS</span> p
+    <span class="token keyword">JOIN</span>
+        最高最低价 <span class="token keyword">AS</span> h
+    <span class="token keyword">ON</span>
+        p<span class="token punctuation">.</span>股票代码 <span class="token operator">=</span> h<span class="token punctuation">.</span>股票代码
+        <span class="token operator">AND</span> p<span class="token punctuation">.</span>涨停日期 <span class="token operator">=</span> h<span class="token punctuation">.</span>涨停日期
+    <span class="token keyword">GROUP</span> <span class="token keyword">BY</span>
+        p<span class="token punctuation">.</span>股票代码<span class="token punctuation">,</span>
+        p<span class="token punctuation">.</span>涨停日期<span class="token punctuation">,</span>
+        h<span class="token punctuation">.</span>最高价<span class="token punctuation">,</span>
+        h<span class="token punctuation">.</span>最低价
+<span class="token punctuation">)</span>
+<span class="token keyword">SELECT</span>
+    股票代码<span class="token punctuation">,</span>
+    涨停日期<span class="token punctuation">,</span>
+    最高价<span class="token punctuation">,</span>
+    最低价<span class="token punctuation">,</span>
+    最高价日期<span class="token punctuation">,</span>
+    最低价日期<span class="token punctuation">,</span>
+    <span class="token keyword">CASE</span>
+        <span class="token keyword">WHEN</span> 最低价 <span class="token operator">=</span> <span class="token number">0</span> <span class="token keyword">THEN</span> <span class="token boolean">NULL</span>
+        <span class="token keyword">ELSE</span> <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token punctuation">(</span>最高价 <span class="token operator">-</span> 最低价<span class="token punctuation">)</span> <span class="token operator">/</span> 最低价<span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">)</span>
+    <span class="token keyword">END</span> <span class="token keyword">AS</span> 比例
+<span class="token keyword">FROM</span>
+    最高最低价日期
+<span class="token keyword">ORDER</span> <span class="token keyword">BY</span>
+    涨停日期 <span class="token keyword">DESC</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>数据源</tag>
       </tags>
   </entry>
   <entry>
@@ -962,6 +1333,36 @@ nvm use stable     <span class="token comment"># 使用刚刚安装的 Node.js �
   <span class="token key atrule">scrollpercent</span><span class="token punctuation">:</span> <span class="token boolean important">true</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
 
 
+
+<h3 id="上下篇文章导航按照更新时间排序"><a href="#上下篇文章导航按照更新时间排序" class="headerlink" title="上下篇文章导航按照更新时间排序"></a>上下篇文章导航按照更新时间排序</h3><h4 id="1-修改主题配置文件-config-yml"><a href="#1-修改主题配置文件-config-yml" class="headerlink" title="1. 修改主题配置文件 _config.yml"></a>1. 修改主题配置文件 <code>_config.yml</code></h4><p>确保已开启文章导航：</p>
+<pre class="line-numbers language-yaml" data-language="yaml"><code class="language-yaml"><span class="token key atrule">post_navigation</span><span class="token punctuation">:</span>
+  <span class="token key atrule">enabled</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>
+  <span class="token comment"># 添加或修改这一行</span>
+  <span class="token key atrule">order_by</span><span class="token punctuation">:</span> updated  <span class="token comment"># 可选: updated, date, title</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre>
+
+
+
+<h4 id="2-在Hexo根目录创建脚本"><a href="#2-在Hexo根目录创建脚本" class="headerlink" title="2. 在Hexo根目录创建脚本"></a>2. 在Hexo根目录创建脚本</h4><p>在博客根目录的 <code>scripts/</code> 文件夹（如果没有就创建一个）中创建 <code>custom-nav.js</code>：</p>
+<pre class="line-numbers language-javascript" data-language="javascript"><code class="language-javascript"><span class="token string">'use strict'</span><span class="token punctuation">;</span>
+
+hexo<span class="token punctuation">.</span>extend<span class="token punctuation">.</span>filter<span class="token punctuation">.</span><span class="token function">register</span><span class="token punctuation">(</span><span class="token string">'template_locals'</span><span class="token punctuation">,</span> <span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">locals</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span>
+  <span class="token keyword">if</span> <span class="token punctuation">(</span>locals<span class="token punctuation">.</span>page <span class="token operator">&amp;&amp;</span> locals<span class="token punctuation">.</span>page<span class="token punctuation">.</span>layout <span class="token operator">===</span> <span class="token string">'post'</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span>
+    <span class="token comment">// 获取所有文章按更新时间排序</span>
+    <span class="token keyword">const</span> posts <span class="token operator">=</span> locals<span class="token punctuation">.</span>site<span class="token punctuation">.</span>posts<span class="token punctuation">.</span><span class="token function">sort</span><span class="token punctuation">(</span><span class="token string">'updated'</span><span class="token punctuation">,</span> <span class="token operator">-</span><span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">toArray</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token keyword">const</span> currentIndex <span class="token operator">=</span> posts<span class="token punctuation">.</span><span class="token function">findIndex</span><span class="token punctuation">(</span><span class="token parameter">post</span> <span class="token operator">=></span> 
+      post<span class="token punctuation">.</span>_id <span class="token operator">===</span> locals<span class="token punctuation">.</span>page<span class="token punctuation">.</span>_id <span class="token operator">||</span> 
+      <span class="token punctuation">(</span>post<span class="token punctuation">.</span>title <span class="token operator">===</span> locals<span class="token punctuation">.</span>page<span class="token punctuation">.</span>title <span class="token operator">&amp;&amp;</span> post<span class="token punctuation">.</span>date <span class="token operator">===</span> locals<span class="token punctuation">.</span>page<span class="token punctuation">.</span>date<span class="token punctuation">)</span>
+    <span class="token punctuation">)</span><span class="token punctuation">;</span>
+    
+    <span class="token keyword">if</span> <span class="token punctuation">(</span>currentIndex <span class="token operator">!==</span> <span class="token operator">-</span><span class="token number">1</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span>
+      <span class="token comment">// 设置上一篇和下一篇</span>
+      locals<span class="token punctuation">.</span>page<span class="token punctuation">.</span>prev <span class="token operator">=</span> currentIndex <span class="token operator">></span> <span class="token number">0</span> <span class="token operator">?</span> posts<span class="token punctuation">[</span>currentIndex <span class="token operator">-</span> <span class="token number">1</span><span class="token punctuation">]</span> <span class="token operator">:</span> <span class="token keyword">null</span><span class="token punctuation">;</span>
+      locals<span class="token punctuation">.</span>page<span class="token punctuation">.</span>next <span class="token operator">=</span> currentIndex <span class="token operator">&lt;</span> posts<span class="token punctuation">.</span>length <span class="token operator">-</span> <span class="token number">1</span> <span class="token operator">?</span> posts<span class="token punctuation">[</span>currentIndex <span class="token operator">+</span> <span class="token number">1</span><span class="token punctuation">]</span> <span class="token operator">:</span> <span class="token keyword">null</span><span class="token punctuation">;</span>
+    <span class="token punctuation">&#125;</span>
+  <span class="token punctuation">&#125;</span>
+  
+  <span class="token keyword">return</span> locals<span class="token punctuation">;</span>
+<span class="token punctuation">&#125;</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
 
 
 
@@ -1418,272 +1819,25 @@ h1 code, h2 code, h3 code, h4 code, h5 code, h6 code &#123;
       </tags>
   </entry>
   <entry>
-    <title>数据源升级-4.0</title>
-    <url>/posts/e5055713/</url>
-    <content><![CDATA[<p>对之前的数据源进行结构上的优化，实用性上增加缠论的箱体框架逻辑</p>
+    <title>问财数据获取</title>
+    <url>/posts/d864c049/</url>
+    <content><![CDATA[<p>问财数据获取环境搭建</p>
 <span id="more"></span>
 
-<p>待完善的 -</p>
 <ol>
-<li>实时监控模块的搭建</li>
-<li>箱体数据的清洗</li>
-<li>测试方案性能</li>
+<li>安装pycharm，并激活</li>
+<li>安装node.js，使用安装包安装，版本号为20.xx</li>
+<li>安装python，版本无关-通过pycharm 安装</li>
+<li>重启电脑</li>
+<li>在运行代码界面安装提示模块</li>
+<li>完毕</li>
 </ol>
-<hr>
-<p>以下是SQL查询语句的备份</p>
-<h2 id="股价信息查询-2-0-增加涨停信息"><a href="#股价信息查询-2-0-增加涨停信息" class="headerlink" title="股价信息查询_2.0-增加涨停信息"></a>股价信息查询_2.0-增加涨停信息</h2><pre class="line-numbers language-sql" data-language="sql"><code class="language-sql"><span class="token keyword">SELECT</span>
-    dq<span class="token punctuation">.</span>日期<span class="token punctuation">,</span>
-    <span class="token keyword">LEFT</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>股票代码<span class="token punctuation">,</span> <span class="token number">6</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 股票代码<span class="token punctuation">,</span>
-    gb<span class="token punctuation">.</span>股票名称<span class="token punctuation">,</span>
-    gb<span class="token punctuation">.</span>所属同花顺行业 <span class="token keyword">AS</span> 同花顺板块<span class="token punctuation">,</span>
-    gb<span class="token punctuation">.</span>所属东方财富行业 <span class="token keyword">AS</span> 东财板块<span class="token punctuation">,</span>
-    <span class="token keyword">CASE</span>
-        <span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>股票代码前缀 <span class="token operator">IN</span> <span class="token punctuation">(</span><span class="token string">'300'</span><span class="token punctuation">,</span> <span class="token string">'301'</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span> <span class="token string">'创业板'</span>
-        <span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>股票代码前缀 <span class="token operator">IN</span> <span class="token punctuation">(</span><span class="token string">'000'</span><span class="token punctuation">,</span> <span class="token string">'001'</span><span class="token punctuation">,</span> <span class="token string">'002'</span><span class="token punctuation">,</span> <span class="token string">'003'</span><span class="token punctuation">,</span> <span class="token string">'600'</span><span class="token punctuation">,</span> <span class="token string">'601'</span><span class="token punctuation">,</span> <span class="token string">'603'</span><span class="token punctuation">,</span> <span class="token string">'605'</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span> <span class="token string">'主板'</span>
-        <span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>股票代码前缀 <span class="token operator">IN</span> <span class="token punctuation">(</span><span class="token string">'430'</span><span class="token punctuation">,</span> <span class="token string">'830'</span><span class="token punctuation">,</span> <span class="token string">'870'</span><span class="token punctuation">,</span> <span class="token string">'920'</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span> <span class="token string">'北证'</span>
-        <span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>股票代码前缀 <span class="token operator">IN</span> <span class="token punctuation">(</span><span class="token string">'688'</span><span class="token punctuation">,</span> <span class="token string">'689'</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span> <span class="token string">'科创'</span>
-        <span class="token keyword">ELSE</span> <span class="token string">'其他'</span>
-    <span class="token keyword">END</span> <span class="token keyword">AS</span> 证券划分<span class="token punctuation">,</span>
-    dq<span class="token punctuation">.</span>开盘<span class="token punctuation">,</span>
-    dq<span class="token punctuation">.</span>成交量<span class="token punctuation">,</span>
-    dq<span class="token punctuation">.</span>收盘<span class="token punctuation">,</span>
-    dq<span class="token punctuation">.</span>最低<span class="token punctuation">,</span>
-    dq<span class="token punctuation">.</span>最高<span class="token punctuation">,</span>
-    dq<span class="token punctuation">.</span>振幅<span class="token punctuation">,</span>
-    dq<span class="token punctuation">.</span>换手率<span class="token punctuation">,</span>
-    dq<span class="token punctuation">.</span>涨跌幅<span class="token punctuation">,</span>
-    dq<span class="token punctuation">.</span>涨跌额<span class="token punctuation">,</span>
-    <span class="token function">ROUND</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>收盘 <span class="token operator">-</span> dq<span class="token punctuation">.</span>涨跌额<span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 昨日收盘价<span class="token punctuation">,</span>
-    <span class="token keyword">CASE</span>
-        <span class="token keyword">WHEN</span> <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>收盘 <span class="token operator">-</span> dq<span class="token punctuation">.</span>涨跌额<span class="token punctuation">)</span> <span class="token operator">*</span> <span class="token number">1.2</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token operator">-</span> dq<span class="token punctuation">.</span>最高 <span class="token operator">=</span> <span class="token number">0</span> <span class="token keyword">THEN</span> <span class="token string">'涨停'</span>
-        <span class="token keyword">ELSE</span> <span class="token string">'其他'</span>
-    <span class="token keyword">END</span> <span class="token keyword">AS</span> 涨停状态<span class="token punctuation">,</span>
-    <span class="token keyword">CASE</span>
-        <span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>最高 <span class="token operator">=</span> <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">)</span> <span class="token operator">*</span> <span class="token number">1.2</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span> <span class="token string">'触涨停'</span>
-        <span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>最低 <span class="token operator">=</span> <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">)</span> <span class="token operator">*</span> <span class="token number">0.8</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span> <span class="token string">'触跌停'</span>
-        <span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>收盘 <span class="token operator">>=</span> dq<span class="token punctuation">.</span>开盘 <span class="token keyword">THEN</span> <span class="token string">'涨'</span>
-        <span class="token keyword">ELSE</span> <span class="token string">'跌'</span>
-    <span class="token keyword">END</span> <span class="token keyword">AS</span> 涨跌情况<span class="token punctuation">,</span>
-    <span class="token keyword">CASE</span>
-        <span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>昨日收盘价 <span class="token operator">=</span> <span class="token number">0</span> <span class="token keyword">THEN</span> <span class="token boolean">NULL</span>
-        <span class="token keyword">ELSE</span> <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>最低 <span class="token operator">-</span> dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">)</span> <span class="token operator">/</span> dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">)</span>
-    <span class="token keyword">END</span> <span class="token keyword">AS</span> 最低跌幅<span class="token punctuation">,</span>
-    <span class="token keyword">CASE</span>
-        <span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>昨日收盘价 <span class="token operator">=</span> <span class="token number">0</span> <span class="token keyword">THEN</span> <span class="token boolean">NULL</span>
-        <span class="token keyword">ELSE</span> <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>最高 <span class="token operator">-</span> dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">)</span> <span class="token operator">/</span> dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">)</span>
-    <span class="token keyword">END</span> <span class="token keyword">AS</span> 最高涨幅<span class="token punctuation">,</span>
-    dq<span class="token punctuation">.</span>收盘 <span class="token operator">-</span> dq<span class="token punctuation">.</span>开盘 <span class="token keyword">AS</span> 收开盘价差<span class="token punctuation">,</span>
-    dq<span class="token punctuation">.</span>最高 <span class="token operator">-</span> dq<span class="token punctuation">.</span>最低 <span class="token keyword">AS</span> 高低差<span class="token punctuation">,</span>
-    tb<span class="token punctuation">.</span>涨停原因类别<span class="token punctuation">,</span>
-    tb<span class="token punctuation">.</span>几天几板<span class="token punctuation">,</span>
-    tb<span class="token punctuation">.</span>涨停类型
-<span class="token keyword">FROM</span>
-    <span class="token punctuation">(</span>
-        <span class="token keyword">SELECT</span>
-            <span class="token identifier"><span class="token punctuation">`</span>日期<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-            <span class="token identifier"><span class="token punctuation">`</span>股票代码<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-            <span class="token keyword">LEFT</span><span class="token punctuation">(</span><span class="token identifier"><span class="token punctuation">`</span>股票代码<span class="token punctuation">`</span></span><span class="token punctuation">,</span> <span class="token number">3</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 股票代码前缀<span class="token punctuation">,</span>
-            <span class="token identifier"><span class="token punctuation">`</span>开盘<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-            <span class="token identifier"><span class="token punctuation">`</span>收盘<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-            <span class="token identifier"><span class="token punctuation">`</span>最低<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-            <span class="token identifier"><span class="token punctuation">`</span>成交量<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-            <span class="token identifier"><span class="token punctuation">`</span>最高<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-            <span class="token identifier"><span class="token punctuation">`</span>振幅<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-            <span class="token identifier"><span class="token punctuation">`</span>换手率<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-            <span class="token identifier"><span class="token punctuation">`</span>涨跌幅<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-            <span class="token identifier"><span class="token punctuation">`</span>涨跌额<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-            <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token identifier"><span class="token punctuation">`</span>收盘<span class="token punctuation">`</span></span> <span class="token operator">-</span> <span class="token identifier"><span class="token punctuation">`</span>涨跌额<span class="token punctuation">`</span></span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 昨日收盘价
-        <span class="token keyword">FROM</span>
-            <span class="token identifier"><span class="token punctuation">`</span>每日行情查询<span class="token punctuation">`</span></span>
-        <span class="token keyword">WHERE</span>
-            <span class="token identifier"><span class="token punctuation">`</span>日期<span class="token punctuation">`</span></span> <span class="token operator">>=</span> CURDATE<span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">-</span> <span class="token keyword">INTERVAL</span> <span class="token number">100</span> <span class="token keyword">DAY</span>
-            <span class="token operator">AND</span> <span class="token keyword">LEFT</span><span class="token punctuation">(</span><span class="token identifier"><span class="token punctuation">`</span>股票代码<span class="token punctuation">`</span></span><span class="token punctuation">,</span> <span class="token number">3</span><span class="token punctuation">)</span> <span class="token operator">IN</span> <span class="token punctuation">(</span><span class="token string">'300'</span><span class="token punctuation">,</span> <span class="token string">'301'</span><span class="token punctuation">)</span>
-    <span class="token punctuation">)</span> <span class="token keyword">AS</span> dq
-<span class="token keyword">LEFT</span> <span class="token keyword">JOIN</span>
-    <span class="token identifier"><span class="token punctuation">`</span>股票基础信息<span class="token punctuation">`</span></span> <span class="token keyword">AS</span> gb <span class="token keyword">ON</span> dq<span class="token punctuation">.</span>股票代码 <span class="token operator">=</span> gb<span class="token punctuation">.</span>股票代码
-<span class="token keyword">LEFT</span> <span class="token keyword">JOIN</span>
-    <span class="token identifier"><span class="token punctuation">`</span>每日触板<span class="token punctuation">`</span></span> <span class="token keyword">AS</span> tb <span class="token keyword">ON</span> dq<span class="token punctuation">.</span>日期 <span class="token operator">=</span> tb<span class="token punctuation">.</span>日期 <span class="token operator">AND</span> dq<span class="token punctuation">.</span>股票代码 <span class="token operator">=</span> tb<span class="token punctuation">.</span>股票代码
-<span class="token keyword">ORDER</span> <span class="token keyword">BY</span>
-    dq<span class="token punctuation">.</span>日期 <span class="token keyword">DESC</span><span class="token punctuation">,</span>
-    dq<span class="token punctuation">.</span>股票代码<span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-
-
-
-<h2 id="股价信息查询-2-0"><a href="#股价信息查询-2-0" class="headerlink" title="股价信息查询_2.0"></a>股价信息查询_2.0</h2><pre class="line-numbers language-sql" data-language="sql"><code class="language-sql"><span class="token keyword">SELECT</span>
-	dq<span class="token punctuation">.</span>日期<span class="token punctuation">,</span>
-	<span class="token keyword">LEFT</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>股票代码<span class="token punctuation">,</span> <span class="token number">6</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 股票代码<span class="token punctuation">,</span>
-	gb<span class="token punctuation">.</span>股票名称<span class="token punctuation">,</span>
-	gb<span class="token punctuation">.</span>所属同花顺行业 <span class="token keyword">AS</span> 同花顺板块<span class="token punctuation">,</span>
-	gb<span class="token punctuation">.</span>所属东方财富行业 <span class="token keyword">AS</span> 东财板块<span class="token punctuation">,</span>
-<span class="token keyword">CASE</span>
-		
-		<span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>股票代码前缀 <span class="token operator">IN</span> <span class="token punctuation">(</span><span class="token string">'300'</span><span class="token punctuation">,</span> <span class="token string">'301'</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span>
-		<span class="token string">'创业板'</span> 
-		<span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>股票代码前缀 <span class="token operator">IN</span> <span class="token punctuation">(</span><span class="token string">'000'</span><span class="token punctuation">,</span> <span class="token string">'001'</span><span class="token punctuation">,</span> <span class="token string">'002'</span><span class="token punctuation">,</span> <span class="token string">'003'</span><span class="token punctuation">,</span> <span class="token string">'600'</span><span class="token punctuation">,</span> <span class="token string">'601'</span><span class="token punctuation">,</span> <span class="token string">'603'</span><span class="token punctuation">,</span> <span class="token string">'605'</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span>
-		<span class="token string">'主板'</span> 
-		<span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>股票代码前缀 <span class="token operator">IN</span> <span class="token punctuation">(</span><span class="token string">'430'</span><span class="token punctuation">,</span> <span class="token string">'830'</span><span class="token punctuation">,</span> <span class="token string">'870'</span><span class="token punctuation">,</span> <span class="token string">'920'</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span>
-		<span class="token string">'北证'</span> 
-		<span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>股票代码前缀 <span class="token operator">IN</span> <span class="token punctuation">(</span><span class="token string">'688'</span><span class="token punctuation">,</span> <span class="token string">'689'</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span>
-		<span class="token string">'科创'</span> <span class="token keyword">ELSE</span> <span class="token string">'其他'</span> 
-	<span class="token keyword">END</span> <span class="token keyword">AS</span> 证券划分<span class="token punctuation">,</span>
-	dq<span class="token punctuation">.</span>开盘<span class="token punctuation">,</span>
-	dq<span class="token punctuation">.</span>成交量<span class="token punctuation">,</span>
-	dq<span class="token punctuation">.</span>收盘<span class="token punctuation">,</span>
-	dq<span class="token punctuation">.</span>最低<span class="token punctuation">,</span>
-	dq<span class="token punctuation">.</span>最高<span class="token punctuation">,</span>
-	dq<span class="token punctuation">.</span>振幅<span class="token punctuation">,</span>
-	dq<span class="token punctuation">.</span>换手率<span class="token punctuation">,</span>
-	dq<span class="token punctuation">.</span>涨跌幅<span class="token punctuation">,</span>
-	dq<span class="token punctuation">.</span>涨跌额<span class="token punctuation">,</span>
-	<span class="token function">ROUND</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>收盘 <span class="token operator">-</span> dq<span class="token punctuation">.</span>涨跌额<span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 昨日收盘价<span class="token punctuation">,</span>
-<span class="token keyword">CASE</span>
-		
-		<span class="token keyword">WHEN</span> <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>收盘 <span class="token operator">-</span> dq<span class="token punctuation">.</span>涨跌额<span class="token punctuation">)</span> <span class="token operator">*</span> <span class="token number">1.2</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token operator">-</span> dq<span class="token punctuation">.</span>最高 <span class="token operator">=</span> <span class="token number">0</span> <span class="token keyword">THEN</span>
-		<span class="token string">'涨停'</span> <span class="token keyword">ELSE</span> <span class="token string">'其他'</span> 
-	<span class="token keyword">END</span> <span class="token keyword">AS</span> 涨停状态<span class="token punctuation">,</span>
-<span class="token keyword">CASE</span>
-		
-		<span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>最高 <span class="token operator">=</span> <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">)</span> <span class="token operator">*</span> <span class="token number">1.2</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span>
-		<span class="token string">'触涨停'</span> 
-		<span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>最低 <span class="token operator">=</span> <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">)</span> <span class="token operator">*</span> <span class="token number">0.8</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token keyword">THEN</span>
-		<span class="token string">'触跌停'</span> 
-		<span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>收盘 <span class="token operator">>=</span> dq<span class="token punctuation">.</span>开盘 <span class="token keyword">THEN</span>
-		<span class="token string">'涨'</span> <span class="token keyword">ELSE</span> <span class="token string">'跌'</span> 
-	<span class="token keyword">END</span> <span class="token keyword">AS</span> 涨跌情况<span class="token punctuation">,</span>
-<span class="token keyword">CASE</span>
-		
-		<span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>昨日收盘价 <span class="token operator">=</span> <span class="token number">0</span> <span class="token keyword">THEN</span>
-		<span class="token boolean">NULL</span> <span class="token keyword">ELSE</span> <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>最低 <span class="token operator">-</span> dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">)</span> <span class="token operator">/</span> dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">)</span> 
-	<span class="token keyword">END</span> <span class="token keyword">AS</span> 最低跌幅<span class="token punctuation">,</span>
-<span class="token keyword">CASE</span>
-		
-		<span class="token keyword">WHEN</span> dq<span class="token punctuation">.</span>昨日收盘价 <span class="token operator">=</span> <span class="token number">0</span> <span class="token keyword">THEN</span>
-		<span class="token boolean">NULL</span> <span class="token keyword">ELSE</span> <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>最高 <span class="token operator">-</span> dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">)</span> <span class="token operator">/</span> dq<span class="token punctuation">.</span>昨日收盘价<span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">)</span> 
-	<span class="token keyword">END</span> <span class="token keyword">AS</span> 最高涨幅<span class="token punctuation">,</span>
-	dq<span class="token punctuation">.</span>收盘 <span class="token operator">-</span> dq<span class="token punctuation">.</span>开盘 <span class="token keyword">AS</span> 收开盘价差<span class="token punctuation">,</span><span class="token comment">-- 新增字段：收盘与开盘的差值</span>
-	dq<span class="token punctuation">.</span>最高 <span class="token operator">-</span> dq<span class="token punctuation">.</span>最低 <span class="token keyword">AS</span> 高低差 <span class="token comment">-- 新增字段：最高与最低的差值</span>
-	
-<span class="token keyword">FROM</span>
-	<span class="token punctuation">(</span>
-		<span class="token keyword">SELECT</span>
-			<span class="token identifier"><span class="token punctuation">`</span>日期<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-			<span class="token identifier"><span class="token punctuation">`</span>股票代码<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-			<span class="token keyword">LEFT</span><span class="token punctuation">(</span><span class="token identifier"><span class="token punctuation">`</span>股票代码<span class="token punctuation">`</span></span><span class="token punctuation">,</span> <span class="token number">3</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 股票代码前缀<span class="token punctuation">,</span>
-			<span class="token identifier"><span class="token punctuation">`</span>开盘<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-			<span class="token identifier"><span class="token punctuation">`</span>收盘<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-			<span class="token identifier"><span class="token punctuation">`</span>最低<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-			<span class="token identifier"><span class="token punctuation">`</span>成交量<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-			<span class="token identifier"><span class="token punctuation">`</span>最高<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-			<span class="token identifier"><span class="token punctuation">`</span>振幅<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-			<span class="token identifier"><span class="token punctuation">`</span>换手率<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-			<span class="token identifier"><span class="token punctuation">`</span>涨跌幅<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-			<span class="token identifier"><span class="token punctuation">`</span>涨跌额<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-			<span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token identifier"><span class="token punctuation">`</span>收盘<span class="token punctuation">`</span></span> <span class="token operator">-</span> <span class="token identifier"><span class="token punctuation">`</span>涨跌额<span class="token punctuation">`</span></span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 昨日收盘价 <span class="token comment">-- 提前计算昨日收盘价</span>
-			
-		<span class="token keyword">FROM</span>
-			<span class="token identifier"><span class="token punctuation">`</span>每日行情查询<span class="token punctuation">`</span></span> 
-		<span class="token keyword">WHERE</span>
-			<span class="token identifier"><span class="token punctuation">`</span>日期<span class="token punctuation">`</span></span> <span class="token operator">>=</span> CURDATE<span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">-</span> <span class="token keyword">INTERVAL</span> <span class="token number">100</span> <span class="token keyword">DAY</span> 
-			<span class="token operator">AND</span> <span class="token keyword">LEFT</span><span class="token punctuation">(</span><span class="token identifier"><span class="token punctuation">`</span>股票代码<span class="token punctuation">`</span></span><span class="token punctuation">,</span> <span class="token number">3</span><span class="token punctuation">)</span> <span class="token operator">IN</span> <span class="token punctuation">(</span><span class="token string">'300'</span><span class="token punctuation">,</span> <span class="token string">'301'</span><span class="token punctuation">)</span> <span class="token comment">-- 筛选出创业板的股票</span>
-	<span class="token punctuation">)</span> <span class="token keyword">AS</span> dq
-	<span class="token keyword">LEFT</span> <span class="token keyword">JOIN</span> <span class="token identifier"><span class="token punctuation">`</span>股票基础信息<span class="token punctuation">`</span></span> <span class="token keyword">AS</span> gb <span class="token keyword">ON</span> dq<span class="token punctuation">.</span>股票代码 <span class="token operator">=</span> gb<span class="token punctuation">.</span>股票代码 
-<span class="token keyword">ORDER</span> <span class="token keyword">BY</span>
-	dq<span class="token punctuation">.</span>日期 <span class="token keyword">DESC</span><span class="token punctuation">,</span>
-	dq<span class="token punctuation">.</span>股票代码<span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-
-
-
-<h2 id="最高最低价箱体框架"><a href="#最高最低价箱体框架" class="headerlink" title="最高最低价箱体框架"></a>最高最低价箱体框架</h2><pre class="line-numbers language-sql" data-language="sql"><code class="language-sql"><span class="token keyword">WITH</span> 涨停日期 <span class="token keyword">AS</span> <span class="token punctuation">(</span>
-    <span class="token keyword">SELECT</span>
-        <span class="token keyword">LEFT</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>股票代码<span class="token punctuation">,</span> <span class="token number">6</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 股票代码<span class="token punctuation">,</span>
-        dq<span class="token punctuation">.</span>日期 <span class="token keyword">AS</span> 涨停日期
-    <span class="token keyword">FROM</span>
-        <span class="token punctuation">(</span>
-            <span class="token keyword">SELECT</span> 
-                <span class="token identifier"><span class="token punctuation">`</span>日期<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-                <span class="token identifier"><span class="token punctuation">`</span>股票代码<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-                <span class="token identifier"><span class="token punctuation">`</span>最高<span class="token punctuation">`</span></span><span class="token punctuation">,</span>
-                <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token identifier"><span class="token punctuation">`</span>收盘<span class="token punctuation">`</span></span> <span class="token operator">-</span> <span class="token identifier"><span class="token punctuation">`</span>涨跌额<span class="token punctuation">`</span></span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 昨日收盘价
-            <span class="token keyword">FROM</span> 
-                <span class="token identifier"><span class="token punctuation">`</span>每日行情查询<span class="token punctuation">`</span></span>
-            <span class="token keyword">WHERE</span> 
-                <span class="token identifier"><span class="token punctuation">`</span>日期<span class="token punctuation">`</span></span> <span class="token operator">>=</span> CURDATE<span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">-</span> <span class="token keyword">INTERVAL</span> <span class="token number">100</span> <span class="token keyword">DAY</span> 
-                <span class="token operator">AND</span> <span class="token keyword">LEFT</span><span class="token punctuation">(</span><span class="token identifier"><span class="token punctuation">`</span>股票代码<span class="token punctuation">`</span></span><span class="token punctuation">,</span> <span class="token number">3</span><span class="token punctuation">)</span> <span class="token operator">IN</span> <span class="token punctuation">(</span><span class="token string">'300'</span><span class="token punctuation">,</span> <span class="token string">'301'</span><span class="token punctuation">)</span>
-        <span class="token punctuation">)</span> <span class="token keyword">AS</span> dq
-    <span class="token keyword">WHERE</span>
-        dq<span class="token punctuation">.</span>最高 <span class="token operator">=</span> <span class="token function">ROUND</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>昨日收盘价 <span class="token operator">*</span> <span class="token number">1.2</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span>
-<span class="token punctuation">)</span><span class="token punctuation">,</span>
-价格区间 <span class="token keyword">AS</span> <span class="token punctuation">(</span>
-    <span class="token keyword">SELECT</span>
-        <span class="token keyword">LEFT</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>股票代码<span class="token punctuation">,</span> <span class="token number">6</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 股票代码<span class="token punctuation">,</span>
-        dq<span class="token punctuation">.</span>日期<span class="token punctuation">,</span>
-        dq<span class="token punctuation">.</span>开盘<span class="token punctuation">,</span>
-        dq<span class="token punctuation">.</span>收盘<span class="token punctuation">,</span>
-        zd<span class="token punctuation">.</span>涨停日期
-    <span class="token keyword">FROM</span>
-        <span class="token identifier"><span class="token punctuation">`</span>每日行情查询<span class="token punctuation">`</span></span> <span class="token keyword">AS</span> dq
-    <span class="token keyword">JOIN</span>
-        涨停日期 <span class="token keyword">AS</span> zd
-    <span class="token keyword">ON</span>
-        <span class="token keyword">LEFT</span><span class="token punctuation">(</span>dq<span class="token punctuation">.</span>股票代码<span class="token punctuation">,</span> <span class="token number">6</span><span class="token punctuation">)</span> <span class="token operator">=</span> zd<span class="token punctuation">.</span>股票代码
-    <span class="token keyword">WHERE</span>
-        dq<span class="token punctuation">.</span>日期 <span class="token operator">BETWEEN</span> zd<span class="token punctuation">.</span>涨停日期 <span class="token operator">AND</span> DATE_ADD<span class="token punctuation">(</span>zd<span class="token punctuation">.</span>涨停日期<span class="token punctuation">,</span> <span class="token keyword">INTERVAL</span> <span class="token number">10</span> <span class="token keyword">DAY</span><span class="token punctuation">)</span>
-<span class="token punctuation">)</span><span class="token punctuation">,</span>
-最高最低价 <span class="token keyword">AS</span> <span class="token punctuation">(</span>
-    <span class="token keyword">SELECT</span>
-        股票代码<span class="token punctuation">,</span>
-        涨停日期<span class="token punctuation">,</span>
-        <span class="token function">MAX</span><span class="token punctuation">(</span>GREATEST<span class="token punctuation">(</span>开盘<span class="token punctuation">,</span> 收盘<span class="token punctuation">)</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 最高价<span class="token punctuation">,</span> <span class="token comment">-- 开盘价和收盘价的最大值</span>
-        <span class="token function">MIN</span><span class="token punctuation">(</span><span class="token keyword">CASE</span> <span class="token keyword">WHEN</span> 日期 <span class="token operator">></span> 涨停日期 <span class="token keyword">THEN</span> LEAST<span class="token punctuation">(</span>开盘<span class="token punctuation">,</span> 收盘<span class="token punctuation">)</span> <span class="token keyword">END</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 最低价 <span class="token comment">-- 排除涨停当天的最低价</span>
-    <span class="token keyword">FROM</span>
-        价格区间
-    <span class="token keyword">GROUP</span> <span class="token keyword">BY</span>
-        股票代码<span class="token punctuation">,</span>
-        涨停日期
-<span class="token punctuation">)</span><span class="token punctuation">,</span>
-最高最低价日期 <span class="token keyword">AS</span> <span class="token punctuation">(</span>
-    <span class="token keyword">SELECT</span>
-        p<span class="token punctuation">.</span>股票代码<span class="token punctuation">,</span>
-        p<span class="token punctuation">.</span>涨停日期<span class="token punctuation">,</span>
-        h<span class="token punctuation">.</span>最高价<span class="token punctuation">,</span>
-        h<span class="token punctuation">.</span>最低价<span class="token punctuation">,</span>
-        <span class="token function">MAX</span><span class="token punctuation">(</span><span class="token keyword">CASE</span> <span class="token keyword">WHEN</span> GREATEST<span class="token punctuation">(</span>p<span class="token punctuation">.</span>开盘<span class="token punctuation">,</span> p<span class="token punctuation">.</span>收盘<span class="token punctuation">)</span> <span class="token operator">=</span> h<span class="token punctuation">.</span>最高价 <span class="token keyword">THEN</span> p<span class="token punctuation">.</span>日期 <span class="token keyword">END</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 最高价日期<span class="token punctuation">,</span>
-        <span class="token function">MIN</span><span class="token punctuation">(</span><span class="token keyword">CASE</span> <span class="token keyword">WHEN</span> LEAST<span class="token punctuation">(</span>p<span class="token punctuation">.</span>开盘<span class="token punctuation">,</span> p<span class="token punctuation">.</span>收盘<span class="token punctuation">)</span> <span class="token operator">=</span> h<span class="token punctuation">.</span>最低价 <span class="token operator">AND</span> p<span class="token punctuation">.</span>日期 <span class="token operator">></span> p<span class="token punctuation">.</span>涨停日期 <span class="token keyword">THEN</span> p<span class="token punctuation">.</span>日期 <span class="token keyword">END</span><span class="token punctuation">)</span> <span class="token keyword">AS</span> 最低价日期 <span class="token comment">-- 排除涨停当天的最低价日期</span>
-    <span class="token keyword">FROM</span>
-        价格区间 <span class="token keyword">AS</span> p
-    <span class="token keyword">JOIN</span>
-        最高最低价 <span class="token keyword">AS</span> h
-    <span class="token keyword">ON</span>
-        p<span class="token punctuation">.</span>股票代码 <span class="token operator">=</span> h<span class="token punctuation">.</span>股票代码
-        <span class="token operator">AND</span> p<span class="token punctuation">.</span>涨停日期 <span class="token operator">=</span> h<span class="token punctuation">.</span>涨停日期
-    <span class="token keyword">GROUP</span> <span class="token keyword">BY</span>
-        p<span class="token punctuation">.</span>股票代码<span class="token punctuation">,</span>
-        p<span class="token punctuation">.</span>涨停日期<span class="token punctuation">,</span>
-        h<span class="token punctuation">.</span>最高价<span class="token punctuation">,</span>
-        h<span class="token punctuation">.</span>最低价
-<span class="token punctuation">)</span>
-<span class="token keyword">SELECT</span>
-    股票代码<span class="token punctuation">,</span>
-    涨停日期<span class="token punctuation">,</span>
-    最高价<span class="token punctuation">,</span>
-    最低价<span class="token punctuation">,</span>
-    最高价日期<span class="token punctuation">,</span>
-    最低价日期<span class="token punctuation">,</span>
-    <span class="token keyword">CASE</span>
-        <span class="token keyword">WHEN</span> 最低价 <span class="token operator">=</span> <span class="token number">0</span> <span class="token keyword">THEN</span> <span class="token boolean">NULL</span>
-        <span class="token keyword">ELSE</span> <span class="token function">ROUND</span><span class="token punctuation">(</span><span class="token punctuation">(</span>最高价 <span class="token operator">-</span> 最低价<span class="token punctuation">)</span> <span class="token operator">/</span> 最低价<span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">)</span>
-    <span class="token keyword">END</span> <span class="token keyword">AS</span> 比例
-<span class="token keyword">FROM</span>
-    最高最低价日期
-<span class="token keyword">ORDER</span> <span class="token keyword">BY</span>
-    涨停日期 <span class="token keyword">DESC</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-
 ]]></content>
       <categories>
-        <category>股票</category>
+        <category>生活</category>
       </categories>
       <tags>
-        <tag>数据源</tag>
+        <tag>问财</tag>
       </tags>
   </entry>
   <entry>
@@ -1736,28 +1890,6 @@ ORDER BY   &#96;每日行情查询&#96;.&#96;日期&#96; DESC, &#96;每日行情
       </categories>
       <tags>
         <tag>代码</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>问财数据获取</title>
-    <url>/posts/d864c049/</url>
-    <content><![CDATA[<p>问财数据获取环境搭建</p>
-<span id="more"></span>
-
-<ol>
-<li>安装pycharm，并激活</li>
-<li>安装node.js，使用安装包安装，版本号为20.xx</li>
-<li>安装python，版本无关-通过pycharm 安装</li>
-<li>重启电脑</li>
-<li>在运行代码界面安装提示模块</li>
-<li>完毕</li>
-</ol>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>问财</tag>
       </tags>
   </entry>
 </search>
