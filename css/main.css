@@ -1385,7 +1385,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #e56b81;
+    background: #4a4532;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -3216,4 +3216,8 @@ h6 code {
   .gutter pre {
     font-size: 0.76em !important;
   }
+}
+/* 所有带有 id 的元素在成为滚动目标时，顶部留出 80px 空白 */
+[id] {
+  scroll-margin-top: 80px;
 }
