@@ -1385,7 +1385,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #4a4532;
+    background: #4aff61;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -3220,4 +3220,8 @@ h6 code {
 /* 所有带有 id 的元素在成为滚动目标时，顶部留出 80px 空白 */
 [id] {
   scroll-margin-top: 80px;
+}
+/* 阅读全文增加圆角效果*/
+.btn {
+  border-radius: 10px;
 }
