@@ -3084,4 +3084,170 @@ h1 code, h2 code, h3 code, h4 code, h5 code, h6 code &#123;
         <tag>问财</tag>
       </tags>
   </entry>
+  <entry>
+    <title>26-2-24-浩通科技</title>
+    <url>/posts/f74aaabd/</url>
+    <content><![CDATA[<p>日线级别的2买，在30分钟也没有下跌趋势，只存在3根下跌的段</p>
+<span id="more"></span>
+<div class="media-split-layout media-split-layout-7">
+        <div class="image-container">
+            <img src="/images/浩通科技-2-24.png" >
+        </div>
+        <div class="text-container">
+            <!-- 第1块：top 0%，高度 1/7 ≈ 14.2857% -->
+            <div class="text-block" style="top: 0%; height: 14.2857%;">
+                <h5 id="section-1">周线</h5>
+                <p></p>
+                </br><a href="#section-2">跳转日线 →</a>
+            </div>
+            <!-- 第2块：top 14.2857%，高度 14.2857% -->
+            <div class="text-block" style="top: 14.2857%; height: 14.2857%;">
+                <h5 id="section-2">日线</h5>
+                <p>KDJ拐头，日线2买的位置，是一个上升趋势，在内部结构寻找明确的下跌趋势</p>
+                </br><a href="#section-4">跳转30分钟 →</a>
+            </div>
+            <!-- 第3块：top 28.5714%，高度 14.2857% -->
+            <div class="text-block" style="top: 28.5714%; height: 14.2857%;">
+                <h5 id="section-3">60分钟</h5>
+                <p></p>
+            </div>
+            <!-- 第4块：top 42.8571%，高度 14.2857% -->
+            <div class="text-block" style="top: 42.8571%; height: 14.2857%;">
+                <h5 id="section-4">30分钟</h5>
+                <p>不存在标准中枢，存在明确的下跌段</p>
+                </br><a href="#section-6">跳转5分钟 →</a>
+            </div>
+            <!-- 第5块：top 57.1429%，高度 14.2857% -->
+            <div class="text-block" style="top: 57.1429%; height: 14.2857%;">
+                <h5 id="section-5">15分钟</h5>
+                <p></p>
+            </div>
+            <!-- 第6块：top 71.4286%，高度 14.2857% -->
+            <div class="text-block" style="top: 71.4286%; height: 14.2857%;">
+                <h5 id="section-6">5分钟</h5>
+                <p>找到明确的下跌趋势，
+                </br> 去1分钟判定背驰的有效性</p>
+                </br><a href="#section-7">跳转1分钟 →</a>
+            </div>
+            <!-- 新增第7块：top 85.7143%，高度 14.2857% -->
+            <div class="text-block" style="top: 85.7143%; height: 14.2857%;">
+                <h5 id="section-7">1分钟</h5>
+                <p>买点破坏原有的上涨结构，中枢存在相互交接的部分，升级到5分钟</p>
+                </br><a href="#section-6">跳转5分钟 →</a>
+            </div>
+        </div>
+    </div>
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>复盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>26-2-27-缠论深度解析：盘整背驰的核心要点与常见疑问</title>
+    <url>/posts/b19033e4/</url>
+    <content><![CDATA[<p>在缠论的实际应用中，盘整背驰是一个高频出现且极具操作价值的概念。它帮助我们判断一个盘整走势是否即将终结，从而把握高抛低吸的时机。本文结合之前的讨论，对盘整背驰的定义、核心要求以及一些容易混淆的细节进行系统总结。</p>
+<span id="more"></span>
+
+<h2 id="一、什么是盘整背驰？"><a href="#一、什么是盘整背驰？" class="headerlink" title="一、什么是盘整背驰？"></a>一、什么是盘整背驰？</h2><p><strong>定义</strong>：在一个盘整走势类型中，围绕<strong>唯一一个中枢</strong>，将<strong>进入段</strong>与<strong>离开段</strong>的力度进行比较。如果离开段的力度小于进入段，则构成盘整背驰。</p>
+<ul>
+<li><strong>标准结构</strong>：<code>a + A + b</code><ul>
+<li><strong>A</strong>： 一个中枢。</li>
+<li><strong>a</strong>： 进入中枢的走势段（进入段）。</li>
+<li><strong>b</strong>： 离开中枢的走势段（离开段）。</li>
+</ul>
+</li>
+<li><strong>判断标准</strong>：<strong>b的力度 &lt; a的力度</strong>。</li>
+<li><strong>力度量化</strong>：通常使用MACD指标，比较a段和b段所对应的红绿柱<strong>总面积</strong>（或最高峰值）。面积越小，说明动能衰竭越明显。</li>
+</ul>
+<h2 id="二、离开段的严格要求"><a href="#二、离开段的严格要求" class="headerlink" title="二、离开段的严格要求"></a>二、离开段的严格要求</h2><p>离开段（b段）是判断盘整背驰的关键，它必须满足以下条件：</p>
+<ol>
+<li><strong>级别要求</strong>：必须是<strong>次级别</strong>的完整走势类型。</li>
+<li><strong>空间要求</strong>：必须<strong>脱离中枢的区间</strong>（即创出新高或新低），否则仍属中枢震荡。</li>
+<li><strong>方向要求</strong>：必须与进入段（a段）<strong>同向</strong>。这是比较力度的前提。</li>
+<li><strong>比较要求</strong>：是盘整背驰中的“被比较对象”。</li>
+</ol>
+<h2 id="三、深入辨析：几个容易混淆的细节"><a href="#三、深入辨析：几个容易混淆的细节" class="headerlink" title="三、深入辨析：几个容易混淆的细节"></a>三、深入辨析：几个容易混淆的细节</h2><p>在实战和理论探讨中，以下几个问题经常困扰初学者：</p>
+<h3 id="1-离开段最早是第几段？可以是第6段吗？"><a href="#1-离开段最早是第几段？可以是第6段吗？" class="headerlink" title="1. 离开段最早是第几段？可以是第6段吗？"></a>1. 离开段最早是第几段？可以是第6段吗？</h3><ul>
+<li><strong>最早是第5段</strong>：在一个最简洁的盘整中，1段进入，2、3、4段构成中枢，第5段即为离开段。</li>
+<li><strong>不能是第6段</strong>：走势段的方向是交替的。假设进入段为第1段（方向向上），那么奇数段（1、3、5、7…）方向向上，偶数段（2、4、6…）方向向下。离开段必须与进入段同向（向上），因此它只能是奇数段，绝不可能是第6段。如果中枢延伸，离开段可以是第7段、第9段等。</li>
+</ul>
+<h3 id="2-与进入段相反的走势是什么？"><a href="#2-与进入段相反的走势是什么？" class="headerlink" title="2. 与进入段相反的走势是什么？"></a>2. 与进入段相反的走势是什么？</h3><p>如果一段走势的方向与进入段相反，它通常扮演以下角色：</p>
+<ul>
+<li><strong>中枢的构筑段</strong>：它是构成中枢的三段次级别走势之一（例如在上涨盘整中，进入段向上，那么向下的那段就是中枢的回调段）。</li>
+<li><strong>不参与背驰比较</strong>：它不用于与进入段进行盘整背驰的比较。</li>
+</ul>
+<h3 id="3-盘整背驰与股价“下行线”的关系"><a href="#3-盘整背驰与股价“下行线”的关系" class="headerlink" title="3. 盘整背驰与股价“下行线”的关系"></a>3. 盘整背驰与股价“下行线”的关系</h3><p>盘整背驰的判断核心是<strong>力度</strong>，与股价是否跌破某条均线或趋势线没有直接关系。</p>
+<ul>
+<li><strong>股价必须脱离中枢</strong>：当股价离开中枢时，自然已经突破或跌破了中枢的上下轨。这是形成离开段的前提，而非背驰的额外条件。</li>
+<li><strong>力度是关键</strong>：真正判断背驰的，是看离开段在创出新高&#x2F;新低时，其内在的<strong>上涨&#x2F;下跌动能</strong>是否比进入段衰竭了（即MACD面积更小）。如果力度没有减小，即使跌破了重要支撑线，也不是背驰，而是趋势延续或加速。</li>
+</ul>
+<h3 id="4-如果是两个中枢呢？"><a href="#4-如果是两个中枢呢？" class="headerlink" title="4. 如果是两个中枢呢？"></a>4. 如果是两个中枢呢？</h3><p>在缠论中，如果有两个同向且不重叠的中枢，就不再是盘整，而是<strong>趋势</strong>。此时需要判断的是<strong>趋势背驰</strong>。</p>
+<ul>
+<li><strong>结构</strong>：<code>a + A + b + B + c</code></li>
+<li><strong>判断标准</strong>：比较<strong>进入段a</strong>与<strong>最后一个离开段c</strong>的力度。如果c的力度小于a，则构成趋势背驰。</li>
+<li><strong>保证力度</strong>：趋势背驰的转折保证力度通常大于盘整背驰。</li>
+</ul>
+<h3 id="5-盘整背驰与传统顶-底背离的关系"><a href="#5-盘整背驰与传统顶-底背离的关系" class="headerlink" title="5. 盘整背驰与传统顶&#x2F;底背离的关系"></a>5. 盘整背驰与传统顶&#x2F;底背离的关系</h3><p>很多初学者会将上行中枢的盘整背驰等同于“顶背离”，下行中枢的盘整背驰等同于“底背离”。从表面形态上看，确实如此：价格创新高（新低），但指标（MACD面积）缩小，都是动能衰竭的信号。然而，缠论盘整背驰对结构有更严格的要求，使得它比传统背离更具操作精度。</p>
+<ul>
+<li><strong>相同点</strong>：都表现为价格与指标的反向运动（价格新高，指标未新高）。</li>
+<li><strong>核心区别</strong>：<ul>
+<li><strong>结构前提</strong>：盘整背驰必须发生在“进入段+中枢+离开段”的标准结构中，即中间必须有一个明确的中枢（至少三段次级别走势的重叠）。而传统背离往往只看相邻两段走势的对比，不要求中间有中枢。</li>
+<li><strong>噪音过滤</strong>：由于中枢的存在，盘整背驰过滤掉了中枢内部的指标缩小（那只是中枢震荡），只有当股价脱离中枢创出新高（新低）且力度减弱时，才构成盘整背驰。这使得盘整背驰的信号更加可靠。</li>
+<li><strong>操作保证</strong>：盘整背驰后，价格至少会拉回中枢区间，提供了明确的回补或止损参考。而传统背离后，价格可能只是小幅回调后继续原趋势，容易出现多次背离。</li>
+</ul>
+</li>
+</ul>
+<p>因此，可以理解为：<strong>缠论的盘整背驰是经过“中枢”筛选后的、最标准的一种顶底背离形态。</strong> 在实战中，当你看到顶背离时，不妨检查一下中间是否有一个清晰的中枢，如果有，那就是一个值得重视的盘整背驰信号。</p>
+<h2 id="四、总结与对比"><a href="#四、总结与对比" class="headerlink" title="四、总结与对比"></a>四、总结与对比</h2><table>
+<thead>
+<tr>
+<th align="left">特征</th>
+<th align="left">盘整背驰</th>
+<th align="left">趋势背驰</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>中枢数量</strong></td>
+<td align="left">1个</td>
+<td align="left">至少2个</td>
+</tr>
+<tr>
+<td align="left"><strong>基本结构</strong></td>
+<td align="left">a + A + b</td>
+<td align="left">a + A + b + B + c</td>
+</tr>
+<tr>
+<td align="left"><strong>比较对象</strong></td>
+<td align="left">a段 与 b段</td>
+<td align="left">a段 与 c段</td>
+</tr>
+<tr>
+<td align="left"><strong>方向要求</strong></td>
+<td align="left">b段必须与a段同向</td>
+<td align="left">c段必须与a段同向</td>
+</tr>
+<tr>
+<td align="left"><strong>操作意义</strong></td>
+<td align="left">保证一段次级别回拉中枢</td>
+<td align="left">保证更大级别的走势转折</td>
+</tr>
+</tbody></table>
+<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>盘整背驰是缠论中精准狙击波段转折点的利器。掌握它的关键在于：</p>
+<ol>
+<li><strong>认清结构</strong>：确保自己面对的是一个标准的盘整（只有一个中枢）。</li>
+<li><strong>找准对象</strong>：正确识别进入段和离开段，并确认它们方向相同。</li>
+<li><strong>比较力度</strong>：熟练运用MACD等工具辅助判断动能强弱。</li>
+</ol>
+<p>希望这篇总结能帮助你更好地理解和运用盘整背驰。在实际看图时，不妨多复盘，找到那些经典的盘整背驰案例，相信你会有更深的理解。</p>
+]]></content>
+      <categories>
+        <category>股票</category>
+      </categories>
+      <tags>
+        <tag>缠论</tag>
+      </tags>
+  </entry>
 </search>
